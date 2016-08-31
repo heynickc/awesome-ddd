@@ -4,14 +4,26 @@
 
 ## Contents
 
+- [Books](#books)
 - [Training Courses](#training-courses)
 - [Video Collections](#videocollections)
 - [Mailing Lists](#mailing-lists)
-- [Books](#books)
 - [Blogs](#blogs)
 - [Sample Projects](#sampleprojects)
 - [Libraries and Frameworks](#libraries-and-frameworks)
 - [Frameworks](#frameworks)
+
+## Books
+
+- [Domain-Driven Design: Tackling the Complexity at the Heart of Software](https://amzn.com/0321125215) - Eric Evans.  The canonical book that coined the term "Domain-Driven Design."  Also known as the "Blue Book."
+- [Implementing Domain-Driven Design](https://vaughnvernon.co/?page_id=168#iddd) - Vaughn Vernon.  Also a canonical book presenting a top-down approach to understanding Domain-Driven Design.  Also known as the "Red Book."
+- [Domain-Driven Design Distilled](https://www.amazon.com/Domain-Driven-Design-Distilled-Vaughn-Vernon/dp/0134434420) - Vaughn Vernon.  Title says it all.  Very good starter book before you read *Implementing Domain-Driven Design* or *Domain Driven Design: Tackling the Complexity at the Heart of Software.*  
+- [Patterns, Principles, and Practices of Domain-Driven Design (1st Edition)](https://www.amazon.com/Patterns-Principles-Practices-Domain-Driven-Design/dp/1118714709) - Scott Millet and Nick Tune.  "Methods for managing complex software construction following the practices, principles and patterns of Domain-Driven Design with code examples in C#"
+- [Microsoft .NET - Architecting Applications for the Enterprise (2nd Edition)](https://www.amazon.com/Microsoft-NET-Architecting-Applications-Enterprise/dp/0735685355/) - Dino Esposito and Andrea Saltarello.  "A software architect’s digest of core practices, pragmatically applied"
+- [Living Documentation by design, with Domain-Driven Design](https://leanpub.com/livingdocumentation) - Cyrille Martraire.  "Discover how a Living Documentation can help you in all aspects of your projects, from the business goals to the business domain knowledge, architecture and design, processes and deployment, even if you hate writing documentation."
+- [Introducing Event Storming: An act of Deliberate Collective Learning](https://leanpub.com/introducing_eventstorming) - Alberto Brandolini.  A must read.  "The deepest tutorial and explanation about EventStorming, straight from the inventor." 
+- [The Anatomy of Domain-Driven Design - The Infographic](https://leanpub.com/theanatomyofdomain-drivendesign) - Scott Millet and Samuel Knight.  An infographic on the anatomy of Domain-Driven Design.
+- [CQRS Journey](https://msdn.microsoft.com/en-us/library/jj554200.aspx).  Microsoft Patterns and Practices.  Exploring CQRS and Event Sourcing.
 
 ## Training Courses
 
@@ -37,18 +49,6 @@
 - [DDD/CQRS Google Group](https://groups.google.com/forum/?utm_source=digest&utm_medium=email#!forum/dddcqrs) - An active mailing list and an excellent resource to ask questions and learn fine-grained details about DDD/CQRS.
 - [Domain Driven Design Yahoo Group](https://groups.yahoo.com/neo/groups/domaindrivendesign/conversations/messages) - "This group is for discussion of the domain-driven style of designing software, and the book by Eric Evans, Domain-Driven Design: Tackling Complexity in the Heart of Business Software. Questions and discussion of the book content is welcome here, as well as sharing of experiences applying DDD, and discussions of the topic in general."
 - [DDDinPHP Google Group](https://groups.google.com/forum/#!forum/dddinphp) - "The place to discuss Domain-Driven Design, CQRS, Event Sourcing, Model Storming, Hexagonal Architecture, Distributed Systems, Reactive... in the context of PHP."
-
-## Books
-
-- [Domain-Driven Design: Tackling the Complexity at the Heart of Software](https://amzn.com/0321125215) - Eric Evans.  The canonical book that coined the term "Domain-Driven Design."  Also known as the "Blue Book."
-- [Implementing Domain-Driven Design](https://vaughnvernon.co/?page_id=168#iddd) - Vaughn Vernon.  Also a canonical book presenting a top-down approach to understanding Domain-Driven Design.  Also known as the "Red Book."
-- [Domain-Driven Design Distilled](https://www.amazon.com/Domain-Driven-Design-Distilled-Vaughn-Vernon/dp/0134434420) - Vaughn Vernon.  Title says it all.  Very good starter book before you read *Implementing Domain-Driven Design* or *Domain Driven Design: Tackling the Complexity at the Heart of Software.*  
-- [Patterns, Principles, and Practices of Domain-Driven Design (1st Edition)](https://www.amazon.com/Patterns-Principles-Practices-Domain-Driven-Design/dp/1118714709) - Scott Millet and Nick Tune.  "Methods for managing complex software construction following the practices, principles and patterns of Domain-Driven Design with code examples in C#"
-- [Microsoft .NET - Architecting Applications for the Enterprise (2nd Edition)](https://www.amazon.com/Microsoft-NET-Architecting-Applications-Enterprise/dp/0735685355/) - Dino Esposito and Andrea Saltarello.  "A software architect’s digest of core practices, pragmatically applied"
-- [Living Documentation by design, with Domain-Driven Design](https://leanpub.com/livingdocumentation) - Cyrille Martraire.  "Discover how a Living Documentation can help you in all aspects of your projects, from the business goals to the business domain knowledge, architecture and design, processes and deployment, even if you hate writing documentation."
-- [Introducing Event Storming: An act of Deliberate Collective Learning](https://leanpub.com/introducing_eventstorming) - Alberto Brandolini.  A must read.  "The deepest tutorial and explanation about EventStorming, straight from the inventor." 
-- [The Anatomy of Domain-Driven Design - The Infographic](https://leanpub.com/theanatomyofdomain-drivendesign) - Scott Millet and Samuel Knight.  An infographic on the anatomy of Domain-Driven Design.
-- [CQRS Journey](https://msdn.microsoft.com/en-us/library/jj554200.aspx).  Microsoft Patterns and Practices.  Exploring CQRS and Event Sourcing.
 
 ## Blogs
 
