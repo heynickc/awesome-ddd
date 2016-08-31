@@ -4,40 +4,14 @@
 
 ## Contents
 
-- [Blogs](#blogs)
-- [Video Collections](#videocollections)
 - [Training Courses](#training-courses)
+- [Video Collections](#videocollections)
 - [Mailing Lists](#mailing-lists)
 - [Books](#books)
+- [Blogs](#blogs)
 - [Sample Projects](#sampleprojects)
 - [Libraries and Frameworks](#libraries-and-frameworks)
 - [Frameworks](#frameworks)
-
-## Blogs
-
-
-- [Daniel Whittaker: CQRS and Event Sourcing](http://danielwhittaker.me)
-- [Cyrille Martraire](http://cyrille.martraire.com)
-- [Jimmy Bogard: Los Techies](https://lostechies.com/jimmybogard/)
-- [InfoQ Blog (tagged "Domain-Driven Design")](https://www.infoq.com/domaindrivendesign/)
-- [Dan North](https://dannorth.net/blog/)
-- [Mike Mogosanu: Sapiens Works](http://blog.sapiensworks.com)
-- [Christian Posta](http://blog.christianposta.com)
-- [Vladimir Khorikov: Enterprise Craftsmanship](http://enterprisecraftsmanship.com)
-- [TechBeacon (search "Domain-Driven Design")](http://techbeacon.com/)
-- [Derek Comarin: CodeOpinion](http://codeopinion.com)
-- [Alberto Brandolini: Ziobrando's Lair](https://ziobrando.blogspot.it)
-- [Jérémie Chassaing: Think Before Coding](https://thinkbeforecoding.github.io/)
-- [Adam Brodziak](https://medium.com/@adambrodziak)
-- [Vaughn Vernon: Software Craftsman](https://vaughnvernon.co)
-- [Nick Chamberlain: Build Please](https://buildplease.com)
-
-## Video Collections
-
-- [DDD Europe](https://dddeurope.com) - Recordings of talks given at DDD Europe
-- [SkillsCasts by SkillsMatter](https://skillsmatter.com/skillscasts) - Searching DDD returns various talks given by Greg Young, Alberto Brandolini, and Dan North.
-- [Alberto Brandolini: Event Storming (YouTube)](https://www.youtube.com/watch?v=veTVAN0oEkQ&list=PLve553MhJLs4YkEnHmOjWJv0B-6WY0-JI) - A YouTube collection of talks given by Alberto Brandolini on Event Storming.
-- [Greg Young (YouTube)](https://www.youtube.com/watch?v=JHGkaShoyNs&list=PL5XpN_ZVafKLePdxruDfdfi-IiZtXz-k9) - A YouTube collection of various talks given by Greg Young
 
 ## Training Courses
 
@@ -45,11 +19,18 @@
 - [Greg Young's CQRS Class](http://subscriptions.viddler.com/GregYoung/) - These videos include the entirety of Greg Young's DDD, CQRS, and Event Sourcing class
 - [Vaughn Vernon: Distilling Domain-Driven Design](https://forcomprehension.com/) - Vaughn Vernon's online training course
 - [Nomad PHP: Introduction to Event Sourcing and CQRS](https://nomadphp.com/product/introduction-event-sourcing-cqrs/) - Beau Simensen. 
-- [Shawn McCool and Mitchell van Wijngaarden: Event Sourcery](https://eventsourcery.com/)
+- [Shawn McCool and Mitchell van Wijngaarden: Event Sourcery](https://eventsourcery.com/) - Introduction to DDD, CQRS, and Event Sourcing
 - Pluralsight
 	 - [Domain-Driven Design Fundamentals](https://www.pluralsight.com/courses/domain-driven-design-fundamentals) - Steve Smith and Julie Lerman.  "Teaches the fundamentals of Domain-Driven Design (DDD) through a demonstration of customer interactions and a complex demo application, along with advice from Eric Evans"
 	 - [Domain-Driven Design in Practice](https://www.pluralsight.com/courses/domain-driven-design-in-practice) - Vladimir Khorikov.  "A descriptive, in-depth walk-through for applying Domain-Driven Design principles in practice.""
 	 - [Modern Software Architecture: Domain Models, CQRS, and Event Sourcing](https://www.pluralsight.com/courses/modern-software-architecture-domain-models-cqrs-event-sourcing) - Dino Esposito.  "This course covers DDD analysis patterns helpful in discovering the top-level architecture of a business domain. Architects and developers will find details of implementation patterns such as Domain Model, CQRS, and Event Sourcing.""
+
+## Video Collections
+
+- [DDD Europe](https://dddeurope.com) - Recordings of talks given at DDD Europe
+- [SkillsCasts by SkillsMatter](https://skillsmatter.com/skillscasts) - Searching DDD returns various talks given by Greg Young, Alberto Brandolini, and Dan North.
+- [Alberto Brandolini: Event Storming (YouTube)](https://www.youtube.com/watch?v=veTVAN0oEkQ&list=PLve553MhJLs4YkEnHmOjWJv0B-6WY0-JI) - A YouTube collection of talks given by Alberto Brandolini on Event Storming.
+- [Greg Young (YouTube)](https://www.youtube.com/watch?v=JHGkaShoyNs&list=PL5XpN_ZVafKLePdxruDfdfi-IiZtXz-k9) - A YouTube collection of various talks given by Greg Young
 
 ## Mailing Lists
 
@@ -71,6 +52,24 @@ https://leanpub.com/theanatomyofdomain-drivendesign
 
 https://msdn.microsoft.com/en-us/library/jj554200.aspx
 
+## Blogs
+
+- [Daniel Whittaker: CQRS and Event Sourcing](http://danielwhittaker.me)
+- [Cyrille Martraire](http://cyrille.martraire.com)
+- [Jimmy Bogard: Los Techies](https://lostechies.com/jimmybogard/)
+- [InfoQ Blog (tagged "Domain-Driven Design")](https://www.infoq.com/domaindrivendesign/)
+- [Dan North](https://dannorth.net/blog/)
+- [Mike Mogosanu: Sapiens Works](http://blog.sapiensworks.com)
+- [Christian Posta](http://blog.christianposta.com)
+- [Vladimir Khorikov: Enterprise Craftsmanship](http://enterprisecraftsmanship.com)
+- [TechBeacon (search "Domain-Driven Design")](http://techbeacon.com/)
+- [Derek Comarin: CodeOpinion](http://codeopinion.com)
+- [Alberto Brandolini: Ziobrando's Lair](https://ziobrando.blogspot.it)
+- [Jérémie Chassaing: Think Before Coding](https://thinkbeforecoding.github.io/)
+- [Adam Brodziak](https://medium.com/@adambrodziak)
+- [Vaughn Vernon: Software Craftsman](https://vaughnvernon.co)
+- [Nick Chamberlain: Build Please](https://buildplease.com)
+
 ## Sample Projects
 
 - [Adaptive Consulting: Reactive Trader Cloud](https://github.com/AdaptiveConsulting/ReactiveTraderCloud) - Adaptive Consulting.  Reactive Trader Cloud.
@@ -82,7 +81,6 @@ https://github.com/dcomartin/DDD-CQRS-ES-Example - Demetri Comartin
 https://github.com/ToJans/Scritchy Tom Janssens CQRS without the Plumbing (http://www.youtube.com/watch?v=5DKTFZD3hu8)
 https://github.com/thinkbeforecoding/m-r - Jeremie Chassaing SimpleCQRS in F#
 https://github.com/thinkbeforecoding/FsUno.Prod - https://thinkbeforecoding.github.io/FsUno.Prod/
-
 
 ## Libraries and Frameworks
 
