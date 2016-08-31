@@ -20,7 +20,7 @@
 - [Vaughn Vernon: Distilling Domain-Driven Design](https://forcomprehension.com/) - Vaughn Vernon's online training course
 - [Nomad PHP: Introduction to Event Sourcing and CQRS](https://nomadphp.com/product/introduction-event-sourcing-cqrs/) - Beau Simensen. 
 - [Shawn McCool and Mitchell van Wijngaarden: Event Sourcery](https://eventsourcery.com/) - Introduction to DDD, CQRS, and Event Sourcing
-- Pluralsight
+- [Pluralsight](https://pluralsight.com)
 	 - [Domain-Driven Design Fundamentals](https://www.pluralsight.com/courses/domain-driven-design-fundamentals) - Steve Smith and Julie Lerman.  "Teaches the fundamentals of Domain-Driven Design (DDD) through a demonstration of customer interactions and a complex demo application, along with advice from Eric Evans"
 	 - [Domain-Driven Design in Practice](https://www.pluralsight.com/courses/domain-driven-design-in-practice) - Vladimir Khorikov.  "A descriptive, in-depth walk-through for applying Domain-Driven Design principles in practice.""
 	 - [Modern Software Architecture: Domain Models, CQRS, and Event Sourcing](https://www.pluralsight.com/courses/modern-software-architecture-domain-models-cqrs-event-sourcing) - Dino Esposito.  "This course covers DDD analysis patterns helpful in discovering the top-level architecture of a business domain. Architects and developers will find details of implementation patterns such as Domain Model, CQRS, and Event Sourcing.""
@@ -35,7 +35,7 @@
 ## Mailing Lists
 
 - [DDD/CQRS Google Group](https://groups.google.com/forum/?utm_source=digest&utm_medium=email#!forum/dddcqrs) - An active mailing list and an excellent resource to ask questions and learn fine-grained details about DDD/CQRS.
-- [Domain Driven Design Yahoo Group](https://groups.yahoo.com/neo/groups/domaindrivendesign/conversations/messages) - "This group is for discussion of the domain-driven style of designing software, and the book by Eric Evans, Domain-Driven Design: Tackling Complexity in the Heart of Business Software. Questions and discussion of the book content is welcome here, as well as sharing of experiences applying DDD, and discussions of the topic in general.""
+- [Domain Driven Design Yahoo Group](https://groups.yahoo.com/neo/groups/domaindrivendesign/conversations/messages) - "This group is for discussion of the domain-driven style of designing software, and the book by Eric Evans, Domain-Driven Design: Tackling Complexity in the Heart of Business Software. Questions and discussion of the book content is welcome here, as well as sharing of experiences applying DDD, and discussions of the topic in general."
 - [DDDinPHP Google Group](https://groups.google.com/forum/#!forum/dddinphp) - "The place to discuss Domain-Driven Design, CQRS, Event Sourcing, Model Storming, Hexagonal Architecture, Distributed Systems, Reactive... in the context of PHP."
 
 ## Books
@@ -54,6 +54,7 @@ https://msdn.microsoft.com/en-us/library/jj554200.aspx
 
 ## Blogs
 
+- [Nick Chamberlain: Build Please](https://buildplease.com)
 - [Daniel Whittaker: CQRS and Event Sourcing](http://danielwhittaker.me)
 - [Cyrille Martraire](http://cyrille.martraire.com)
 - [Jimmy Bogard: Los Techies](https://lostechies.com/jimmybogard/)
@@ -68,16 +69,15 @@ https://msdn.microsoft.com/en-us/library/jj554200.aspx
 - [Jérémie Chassaing: Think Before Coding](https://thinkbeforecoding.github.io/)
 - [Adam Brodziak](https://medium.com/@adambrodziak)
 - [Vaughn Vernon: Software Craftsman](https://vaughnvernon.co)
-- [Nick Chamberlain: Build Please](https://buildplease.com)
 
 ## Sample Projects
 
 - [Adaptive Consulting: Reactive Trader Cloud](https://github.com/AdaptiveConsulting/ReactiveTraderCloud) - Adaptive Consulting.  Reactive Trader Cloud.
-https://gist.github.com/swlaschin/2ad8627d0400b2ab70e9f3da08902c9d - Scott Wlaschin.  Example of Domain Modeling in F#.
-https://github.com/gregoryyoung/m-r - Greg Young's "Simplest Thing" CQRS with Event Sourcing project.
-https://naa4e.codeplex.com/SourceControl/latest Dino Esposito’s Book NAA4E v2 Companion Code
-https://github.com/mspnp/cqrs-journey - CQRS Journey
-https://github.com/dcomartin/DDD-CQRS-ES-Example - Demetri Comartin
+- [Scott Wlashin: Example of Domain-Driven Design in F#](https://gist.github.com/swlaschin/2ad8627d0400b2ab70e9f3da08902c9d) - Scott Wlaschin.  Example of Domain Driven Design for the game of checkers. There are two files: a scratch file with a series of designs, and a final version.
+- [Greg Young: SimpleCQRS](https://github.com/gregoryyoung/m-r) - Greg Young's "Simplest Thing" CQRS with Event Sourcing project.
+- [Dino Esposito: Companion Code for Microsoft .NET Architecting Applications for the Enterprise](https://naa4e.codeplex.com/SourceControl/latest) Dino Esposito.
+- [Microsoft Patterns and Practices: CQRS Journey Sample Code](https://github.com/mspnp/cqrs-journey) - Sample code from Microsoft Patterns and Practices: CQRS Journey.
+[Derek Comartin: CQRS-DDD Example](https://github.com/dcomartin/DDD-CQRS-ES-Example) - "Domain Driven Design, CQRS, & Event Sourcing Example using GetEventStore, CommonDomain, NServiceBus, Entity Framework, SQL Server, SignalR."
 https://github.com/ToJans/Scritchy Tom Janssens CQRS without the Plumbing (http://www.youtube.com/watch?v=5DKTFZD3hu8)
 https://github.com/thinkbeforecoding/m-r - Jeremie Chassaing SimpleCQRS in F#
 https://github.com/thinkbeforecoding/FsUno.Prod - https://thinkbeforecoding.github.io/FsUno.Prod/
