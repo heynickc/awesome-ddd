@@ -47,9 +47,8 @@
 - [Microsoft .NET - Architecting Applications for the Enterprise (2nd Edition)](https://www.amazon.com/Microsoft-NET-Architecting-Applications-Enterprise/dp/0735685355/) - Dino Esposito and Andrea Saltarello.  "A software architect’s digest of core practices, pragmatically applied"
 - [Living Documentation by design, with Domain-Driven Design](https://leanpub.com/livingdocumentation) - Cyrille Martraire.  "Discover how a Living Documentation can help you in all aspects of your projects, from the business goals to the business domain knowledge, architecture and design, processes and deployment, even if you hate writing documentation."
 - [Introducing Event Storming: An act of Deliberate Collective Learning](https://leanpub.com/introducing_eventstorming) - Alberto Brandolini.  A must read.  "The deepest tutorial and explanation about EventStorming, straight from the inventor." 
-https://leanpub.com/theanatomyofdomain-drivendesign
-
-https://msdn.microsoft.com/en-us/library/jj554200.aspx
+- [The Anatomy of Domain-Driven Design - The Infographic](https://leanpub.com/theanatomyofdomain-drivendesign) - Scott Millet and Samuel Knight.  An infographic on the anatomy of Domain-Driven Design.
+- [CQRS Journey](https://msdn.microsoft.com/en-us/library/jj554200.aspx).  Microsoft Patterns and Practices.  Exploring CQRS and Event Sourcing.
 
 ## Blogs
 
@@ -80,17 +79,19 @@ https://msdn.microsoft.com/en-us/library/jj554200.aspx
 - [Scritchy](https://github.com/ToJans/Scritchy) - Tom Janssens.  CQRS without the Plumbing (http://www.youtube.com/watch?v=5DKTFZD3hu8)
 - [Simple CQRS in F#](https://github.com/thinkbeforecoding/m-r) - Jeremie Chassaing.  Greg Young's SimpleCQRS in F#.
 - [FsUno](https://github.com/thinkbeforecoding/FsUno) - Jeremie Chassaing. Event sourcing implementation sample in F#
+- [IDDD Samples](https://github.com/VaughnVernon/IDDD_Samples) - Vaughn Vernon.  These are the sample Bounded Contexts from the book "Implementing Domain-Driven Design" by Vaughn Vernon: [http://vaughnvernon.co/?page_id=168](http://vaughnvernon.co/?page_id=168)  
+- [IDDD Samples in .NET](https://github.com/VaughnVernon/IDDD_Samples_NET) - Vaughn Vernon.  These are the sample Bounded Contexts for C#.NET from the book "Implementing Domain-Driven Design" by Vaughn Vernon: [http://vaughnvernon.co/?page_id=168](http://vaughnvernon.co/?page_id=168)
 
 ## Libraries and Frameworks
 
-- [Axon Framework](http://www.axonframework.org/) - 
+- [Axon Framework](http://www.axonframework.org/) - "The axon framework is focused on making life easier for developers that want to create a java application based on the CQRS principles"
 - [MessageRouter](https://github.com/QuickenLoans/MessageRouter) - Quicken Loans.  Described in this video: [The Beating Heart of CQRS, or Actor-Based Message Routing on the CLR](https://vimeo.com/171178586)by Paulmichael Blasucci at the New York F# .NET User Group.
 - [NEventStore](https://github.com/NEventStore/NEventStore) - NEventStore
 - [Projac](https://github.com/yreynhout/Projac) - Yves Reynhout.  "Projac is a set of projection libraries that allow you to write projections targetting various backing stores."
 - [Streamstone](https://github.com/yevhen/Streamstone) - Yevhen Bobrov.  Event Store for Azure Table Storage
-https://github.com/tpierrain/Value help you to easily implement Value Types in your C# projects without making errors nor polluting your domain logic with boiler-plate code
-https://github.com/d60/Cirqus d60 event sourcing + CQRS framework http://www.d60.dk
-https://github.com/jonsequitur/Its.Cqrs Its.Cqrs
+- [Value](https://github.com/tpierrain/Value) - Thomas Pierrain. "help you to easily implement Value Types in your C# projects without making errors nor polluting your domain logic with boiler-plate code"
+- [Cirquis](https://github.com/d60/Cirqus) - d60 A/S.  d60 event sourcing + CQRS framework http://www.d60.dk
+- [Its.Cqrs](https://github.com/jonsequitur/Its.Cqrs) - Jon Sequeira.  "A set of libraries for CQRS and Event Sourcing, with a Domain-Driven Design flavor."
 
 ## License
 
