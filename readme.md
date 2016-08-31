@@ -93,7 +93,7 @@
 - [Projac](https://github.com/yreynhout/Projac) - Yves Reynhout.  "Projac is a set of projection libraries that allow you to write projections targetting various backing stores."
 - [Streamstone](https://github.com/yevhen/Streamstone) - Yevhen Bobrov.  Event Store for Azure Table Storage
 - [Value](https://github.com/tpierrain/Value) - Thomas Pierrain. "help you to easily implement Value Types in your C# projects without making errors nor polluting your domain logic with boiler-plate code"
-- [Cirquis](https://github.com/d60/Cirqus) - d60 A/S.  d60 event sourcing + CQRS framework http://www.d60.dk
+- [Cirquis](https://github.com/d60/Cirqus) - d60 A/S.  d60 event sourcing + CQRS framework
 - [Its.Cqrs](https://github.com/jonsequitur/Its.Cqrs) - Jon Sequeira.  "A set of libraries for CQRS and Event Sourcing, with a Domain-Driven Design flavor."
 
 ## License
