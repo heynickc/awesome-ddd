@@ -43,11 +43,10 @@
 - [Domain-Driven Design: Tackling the Complexity at the Heart of Software](https://amzn.com/0321125215) - Eric Evans.  The canonical book that coined the term "Domain-Driven Design."  Also known as the "Blue Book."
 - [Implementing Domain-Driven Design](https://vaughnvernon.co/?page_id=168#iddd) - Vaughn Vernon.  Also a canonical book presenting a top-down approach to understanding Domain-Driven Design.  Also known as the "Red Book."
 - [Domain-Driven Design Distilled](https://www.amazon.com/Domain-Driven-Design-Distilled-Vaughn-Vernon/dp/0134434420) - Vaughn Vernon.  Title says it all.  Very good starter book before you read *Implementing Domain-Driven Design* or *Domain Driven Design: Tackling the Complexity at the Heart of Software.*  
-- [Patterns, Principles, and Practices of Domain-Driven Design 1st Edition](https://www.amazon.com/Patterns-Principles-Practices-Domain-Driven-Design/dp/1118714709) - Scott Millet and Nick Tune.  "Methods for managing complex software construction following the practices, principles and patterns of Domain-Driven Design with code examples in C#"
-
-https://www.amazon.com/Microsoft-NET-Architecting-Applications-Enterprise/dp/0735685355/
-https://leanpub.com/livingdocumentation
-https://leanpub.com/introducing_eventstorming
+- [Patterns, Principles, and Practices of Domain-Driven Design (1st Edition)](https://www.amazon.com/Patterns-Principles-Practices-Domain-Driven-Design/dp/1118714709) - Scott Millet and Nick Tune.  "Methods for managing complex software construction following the practices, principles and patterns of Domain-Driven Design with code examples in C#"
+- [Microsoft .NET - Architecting Applications for the Enterprise (2nd Edition)](https://www.amazon.com/Microsoft-NET-Architecting-Applications-Enterprise/dp/0735685355/) - Dino Esposito and Andrea Saltarello.  "A software architect’s digest of core practices, pragmatically applied"
+- [Living Documentation by design, with Domain-Driven Design](https://leanpub.com/livingdocumentation) - Cyrille Martraire.  "Discover how a Living Documentation can help you in all aspects of your projects, from the business goals to the business domain knowledge, architecture and design, processes and deployment, even if you hate writing documentation."
+- [Introducing Event Storming: An act of Deliberate Collective Learning](https://leanpub.com/introducing_eventstorming) - Alberto Brandolini.  A must read.  "The deepest tutorial and explanation about EventStorming, straight from the inventor." 
 https://leanpub.com/theanatomyofdomain-drivendesign
 
 https://msdn.microsoft.com/en-us/library/jj554200.aspx
@@ -64,7 +63,7 @@ https://msdn.microsoft.com/en-us/library/jj554200.aspx
 - [Christian Posta](http://blog.christianposta.com)
 - [Vladimir Khorikov: Enterprise Craftsmanship](http://enterprisecraftsmanship.com)
 - [TechBeacon (search "Domain-Driven Design")](http://techbeacon.com/)
-- [Derek Comarin: CodeOpinion](http://codeopinion.com)
+- [Derek Comartin: CodeOpinion](http://codeopinion.com)
 - [Alberto Brandolini: Ziobrando's Lair](https://ziobrando.blogspot.it)
 - [Jérémie Chassaing: Think Before Coding](https://thinkbeforecoding.github.io/)
 - [Adam Brodziak](https://medium.com/@adambrodziak)
@@ -76,7 +75,7 @@ https://msdn.microsoft.com/en-us/library/jj554200.aspx
 - [Example of Domain-Driven Design in F#](https://gist.github.com/swlaschin/2ad8627d0400b2ab70e9f3da08902c9d) - Scott Wlaschin.  Example of Domain Driven Design for the game of checkers. There are two files: a scratch file with a series of designs, and a final version.
 - [SimpleCQRS](https://github.com/gregoryyoung/m-r) - Greg Young's "Simplest Thing" CQRS with Event Sourcing project.
 - [Companion Code for Microsoft .NET Architecting Applications for the Enterprise](https://naa4e.codeplex.com/SourceControl/latest) Dino Esposito.
-- [Microsoft Patterns and Practices: CQRS Journey Sample Code](https://github.com/mspnp/cqrs-journey) - Microsoft Patterns and Practices.  Sample code from Microsoft Patterns and Practices: CQRS Journey.
+- [Microsoft Patterns and Practices: CQRS Journey Sample Code](https://github.com/mspnp/cqrs-journey) - Microsoft Patterns and Practices.  Sample code from CQRS Journey.
 - [CQRS-DDD Example](https://github.com/dcomartin/DDD-CQRS-ES-Example) - Derek Comartin.  "Domain Driven Design, CQRS, & Event Sourcing Example using GetEventStore, CommonDomain, NServiceBus, Entity Framework, SQL Server, SignalR."
 - [Scritchy](https://github.com/ToJans/Scritchy) - Tom Janssens.  CQRS without the Plumbing (http://www.youtube.com/watch?v=5DKTFZD3hu8)
 - [Simple CQRS in F#](https://github.com/thinkbeforecoding/m-r) - Jeremie Chassaing.  Greg Young's SimpleCQRS in F#.
@@ -84,11 +83,11 @@ https://msdn.microsoft.com/en-us/library/jj554200.aspx
 
 ## Libraries and Frameworks
 
-http://www.axonframework.org/
-https://github.com/QuickenLoans/MessageRouter MessageRouter
-https://github.com/NEventStore/NEventStore NEventStore
-https://github.com/yreynhout/Projac Projections Library
-https://github.com/yevhen/Streamstone - Streamstone Event Store for Azure Table Storage
+- [Axon Framework](http://www.axonframework.org/) - 
+- [MessageRouter](https://github.com/QuickenLoans/MessageRouter) - Quicken Loans.  Described in this video: [The Beating Heart of CQRS, or Actor-Based Message Routing on the CLR](https://vimeo.com/171178586)by Paulmichael Blasucci at the New York F# .NET User Group.
+- [NEventStore](https://github.com/NEventStore/NEventStore) - NEventStore
+- [Projac](https://github.com/yreynhout/Projac) - Yves Reynhout.  "Projac is a set of projection libraries that allow you to write projections targetting various backing stores."
+- [Streamstone](https://github.com/yevhen/Streamstone) - Yevhen Bobrov.  Event Store for Azure Table Storage
 https://github.com/tpierrain/Value help you to easily implement Value Types in your C# projects without making errors nor polluting your domain logic with boiler-plate code
 https://github.com/d60/Cirqus d60 event sourcing + CQRS framework http://www.d60.dk
 https://github.com/jonsequitur/Its.Cqrs Its.Cqrs
