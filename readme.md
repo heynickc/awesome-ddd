@@ -17,7 +17,6 @@
 ## Blogs
 
 - [Vaughn Vernon: Software Craftsman](https://vaughnvernon.co)
-- 
 
 ## Videos
 
@@ -27,7 +26,6 @@
 	 - [Domain-Driven Design Fundamentals](https://www.pluralsight.com/courses/domain-driven-design-fundamentals) - Steve Smith and Julie Lerman.  Teaches the fundamentals of Domain-Driven Design (DDD) through a demonstration of customer interactions and a complex demo application, along with advice from Eric Evans
 	 - [Domain-Driven Design in Practice](https://www.pluralsight.com/courses/domain-driven-design-in-practice) - A descriptive, in-depth walk-through for applying Domain-Driven Design principles in practice.
 - [Greg Young's CQRS Class](http://subscriptions.viddler.com/GregYoung/) - Greg Young.  These videos include the entirety of Greg Young's DDD, CQRS, and Event Sourcing class
-- 
 
 ## Mailing Lists
 
@@ -48,10 +46,6 @@
 ## Libraries
 
 ## Frameworks
-
-
-
-
 
 ## License
 
