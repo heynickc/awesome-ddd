@@ -36,8 +36,8 @@
 
 - [DDD Europe](https://dddeurope.com) - Recordings of talks given at DDD Europe
 - [SkillsCasts by SkillsMatter](https://skillsmatter.com/skillscasts) - Searching DDD returns various talks given by Greg Young, Alberto Brandolini, and Dan North.
-- [Alberto Brandolini: Event Storming (YouTube)](https://www.youtube.com/watch?v=veTVAN0oEkQ&list=PLve553MhJLs4YkEnHmOjWJv0B-6WY0-JI)
-- [Greg Young (YouTube)](https://www.youtube.com/watch?v=JHGkaShoyNs&list=PL5XpN_ZVafKLePdxruDfdfi-IiZtXz-k9)
+- [Alberto Brandolini: Event Storming (YouTube)](https://www.youtube.com/watch?v=veTVAN0oEkQ&list=PLve553MhJLs4YkEnHmOjWJv0B-6WY0-JI) - A YouTube collection of talks given by Alberto Brandolini on Event Storming.
+- [Greg Young (YouTube)](https://www.youtube.com/watch?v=JHGkaShoyNs&list=PL5XpN_ZVafKLePdxruDfdfi-IiZtXz-k9) - A YouTube collection of various talks given by Greg Young
 
 ## Training Courses
 
@@ -45,8 +45,7 @@
 - [Greg Young's CQRS Class](http://subscriptions.viddler.com/GregYoung/) - These videos include the entirety of Greg Young's DDD, CQRS, and Event Sourcing class
 - [Vaughn Vernon: Distilling Domain-Driven Design](https://forcomprehension.com/) - Vaughn Vernon's online training course
 - [Nomad PHP: Introduction to Event Sourcing and CQRS](https://nomadphp.com/product/introduction-event-sourcing-cqrs/) - Beau Simensen. 
-
-https://eventsourcery.com/
+- [Shawn McCool and Mitchell van Wijngaarden: Event Sourcery](https://eventsourcery.com/)
 - Pluralsight
 	 - [Domain-Driven Design Fundamentals](https://www.pluralsight.com/courses/domain-driven-design-fundamentals) - Steve Smith and Julie Lerman.  "Teaches the fundamentals of Domain-Driven Design (DDD) through a demonstration of customer interactions and a complex demo application, along with advice from Eric Evans"
 	 - [Domain-Driven Design in Practice](https://www.pluralsight.com/courses/domain-driven-design-in-practice) - Vladimir Khorikov.  "A descriptive, in-depth walk-through for applying Domain-Driven Design principles in practice.""
@@ -61,22 +60,22 @@ https://eventsourcery.com/
 ## Books
 
 - [Domain-Driven Design: Tackling the Complexity at the Heart of Software](https://amzn.com/0321125215) - Eric Evans.  The canonical book that coined the term "Domain-Driven Design."  Also known as the "Blue Book."
-- [Implementing Domain-Driven Design](https://vaughnvernon.co/?page_id=168#iddd) - Vaughn Vernon.  Also a canonical book presenting a top-down approach to understanding Domain-Driven Design. 
-- [Domain-Driven Design Distilled] - Vaughn Vernon. 
+- [Implementing Domain-Driven Design](https://vaughnvernon.co/?page_id=168#iddd) - Vaughn Vernon.  Also a canonical book presenting a top-down approach to understanding Domain-Driven Design.  Also known as the "Red Book."
+- [Domain-Driven Design Distilled](https://www.amazon.com/Domain-Driven-Design-Distilled-Vaughn-Vernon/dp/0134434420) - Vaughn Vernon.  Title says it all.  Very good starter book before you read *Implementing Domain-Driven Design* or *Domain Driven Design: Tackling the Complexity at the Heart of Software.*  
+- [Patterns, Principles, and Practices of Domain-Driven Design 1st Edition](https://www.amazon.com/Patterns-Principles-Practices-Domain-Driven-Design/dp/1118714709) - Scott Millet and Nick Tune.  "Methods for managing complex software construction following the practices, principles and patterns of Domain-Driven Design with code examples in C#"
+
+https://www.amazon.com/Microsoft-NET-Architecting-Applications-Enterprise/dp/0735685355/
 https://leanpub.com/livingdocumentation
 https://leanpub.com/introducing_eventstorming
 https://leanpub.com/theanatomyofdomain-drivendesign
-https://www.amazon.com/Patterns-Principles-Practices-Domain-Driven-Design/dp/1118714709
-https://www.amazon.com/Domain-Driven-Design-Distilled-Vaughn-Vernon/dp/0134434420
-https://www.amazon.com/Microsoft-NET-Architecting-Applications-Enterprise/dp/0735685355/
+
 https://msdn.microsoft.com/en-us/library/jj554200.aspx
 
 ## Sample Projects
 
-https://github.com/AdaptiveConsulting/ReactiveTraderCloud
-https://gist.github.com/swlaschin/2ad8627d0400b2ab70e9f3da08902c9d
-https://github.com/gregoryyoung/m-r Greg Young Simplest Thing
-https://github.com/AdaptiveConsulting/ReactiveTraderCloud Reactive Trader Cloud
+- [Adaptive Consulting: Reactive Trader Cloud](https://github.com/AdaptiveConsulting/ReactiveTraderCloud) - Adaptive Consulting.  Reactive Trader Cloud.
+https://gist.github.com/swlaschin/2ad8627d0400b2ab70e9f3da08902c9d - Scott Wlaschin.  Example of Domain Modeling in F#.
+https://github.com/gregoryyoung/m-r - Greg Young's "Simplest Thing" CQRS with Event Sourcing project.
 https://naa4e.codeplex.com/SourceControl/latest Dino Esposito’s Book NAA4E v2 Companion Code
 https://github.com/mspnp/cqrs-journey - CQRS Journey
 https://github.com/dcomartin/DDD-CQRS-ES-Example - Demetri Comartin
