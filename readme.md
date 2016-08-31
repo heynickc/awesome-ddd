@@ -56,6 +56,8 @@
 - [Daniel Whittaker: CQRS and Event Sourcing](http://danielwhittaker.me)
 - [Cyrille Martraire](http://cyrille.martraire.com)
 - [Jimmy Bogard: Los Techies](https://lostechies.com/jimmybogard/)
+- [CodeBetter](http://codebetter.com)
+- [Greg Young: Good Enough Software](https://goodenoughsoftware.net/)
 - [InfoQ Blog (tagged "Domain-Driven Design")](https://www.infoq.com/domaindrivendesign/)
 - [Dan North](https://dannorth.net/blog/)
 - [Mike Mogosanu: Sapiens Works](http://blog.sapiensworks.com)
@@ -84,6 +86,7 @@
 
 ## Libraries and Frameworks
 
+- [Event Store](https://geteventstore.com) - "The open-source, functional database with Complex Event Processing in JavaScript."
 - [Axon Framework](http://www.axonframework.org/) - "The axon framework is focused on making life easier for developers that want to create a java application based on the CQRS principles"
 - [MessageRouter](https://github.com/QuickenLoans/MessageRouter) - Quicken Loans.  Described in this video: [The Beating Heart of CQRS, or Actor-Based Message Routing on the CLR](https://vimeo.com/171178586)by Paulmichael Blasucci at the New York F# .NET User Group.
 - [NEventStore](https://github.com/NEventStore/NEventStore) - NEventStore
