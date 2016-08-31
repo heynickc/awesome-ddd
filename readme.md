@@ -7,7 +7,7 @@
 - [Books](#books)
 - [Training Courses](#training-courses)
 - [Video Collections](#videocollections)
-- [Mailing Lists](#mailing-lists)
+- [Mailing Lists and Forums](#mailing-lists-and-forums)
 - [Blogs](#blogs)
 - [Sample Projects](#sampleprojects)
 - [Libraries and Frameworks](#libraries-and-frameworks)
@@ -44,11 +44,12 @@
 - [Alberto Brandolini: Event Storming (YouTube)](https://www.youtube.com/watch?v=veTVAN0oEkQ&list=PLve553MhJLs4YkEnHmOjWJv0B-6WY0-JI) - A YouTube collection of talks given by Alberto Brandolini on Event Storming.
 - [Greg Young (YouTube)](https://www.youtube.com/watch?v=JHGkaShoyNs&list=PL5XpN_ZVafKLePdxruDfdfi-IiZtXz-k9) - A YouTube collection of various talks given by Greg Young
 
-## Mailing Lists
+## Mailing Lists and Forums
 
 - [DDD/CQRS Google Group](https://groups.google.com/forum/?utm_source=digest&utm_medium=email#!forum/dddcqrs) - An active mailing list and an excellent resource to ask questions and learn fine-grained details about DDD/CQRS.
 - [Domain Driven Design Yahoo Group](https://groups.yahoo.com/neo/groups/domaindrivendesign/conversations/messages) - "This group is for discussion of the domain-driven style of designing software, and the book by Eric Evans, Domain-Driven Design: Tackling Complexity in the Heart of Business Software. Questions and discussion of the book content is welcome here, as well as sharing of experiences applying DDD, and discussions of the topic in general."
 - [DDDinPHP Google Group](https://groups.google.com/forum/#!forum/dddinphp) - "The place to discuss Domain-Driven Design, CQRS, Event Sourcing, Model Storming, Hexagonal Architecture, Distributed Systems, Reactive... in the context of PHP."
+- [EventStormers Google+ Community](https://plus.google.com/u/0/communities/113258571348605620818) - "a public discussion group for everybody interested in EventStorming, and related themes."
 
 ## Blogs
 
