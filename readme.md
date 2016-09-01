@@ -6,10 +6,10 @@
 
 - [Books](#books)
 - [Training Courses](#training-courses)
-- [Video Collections](#videocollections)
+- [Video Collections](#video-collections)
 - [Mailing Lists and Forums](#mailing-lists-and-forums)
 - [Blogs](#blogs)
-- [Sample Projects](#sampleprojects)
+- [Sample Projects](#sample-projects)
 - [Libraries and Frameworks](#libraries-and-frameworks)
 - [Frameworks](#frameworks)
 
