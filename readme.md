@@ -24,6 +24,7 @@
 - [Introducing Event Storming: An act of Deliberate Collective Learning](https://leanpub.com/introducing_eventstorming) - Alberto Brandolini.  A must read.  "The deepest tutorial and explanation about EventStorming, straight from the inventor." 
 - [The Anatomy of Domain-Driven Design - The Infographic](https://leanpub.com/theanatomyofdomain-drivendesign) - Scott Millet and Samuel Knight.  An infographic on the anatomy of Domain-Driven Design.
 - [CQRS Journey](https://msdn.microsoft.com/en-us/library/jj554200.aspx).  Microsoft Patterns and Practices.  Exploring CQRS and Event Sourcing.
+- [Domain Driven Design Quickly](https://www.infoq.com/minibooks/domain-driven-design-quickly) - InfoQ Mini Books.  "Domain Driven Design Quickly is a short, quick-readable summary and introduction to the fundamentals of DDD"
 
 ## Training Courses
 
