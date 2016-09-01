@@ -20,7 +20,7 @@
 - [Domain-Driven Design Distilled](https://www.amazon.com/Domain-Driven-Design-Distilled-Vaughn-Vernon/dp/0134434420) - Vaughn Vernon.  Title says it all.  Very good starter book before you read *Implementing Domain-Driven Design* or *Domain Driven Design: Tackling the Complexity at the Heart of Software.*  
 - [Patterns, Principles, and Practices of Domain-Driven Design (1st Edition)](https://www.amazon.com/Patterns-Principles-Practices-Domain-Driven-Design/dp/1118714709) - Scott Millet and Nick Tune.  "Methods for managing complex software construction following the practices, principles and patterns of Domain-Driven Design with code examples in C#"
 - [Microsoft .NET - Architecting Applications for the Enterprise (2nd Edition)](https://www.amazon.com/Microsoft-NET-Architecting-Applications-Enterprise/dp/0735685355/) - Dino Esposito and Andrea Saltarello.  "A software architect’s digest of core practices, pragmatically applied"
-- [Living Documentation by design, with Domain-Driven Design](https://leanpub.com/livingdocumentation) - Cyrille Martraire.  "Discover how a Living Documentation can help you in all aspects of your projects, from the business goals to the business domain knowledge, architecture and design, processes and deployment, even if you hate writing documentation."
+- [Living Documentation by Design, with Domain-Driven Design](https://leanpub.com/livingdocumentation) - Cyrille Martraire.  "Discover how a Living Documentation can help you in all aspects of your projects, from the business goals to the business domain knowledge, architecture and design, processes and deployment, even if you hate writing documentation."
 - [Introducing Event Storming: An act of Deliberate Collective Learning](https://leanpub.com/introducing_eventstorming) - Alberto Brandolini.  A must read.  "The deepest tutorial and explanation about EventStorming, straight from the inventor." 
 - [The Anatomy of Domain-Driven Design - The Infographic](https://leanpub.com/theanatomyofdomain-drivendesign) - Scott Millet and Samuel Knight.  An infographic on the anatomy of Domain-Driven Design.
 - [CQRS Journey](https://msdn.microsoft.com/en-us/library/jj554200.aspx).  Microsoft Patterns and Practices.  Exploring CQRS and Event Sourcing.
@@ -53,7 +53,6 @@
 
 ## Blogs
 
-- [Nick Chamberlain: Build Please](https://buildplease.com)
 - [Daniel Whittaker: CQRS and Event Sourcing](http://danielwhittaker.me)
 - [Cyrille Martraire](http://cyrille.martraire.com)
 - [Jimmy Bogard: Los Techies](https://lostechies.com/jimmybogard/)
@@ -70,6 +69,7 @@
 - [Jérémie Chassaing: Think Before Coding](https://thinkbeforecoding.github.io/)
 - [Adam Brodziak](https://medium.com/@adambrodziak)
 - [Vaughn Vernon: Software Craftsman](https://vaughnvernon.co)
+- [Nick Chamberlain: Build Please](https://buildplease.com)
 
 ## Sample Projects
 
