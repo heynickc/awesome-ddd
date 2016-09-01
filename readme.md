@@ -89,7 +89,7 @@
 
 - [Event Store](https://geteventstore.com) - "The open-source, functional database with Complex Event Processing in JavaScript."
 - [Axon Framework](http://www.axonframework.org/) - "The axon framework is focused on making life easier for developers that want to create a java application based on the CQRS principles"
-- [MessageRouter](https://github.com/QuickenLoans/MessageRouter) - Quicken Loans.  Described in this video: [The Beating Heart of CQRS, or Actor-Based Message Routing on the CLR](https://vimeo.com/171178586)by Paulmichael Blasucci at the New York F# .NET User Group.
+- [MessageRouter](https://github.com/QuickenLoans/MessageRouter) - Quicken Loans.  Described in this video: [The Beating Heart of CQRS, or Actor-Based Message Routing on the CLR](https://vimeo.com/171178586) by Paulmichael Blasucci at the New York F# .NET User Group.
 - [NEventStore](https://github.com/NEventStore/NEventStore) - "a persistence library used to abstract different storage implementations when using event sourcing as storage mechanism."
 - [Projac](https://github.com/yreynhout/Projac) - Yves Reynhout.  "Projac is a set of projection libraries that allow you to write projections targetting various backing stores."
 - [Streamstone](https://github.com/yevhen/Streamstone) - Yevhen Bobrov.  Event Store for Azure Table Storage
