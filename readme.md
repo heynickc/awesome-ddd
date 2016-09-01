@@ -84,6 +84,7 @@
 - [FsUno](https://github.com/thinkbeforecoding/FsUno) - Jeremie Chassaing. Event sourcing implementation sample in F#
 - [IDDD Samples](https://github.com/VaughnVernon/IDDD_Samples) - Vaughn Vernon.  These are the sample Bounded Contexts from the book "Implementing Domain-Driven Design" by Vaughn Vernon: [http://vaughnvernon.co/?page_id=168](http://vaughnvernon.co/?page_id=168)  
 - [IDDD Samples in .NET](https://github.com/VaughnVernon/IDDD_Samples_NET) - Vaughn Vernon.  These are the sample Bounded Contexts for C#.NET from the book "Implementing Domain-Driven Design" by Vaughn Vernon: [http://vaughnvernon.co/?page_id=168](http://vaughnvernon.co/?page_id=168)
+- [Akka CQRS ES Demo](https://github.com/mdonkers/akka-cqrs-es-demo) - Miel Donkers.  Demo project to implement the CQRS and Event Sourcing patterns in Scala-Akka
 
 ## Libraries and Frameworks
 
