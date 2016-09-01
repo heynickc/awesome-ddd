@@ -79,7 +79,7 @@
 - [Companion Code for Microsoft .NET Architecting Applications for the Enterprise](https://naa4e.codeplex.com/SourceControl/latest) Dino Esposito.
 - [Microsoft Patterns and Practices: CQRS Journey Sample Code](https://github.com/mspnp/cqrs-journey) - Microsoft Patterns and Practices.  Sample code from CQRS Journey.
 - [CQRS-DDD Example](https://github.com/dcomartin/DDD-CQRS-ES-Example) - Derek Comartin.  "Domain Driven Design, CQRS, & Event Sourcing Example using GetEventStore, CommonDomain, NServiceBus, Entity Framework, SQL Server, SignalR."
-- [Scritchy](https://github.com/ToJans/Scritchy) - Tom Janssens.  CQRS without the Plumbing (http://www.youtube.com/watch?v=5DKTFZD3hu8)
+- [Scritchy](https://github.com/ToJans/Scritchy) - Tom Janssens.  CQRS without the Plumbing, [video](http://www.youtube.com/watch?v=5DKTFZD3hu8)
 - [Simple CQRS in F#](https://github.com/thinkbeforecoding/m-r) - Jeremie Chassaing.  Greg Young's SimpleCQRS in F#.
 - [FsUno](https://github.com/thinkbeforecoding/FsUno) - Jeremie Chassaing. Event sourcing implementation sample in F#
 - [IDDD Samples](https://github.com/VaughnVernon/IDDD_Samples) - Vaughn Vernon.  These are the sample Bounded Contexts from the book "Implementing Domain-Driven Design" by Vaughn Vernon: [http://vaughnvernon.co/?page_id=168](http://vaughnvernon.co/?page_id=168)  
@@ -90,7 +90,7 @@
 - [Event Store](https://geteventstore.com) - "The open-source, functional database with Complex Event Processing in JavaScript."
 - [Axon Framework](http://www.axonframework.org/) - "The axon framework is focused on making life easier for developers that want to create a java application based on the CQRS principles"
 - [MessageRouter](https://github.com/QuickenLoans/MessageRouter) - Quicken Loans.  Described in this video: [The Beating Heart of CQRS, or Actor-Based Message Routing on the CLR](https://vimeo.com/171178586)by Paulmichael Blasucci at the New York F# .NET User Group.
-- [NEventStore](https://github.com/NEventStore/NEventStore) - NEventStore
+- [NEventStore](https://github.com/NEventStore/NEventStore) - "a persistence library used to abstract different storage implementations when using event sourcing as storage mechanism."
 - [Projac](https://github.com/yreynhout/Projac) - Yves Reynhout.  "Projac is a set of projection libraries that allow you to write projections targetting various backing stores."
 - [Streamstone](https://github.com/yevhen/Streamstone) - Yevhen Bobrov.  Event Store for Azure Table Storage
 - [Value](https://github.com/tpierrain/Value) - Thomas Pierrain. "help you to easily implement Value Types in your C# projects without making errors nor polluting your domain logic with boiler-plate code"
