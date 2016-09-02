@@ -103,6 +103,7 @@
 - [AggregateSource](https://github.com/yreynhout/aggregateSource) - Yves Reynhout. "Lightweight infrastructure for doing eventsourcing using aggregates"
 - [JESA](https://github.com/yreynhout/JESA) -  Yves Reynhout. "Event sourced aggregates for Java"
 - [EventFlow](https://github.com/eventflow/EventFlow) - Rasmus Mikkelsen. Async/await first CQRS+ES and DDD framework for .NET http://geteventflow.net/
+- [cqrs.js](http://cqrs.js.org) - Adriano Raiano.  CQRS implementations in node.js modules.  Includes [node-eventstore](https://github.com/adrai/node-eventstore), [node-cqrs-domain](https://github.com/adrai/node-cqrs-domain), [node-eventdenormalizer](https://github.com/adrai/node-cqrs-eventdenormalizer), [node-cqrs-saga](https://github.com/adrai/node-cqrs-saga)
 
 ## License
 
