@@ -12,6 +12,7 @@
 - [Sample Projects](#sample-projects)
 - [Libraries and Frameworks](#libraries-and-frameworks)
 - [Frameworks](#frameworks)
+- [Podcasts and Interviews](#podcasts-and-interviews)
 
 ## Books
 
@@ -60,7 +61,6 @@
 - [Daniel Whittaker: CQRS and Event Sourcing](http://danielwhittaker.me)
 - [Cyrille Martraire](http://cyrille.martraire.com)
 - [Jimmy Bogard: Los Techies](https://lostechies.com/jimmybogard/)
-- [Steve Smith (Ardalis)](http://ardalis.com)
 - [CodeBetter](http://codebetter.com)
 - [Greg Young: Good Enough Software](https://goodenoughsoftware.net/)
 - [InfoQ Blog (tagged "Domain-Driven Design")](https://www.infoq.com/domaindrivendesign/)
@@ -106,6 +106,12 @@
 - [JESA](https://github.com/yreynhout/JESA) -  Yves Reynhout. "Event sourced aggregates for Java"
 - [EventFlow](https://github.com/eventflow/EventFlow) - Rasmus Mikkelsen. Async/await first CQRS+ES and DDD framework for .NET http://geteventflow.net/
 - [cqrs.js](http://cqrs.js.org) - Adriano Raiano.  CQRS implementations in node.js.  Includes [node-eventstore](https://github.com/adrai/node-eventstore), [node-cqrs-domain](https://github.com/adrai/node-cqrs-domain), [node-eventdenormalizer](https://github.com/adrai/node-cqrs-eventdenormalizer), [node-cqrs-saga](https://github.com/adrai/node-cqrs-saga)
+
+## Podcasts and Interviews
+- [Deeper into DDD on DotNetRocks with David Real](http://dotnetrocks.com/?show=1151) 11 June 2015
+- [Thinking in DDD on DotNetRocks with Julie Lerman and Steve Smith](http://dotnetrocks.com/?show=1023) 19 August 2014
+- [Eric Evans on Domain Driven Design on DotNetRocks](http://dotnetrocks.com/?show=236) 10 May 2007
+- [Jimmy Nilsson on Domain Driven Design on DotNetRocks](http://dotnetrocks.com/?show=191) 29 August 2006
 
 ## License
 
