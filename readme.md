@@ -21,7 +21,7 @@
 - [Patterns, Principles, and Practices of Domain-Driven Design (1st Edition)](https://www.amazon.com/Patterns-Principles-Practices-Domain-Driven-Design/dp/1118714709) - Scott Millet and Nick Tune.  "Methods for managing complex software construction following the practices, principles and patterns of Domain-Driven Design with code examples in C#"
 - [Microsoft .NET - Architecting Applications for the Enterprise (2nd Edition)](https://www.amazon.com/Microsoft-NET-Architecting-Applications-Enterprise/dp/0735685355/) - Dino Esposito and Andrea Saltarello.  "A software architect’s digest of core practices, pragmatically applied"
 - [Living Documentation by Design, with Domain-Driven Design](https://leanpub.com/livingdocumentation) - Cyrille Martraire.  "Discover how a Living Documentation can help you in all aspects of your projects, from the business goals to the business domain knowledge, architecture and design, processes and deployment, even if you hate writing documentation."
-- [Introducing Event Storming: An act of Deliberate Collective Learning](https://leanpub.com/introducing_eventstorming) - Alberto Brandolini.  A must read.  "The deepest tutorial and explanation about EventStorming, straight from the inventor." 
+- [Introducing Event Storming: An act of Deliberate Collective Learning](https://leanpub.com/introducing_eventstorming) - Alberto Brandolini.  A must read.  "The deepest tutorial and explanation about EventStorming, straight from the inventor."
 - [The Anatomy of Domain-Driven Design - The Infographic](https://leanpub.com/theanatomyofdomain-drivendesign) - Scott Millet and Samuel Knight.  An infographic on the anatomy of Domain-Driven Design.
 - [CQRS Journey](https://msdn.microsoft.com/en-us/library/jj554200.aspx).  Microsoft Patterns and Practices.  Exploring CQRS and Event Sourcing.
 - [Domain Driven Design Quickly](https://www.infoq.com/minibooks/domain-driven-design-quickly) - InfoQ Mini Books.  "Domain Driven Design Quickly is a short, quick-readable summary and introduction to the fundamentals of DDD"
@@ -31,7 +31,7 @@
 - [Domain Language eLearning](http://elearn.domainlanguage.com/) - Eric Evans.  "Using our video lessons with Eric Evans, author of the original book on Domain-Driven Design (DDD), teach yourself techniques for evolving practical models that improve your software — not just your documents.""
 - [Greg Young's CQRS Class](http://subscriptions.viddler.com/GregYoung/) - Greg Young.  These videos include the entirety of Greg Young's DDD, CQRS, and Event Sourcing class
 - [Distilling Domain-Driven Design](https://forcomprehension.com/) - Vaughn Vernon's online training course
-- [Nomad PHP: Introduction to Event Sourcing and CQRS](https://nomadphp.com/product/introduction-event-sourcing-cqrs/) - Beau Simensen. 
+- [Nomad PHP: Introduction to Event Sourcing and CQRS](https://nomadphp.com/product/introduction-event-sourcing-cqrs/) - Beau Simensen.
 - [Event Sourcery](https://eventsourcery.com/) - Shawn McCool and Mitchell van Wijngaarden.  Introduction to DDD, CQRS, and Event Sourcing
 - [Pluralsight](https://pluralsight.com)
 	 - [Domain-Driven Design Fundamentals](https://www.pluralsight.com/courses/domain-driven-design-fundamentals) - Steve Smith and Julie Lerman.  "Teaches the fundamentals of Domain-Driven Design (DDD) through a demonstration of customer interactions and a complex demo application, along with advice from Eric Evans"
@@ -100,7 +100,7 @@
 - [Value](https://github.com/tpierrain/Value) - Thomas Pierrain. "help you to easily implement Value Types in your C# projects without making errors nor polluting your domain logic with boiler-plate code"
 - [Cirquis](https://github.com/d60/Cirqus) - d60 A/S.  d60 event sourcing + CQRS framework
 - [Its.Cqrs](https://github.com/jonsequitur/Its.Cqrs) - Jon Sequeira.  "A set of libraries for CQRS and Event Sourcing, with a Domain-Driven Design flavor."
-
+- [AggregateSource](https://github.com/yreynhout/aggregateSource) - Yves Reynhout. "Lightweight infrastructure for doing eventsourcing using aggregates" 
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
