@@ -60,6 +60,7 @@
 - [Daniel Whittaker: CQRS and Event Sourcing](http://danielwhittaker.me)
 - [Cyrille Martraire](http://cyrille.martraire.com)
 - [Jimmy Bogard: Los Techies](https://lostechies.com/jimmybogard/)
+- [Steve Smith (Ardalis)](http://ardalis.com)
 - [CodeBetter](http://codebetter.com)
 - [Greg Young: Good Enough Software](https://goodenoughsoftware.net/)
 - [InfoQ Blog (tagged "Domain-Driven Design")](https://www.infoq.com/domaindrivendesign/)
