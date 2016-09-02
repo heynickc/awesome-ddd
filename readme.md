@@ -100,7 +100,9 @@
 - [Value](https://github.com/tpierrain/Value) - Thomas Pierrain. "help you to easily implement Value Types in your C# projects without making errors nor polluting your domain logic with boiler-plate code"
 - [Cirquis](https://github.com/d60/Cirqus) - d60 A/S.  d60 event sourcing + CQRS framework
 - [Its.Cqrs](https://github.com/jonsequitur/Its.Cqrs) - Jon Sequeira.  "A set of libraries for CQRS and Event Sourcing, with a Domain-Driven Design flavor."
-- [AggregateSource](https://github.com/yreynhout/aggregateSource) - Yves Reynhout. "Lightweight infrastructure for doing eventsourcing using aggregates" 
+- [AggregateSource](https://github.com/yreynhout/aggregateSource) - Yves Reynhout. "Lightweight infrastructure for doing eventsourcing using aggregates"
+- [JESA](https://github.com/yreynhout/JESA) -  Yves Reynhout. "Event sourced aggregates for Java"
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
