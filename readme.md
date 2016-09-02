@@ -55,6 +55,7 @@
 
 ## Blogs
 
+- [Nick Chamberlain: Build Please](https://buildplease.com)
 - [Daniel Whittaker: CQRS and Event Sourcing](http://danielwhittaker.me)
 - [Cyrille Martraire](http://cyrille.martraire.com)
 - [Jimmy Bogard: Los Techies](https://lostechies.com/jimmybogard/)
@@ -71,7 +72,6 @@
 - [Jérémie Chassaing: Think Before Coding](https://thinkbeforecoding.github.io/)
 - [Adam Brodziak](https://medium.com/@adambrodziak)
 - [Vaughn Vernon: Software Craftsman](https://vaughnvernon.co)
-- [Nick Chamberlain: Build Please](https://buildplease.com)
 - [Vladik Khononov](http://vladikk.com/)
 
 ## Sample Projects
