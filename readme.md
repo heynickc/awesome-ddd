@@ -54,6 +54,7 @@
 - [DDDinPHP Google Group](https://groups.google.com/forum/#!forum/dddinphp) - "The place to discuss Domain-Driven Design, CQRS, Event Sourcing, Model Storming, Hexagonal Architecture, Distributed Systems, Reactive... in the context of PHP."
 - [EventStormers Google+ Community](https://plus.google.com/u/0/communities/113258571348605620818) - "a public discussion group for everybody interested in EventStorming, and related themes."
 - [DDD Weekly](http://dddweekly.com) - Weekly curated links related to DDD/CQRS/ES.
+- [DDD/CQRS/ES Slack](https://ddd-cqrs-es.herokuapp.com/) - A slack team for those who want to chat about Domain-Driven Design, CQRS, Event Sourcing and sometimes random things. Main channel is language and framework agnostic. 
 
 ## Blogs
 
