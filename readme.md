@@ -12,6 +12,7 @@
 - [Sample Projects](#sample-projects)
 - [Libraries and Frameworks](#libraries-and-frameworks)
 - [Frameworks](#frameworks)
+- [Podcasts and Interviews](#podcasts-and-interviews)
 
 ## Books
 
@@ -25,6 +26,7 @@
 - [The Anatomy of Domain-Driven Design - The Infographic](https://leanpub.com/theanatomyofdomain-drivendesign) - Scott Millet and Samuel Knight.  An infographic on the anatomy of Domain-Driven Design.
 - [CQRS Journey](https://msdn.microsoft.com/en-us/library/jj554200.aspx).  Microsoft Patterns and Practices.  Exploring CQRS and Event Sourcing.
 - [Domain Driven Design Quickly](https://www.infoq.com/minibooks/domain-driven-design-quickly) - InfoQ Mini Books.  "Domain Driven Design Quickly is a short, quick-readable summary and introduction to the fundamentals of DDD"
+- [Domain-Driven Design in PHP](https://leanpub.com/ddd-in-php) - Carlos Buenosvinos, Christian Soronellas and Keyvan Akbary. "Real examples written in PHP showcasing DDD Architectural Styles, Tactical Design, and Bounded Context Integration"
 
 ## Training Courses
 
@@ -55,6 +57,7 @@
 
 ## Blogs
 
+- [Nick Chamberlain: Build Please](https://buildplease.com)
 - [Daniel Whittaker: CQRS and Event Sourcing](http://danielwhittaker.me)
 - [Cyrille Martraire](http://cyrille.martraire.com)
 - [Jimmy Bogard: Los Techies](https://lostechies.com/jimmybogard/)
@@ -71,7 +74,6 @@
 - [Jérémie Chassaing: Think Before Coding](https://thinkbeforecoding.github.io/)
 - [Adam Brodziak](https://medium.com/@adambrodziak)
 - [Vaughn Vernon: Software Craftsman](https://vaughnvernon.co)
-- [Nick Chamberlain: Build Please](https://buildplease.com)
 - [Vladik Khononov](http://vladikk.com/)
 
 ## Sample Projects
@@ -102,6 +104,14 @@
 - [Its.Cqrs](https://github.com/jonsequitur/Its.Cqrs) - Jon Sequeira.  "A set of libraries for CQRS and Event Sourcing, with a Domain-Driven Design flavor."
 - [AggregateSource](https://github.com/yreynhout/aggregateSource) - Yves Reynhout. "Lightweight infrastructure for doing eventsourcing using aggregates"
 - [JESA](https://github.com/yreynhout/JESA) -  Yves Reynhout. "Event sourced aggregates for Java"
+- [EventFlow](https://github.com/eventflow/EventFlow) - Rasmus Mikkelsen. Async/await first CQRS+ES and DDD framework for .NET http://geteventflow.net/
+- [cqrs.js](http://cqrs.js.org) - Adriano Raiano.  CQRS implementations in node.js.  Includes [node-eventstore](https://github.com/adrai/node-eventstore), [node-cqrs-domain](https://github.com/adrai/node-cqrs-domain), [node-eventdenormalizer](https://github.com/adrai/node-cqrs-eventdenormalizer), [node-cqrs-saga](https://github.com/adrai/node-cqrs-saga)
+
+## Podcasts and Interviews
+- [Deeper into DDD on DotNetRocks with David Real](http://dotnetrocks.com/?show=1151) 11 June 2015
+- [Thinking in DDD on DotNetRocks with Julie Lerman and Steve Smith](http://dotnetrocks.com/?show=1023) 19 August 2014
+- [Eric Evans on Domain Driven Design on DotNetRocks](http://dotnetrocks.com/?show=236) 10 May 2007
+- [Jimmy Nilsson on Domain Driven Design on DotNetRocks](http://dotnetrocks.com/?show=191) 29 August 2006
 
 ## License
 
