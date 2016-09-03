@@ -13,6 +13,7 @@
 - [Libraries and Frameworks](#libraries-and-frameworks)
 - [Frameworks](#frameworks)
 - [Podcasts and Interviews](#podcasts-and-interviews)
+- [User Groups](#user-groups)
 
 ## Books
 
@@ -112,6 +113,16 @@
 - [Thinking in DDD on DotNetRocks with Julie Lerman and Steve Smith](http://dotnetrocks.com/?show=1023) 19 August 2014
 - [Eric Evans on Domain Driven Design on DotNetRocks](http://dotnetrocks.com/?show=236) 10 May 2007
 - [Jimmy Nilsson on Domain Driven Design on DotNetRocks](http://dotnetrocks.com/?show=191) 29 August 2006
+
+## User Groups
+- [Domain-Driven Design Belgium](http://www.meetup.com/dddbelgium/)
+- [Domain Driven Design Munich](http://www.meetup.com/Domain-Driven-Design-Munich/)
+- [Domain Driven Design Berlin](http://www.meetup.com/Domain-Driven-Design-Berlin/)
+- [Domain Driven Design Nederland](http://www.meetup.com/Domain-Driven-Design-Nederland/)
+- [Domain Driven Design London](http://www.meetup.com/dddlondon/)
+- [DDD in Kraków](http://www.meetup.com/ddd-krk/)
+- [DDD in Wroclaw](http://www.meetup.com/DDD-WRO)
+
 
 ## License
 
