@@ -61,7 +61,7 @@
 
 ## Blogs
 
-- [Nick Chamberlain: Build Please](https://buildplease.com)
+- [Nick Chamberlain](https://buildplease.com)
 - [Daniel Whittaker: CQRS and Event Sourcing](http://danielwhittaker.me)
 - [Cyrille Martraire](http://cyrille.martraire.com)
 - [Jimmy Bogard: Los Techies](https://lostechies.com/jimmybogard/)
