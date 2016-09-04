@@ -77,6 +77,7 @@
 - [Adam Brodziak](https://medium.com/@adambrodziak)
 - [Vaughn Vernon: Software Craftsman](https://vaughnvernon.co)
 - [Vladik Khononov](http://vladikk.com/)
+- [Eventsourcing Publications](https://blog.eventsourcing.com)
 
 ## Sample Projects
 
