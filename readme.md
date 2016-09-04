@@ -2,7 +2,7 @@
 
 > A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources.
 
-**check out my [blog](https://buildplease.com) and [weekly DDD newsletter](http://dddweekly) or say hi on [Twitter](https://twitter.com/heynickc)**
+**Check out my [blog](https://buildplease.com) and [weekly DDD newsletter](http://dddweekly) or say hi on [Twitter](https://twitter.com/heynickc)**
 
 ## Contents
 
