@@ -116,6 +116,7 @@
 - [Thinking in DDD on DotNetRocks with Julie Lerman and Steve Smith](http://dotnetrocks.com/?show=1023) 19 August 2014
 - [Eric Evans on Domain Driven Design on DotNetRocks](http://dotnetrocks.com/?show=236) 10 May 2007
 - [Jimmy Nilsson on Domain Driven Design on DotNetRocks](http://dotnetrocks.com/?show=191) 29 August 2006
+- [Being the Worst](http://www.beingtheworst.com) 2012-2016
 
 ## User Groups
 - [Domain-Driven Design Belgium](http://www.meetup.com/dddbelgium/)
