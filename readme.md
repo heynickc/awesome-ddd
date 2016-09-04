@@ -128,6 +128,8 @@
 - [Domain Driven Design London](http://www.meetup.com/dddlondon/)
 - [DDD in Kraków](http://www.meetup.com/ddd-krk/)
 - [DDD in Wroclaw](http://www.meetup.com/DDD-WRO)
+- [DDD Phoenix](https://www.meetup.com/DDD-Phoenix)
+- [DDD Denver](https://www.meetup.com/ddd-denver/)
 
 
 ## License
