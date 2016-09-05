@@ -21,6 +21,7 @@
 
 - [Domain-Driven Design: Tackling the Complexity at the Heart of Software](https://amzn.com/0321125215) - Eric Evans.  The canonical book that coined the term "Domain-Driven Design."  Also known as the "Blue Book."
 - [DDD Reference](http://domainlanguage.com/wp-content/uploads/2016/05/DDD_Reference_2015-03.pdf) - Eric Evans. A summary of the patterns and definitions of DDD.
+- [Domain Specific Languages](http://martinfowler.com/books/dsl.html) - by Martin Fowler (with Rebecca Parsons). Tangentially connected to DDD, describes the importance of the Ubiquitous Language and working together with domain experts, along with lots of technical details.
 - [Implementing Domain-Driven Design](https://vaughnvernon.co/?page_id=168#iddd) - Vaughn Vernon.  Also a canonical book presenting a top-down approach to understanding Domain-Driven Design.  Also known as the "Red Book."
 - [Domain-Driven Design Distilled](https://www.amazon.com/Domain-Driven-Design-Distilled-Vaughn-Vernon/dp/0134434420) - Vaughn Vernon.  Title says it all.  Very good starter book before you read *Implementing Domain-Driven Design* or *Domain Driven Design: Tackling the Complexity at the Heart of Software.*  
 - [Patterns, Principles, and Practices of Domain-Driven Design (1st Edition)](https://www.amazon.com/Patterns-Principles-Practices-Domain-Driven-Design/dp/1118714709) - Scott Millet and Nick Tune.  "Methods for managing complex software construction following the practices, principles and patterns of Domain-Driven Design with code examples in C#"
