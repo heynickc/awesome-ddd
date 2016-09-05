@@ -97,7 +97,7 @@
 - [IDDD Samples](https://github.com/VaughnVernon/IDDD_Samples) - Vaughn Vernon.  These are the sample Bounded Contexts from the book "Implementing Domain-Driven Design" by Vaughn Vernon: [http://vaughnvernon.co/?page_id=168](http://vaughnvernon.co/?page_id=168)  
 - [IDDD Samples in .NET](https://github.com/VaughnVernon/IDDD_Samples_NET) - Vaughn Vernon.  These are the sample Bounded Contexts for C#.NET from the book "Implementing Domain-Driven Design" by Vaughn Vernon: [http://vaughnvernon.co/?page_id=168](http://vaughnvernon.co/?page_id=168)
 - [Akka CQRS ES Demo](https://github.com/mdonkers/akka-cqrs-es-demo) - Miel Donkers.  Demo project to implement the CQRS and Event Sourcing patterns in Scala-Akka
-- [DDD Leaven](https://github.com/BottegaIT/ddd-leaven-v2) - Sławomir Sobótka. DDD-CqRS sample v2.0 project that helps you with starting out advanced domain modeling using Spring, JPA and testing
+- [DDD Leaven](https://github.com/BottegaIT/ddd-leaven-v2) - Sławomir Sobótka. DDD-CQRS sample v2.0 project that helps you with starting out advanced domain modeling using Spring, JPA and testing
 
 ## Libraries and Frameworks
 
@@ -116,7 +116,7 @@
 - [cqrs.js](http://cqrs.js.org) - Adriano Raiano.  CQRS implementations in node.js.  Includes [node-eventstore](https://github.com/adrai/node-eventstore), [node-cqrs-domain](https://github.com/adrai/node-cqrs-domain), [node-eventdenormalizer](https://github.com/adrai/node-cqrs-eventdenormalizer), [node-cqrs-saga](https://github.com/adrai/node-cqrs-saga)
 - [Eventsourcing](https://eventsourcing.com) - "Business event capture and querying framework"
 - [CQRS on Azure](https://github.com/MerrionComputing/CQRSAzure) Duncan Jones.  CQRS on Windows Azure.
-- [SeedStack's Business Framework](http://seedstack.org/docs/business/) - a simple and coherent set of building blocks that enable you to code high quality business logic efficiently according to the Domain-Driven Design (DDD) approach.
+- [SeedStack's Business Framework](http://seedstack.org/docs/business/) - a set of building blocks that enable you to code business logic according to the Domain-Driven Design (DDD) approach.
 
 ## Podcasts and Interviews
 - [Deeper into DDD on DotNetRocks with David Real](http://dotnetrocks.com/?show=1151) 11 June 2015
