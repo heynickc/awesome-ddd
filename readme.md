@@ -13,7 +13,6 @@
 - [Blogs](#blogs)
 - [Sample Projects](#sample-projects)
 - [Libraries and Frameworks](#libraries-and-frameworks)
-- [Frameworks](#frameworks)
 - [Podcasts and Interviews](#podcasts-and-interviews)
 - [User Groups](#user-groups)
 
@@ -82,6 +81,7 @@
 - [Vaughn Vernon: Software Craftsman](https://vaughnvernon.co)
 - [Vladik Khononov](http://vladikk.com/)
 - [Eventsourcing Publications](https://blog.eventsourcing.com)
+- [Jef Claes](http://www.jefclaes.be/)
 
 ## Sample Projects
 
@@ -97,7 +97,7 @@
 - [IDDD Samples](https://github.com/VaughnVernon/IDDD_Samples) - Vaughn Vernon.  These are the sample Bounded Contexts from the book "Implementing Domain-Driven Design" by Vaughn Vernon: [http://vaughnvernon.co/?page_id=168](http://vaughnvernon.co/?page_id=168)  
 - [IDDD Samples in .NET](https://github.com/VaughnVernon/IDDD_Samples_NET) - Vaughn Vernon.  These are the sample Bounded Contexts for C#.NET from the book "Implementing Domain-Driven Design" by Vaughn Vernon: [http://vaughnvernon.co/?page_id=168](http://vaughnvernon.co/?page_id=168)
 - [Akka CQRS ES Demo](https://github.com/mdonkers/akka-cqrs-es-demo) - Miel Donkers.  Demo project to implement the CQRS and Event Sourcing patterns in Scala-Akka
-- [DDD Leaven](https://github.com/BottegaIT/ddd-leaven-v2) - Sławomir Sobótka. DDD-CqRS sample v2.0 project that helps you with starting out advanced domain modeling using Spring, JPA and testing
+- [DDD Leaven](https://github.com/BottegaIT/ddd-leaven-v2) - Sławomir Sobótka. DDD-CQRS sample v2.0 project that helps you with starting out advanced domain modeling using Spring, JPA and testing
 
 ## Libraries and Frameworks
 
@@ -116,6 +116,7 @@
 - [cqrs.js](http://cqrs.js.org) - Adriano Raiano.  CQRS implementations in node.js.  Includes [node-eventstore](https://github.com/adrai/node-eventstore), [node-cqrs-domain](https://github.com/adrai/node-cqrs-domain), [node-eventdenormalizer](https://github.com/adrai/node-cqrs-eventdenormalizer), [node-cqrs-saga](https://github.com/adrai/node-cqrs-saga)
 - [Eventsourcing](https://eventsourcing.com) - "Business event capture and querying framework"
 - [CQRS on Azure](https://github.com/MerrionComputing/CQRSAzure) Duncan Jones.  CQRS on Windows Azure.
+- [SeedStack's Business Framework](http://seedstack.org/docs/business/) - a set of building blocks that enable you to code business logic according to the Domain-Driven Design (DDD) approach.
 
 ## Podcasts and Interviews
 - [Deeper into DDD on DotNetRocks with David Real](http://dotnetrocks.com/?show=1151) 11 June 2015
@@ -123,6 +124,8 @@
 - [Eric Evans on Domain Driven Design on DotNetRocks](http://dotnetrocks.com/?show=236) 10 May 2007
 - [Jimmy Nilsson on Domain Driven Design on DotNetRocks](http://dotnetrocks.com/?show=191) 29 August 2006
 - [Being the Worst](http://www.beingtheworst.com) 2012-2016
+- [Software Engineering Radio Episode 225: Eric Evans on Domain-Driven Design at 10 Years](http://www.se-radio.net/2015/05/se-radio-episode-226-eric-evans-on-domain-driven-design-at-10-years/)
+- [Software Engineering Radio Episode 218: Udi Dahan on CQRS (Command Query Responsibility Segregation)](http://www.se-radio.net/2015/01/episode-218-udi-dahan-on-cqrs-command-query-responsibility-segregation/)
 
 ## User Groups
 - [Domain-Driven Design Belgium](http://www.meetup.com/dddbelgium/)
