@@ -112,7 +112,7 @@
 - [cqrs.js](http://cqrs.js.org) - Adriano Raiano.  CQRS implementations in node.js.  Includes [node-eventstore](https://github.com/adrai/node-eventstore), [node-cqrs-domain](https://github.com/adrai/node-cqrs-domain), [node-eventdenormalizer](https://github.com/adrai/node-cqrs-eventdenormalizer), [node-cqrs-saga](https://github.com/adrai/node-cqrs-saga)
 - [Eventsourcing](https://eventsourcing.com) - "Business event capture and querying framework"
 - [CQRS on Azure](https://github.com/MerrionComputing/CQRSAzure) Duncan Jones.  CQRS on Windows Azure.
-- [SeedStack's Business Framework](http://seedstack.org/docs/business/)  is a simple and coherent set of building blocks that enable you to code high quality business logic efficiently. It is based on the «Domain-Driven Design (DDD)» software development approach from which it implements the main concepts. Following the DDD principles will help you to produce a supple and scalable design. The *Business Framework* is built on top of [Seedstack](http://seedstack.org/) a microservice oriented jvm solution enabling teams to build great applications easily and efficiently.
+- [SeedStack's Business Framework](http://seedstack.org/docs/business/)  is a simple and coherent set of building blocks that enable you to code high quality business logic efficiently according to the «Domain-Driven Design (DDD)» approach from which it implements the main concepts.
 
 ## Podcasts and Interviews
 - [Deeper into DDD on DotNetRocks with David Real](http://dotnetrocks.com/?show=1151) 11 June 2015
