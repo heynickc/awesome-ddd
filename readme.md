@@ -80,6 +80,7 @@
 - [Vaughn Vernon: Software Craftsman](https://vaughnvernon.co)
 - [Vladik Khononov](http://vladikk.com/)
 - [Eventsourcing Publications](https://blog.eventsourcing.com)
+- [Jef Claes](http://www.jefclaes.be/)
 
 ## Sample Projects
 
