@@ -112,7 +112,8 @@
 - [EventFlow](https://github.com/eventflow/EventFlow) - Rasmus Mikkelsen. Async/await first CQRS+ES and DDD framework for .NET http://geteventflow.net/
 - [cqrs.js](http://cqrs.js.org) - Adriano Raiano.  CQRS implementations in node.js.  Includes [node-eventstore](https://github.com/adrai/node-eventstore), [node-cqrs-domain](https://github.com/adrai/node-cqrs-domain), [node-eventdenormalizer](https://github.com/adrai/node-cqrs-eventdenormalizer), [node-cqrs-saga](https://github.com/adrai/node-cqrs-saga)
 - [Eventsourcing](https://eventsourcing.com) - "Business event capture and querying framework"
- 
+- [CQRS on Azure](https://github.com/MerrionComputing/CQRSAzure) Duncan Jones.  CQRS on Windows Azure.
+
 ## Podcasts and Interviews
 - [Deeper into DDD on DotNetRocks with David Real](http://dotnetrocks.com/?show=1151) 11 June 2015
 - [Thinking in DDD on DotNetRocks with Julie Lerman and Steve Smith](http://dotnetrocks.com/?show=1023) 19 August 2014
