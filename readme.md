@@ -124,8 +124,8 @@
 - [Eric Evans on Domain Driven Design on DotNetRocks](http://dotnetrocks.com/?show=236) 10 May 2007
 - [Jimmy Nilsson on Domain Driven Design on DotNetRocks](http://dotnetrocks.com/?show=191) 29 August 2006
 - [Being the Worst](http://www.beingtheworst.com) 2012-2016
-- [Software Engineering Radio Episode 225: Eric Evans on Domain-Driven Design at 10 Years](http://www.se-radio.net/2015/05/se-radio-episode-226-eric-evans-on-domain-driven-design-at-10-years/)
-- [Software Engineering Radio Episode 218: Udi Dahan on CQRS (Command Query Responsibility Segregation)](http://www.se-radio.net/2015/01/episode-218-udi-dahan-on-cqrs-command-query-responsibility-segregation/)
+- [Software Engineering Radio Episode 225: Eric Evans on Domain-Driven Design at 10 Years](http://www.se-radio.net/2015/05/se-radio-episode-226-eric-evans-on-domain-driven-design-at-10-years/) 13 May 2015
+- [Software Engineering Radio Episode 218: Udi Dahan on CQRS (Command Query Responsibility Segregation)](http://www.se-radio.net/2015/01/episode-218-udi-dahan-on-cqrs-command-query-responsibility-segregation/) 30 January 2015
 
 ## User Groups
 - [Domain-Driven Design Belgium](http://www.meetup.com/dddbelgium/)
