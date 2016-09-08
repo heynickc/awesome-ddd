@@ -98,7 +98,7 @@
 - [IDDD Samples in .NET](https://github.com/VaughnVernon/IDDD_Samples_NET) - Vaughn Vernon.  These are the sample Bounded Contexts for C#.NET from the book "Implementing Domain-Driven Design" by Vaughn Vernon: [http://vaughnvernon.co/?page_id=168](http://vaughnvernon.co/?page_id=168)
 - [Akka CQRS ES Demo](https://github.com/mdonkers/akka-cqrs-es-demo) - Miel Donkers.  Demo project to implement the CQRS and Event Sourcing patterns in Scala-Akka
 - [DDD Leaven](https://github.com/BottegaIT/ddd-leaven-v2) - Sławomir Sobótka. DDD-CQRS sample v2.0 project that helps you with starting out advanced domain modeling using Spring, JPA and testing
-- [DDD Playground](https://github.com/jorge07/ddd-playground/) - DDD Playground (sample implementation in php) by Jorge Arco
+- [DDD Playground](https://github.com/jorge07/ddd-playground/) - DDD Playground (sample implementation in PHP) by Jorge Arco
 
 ## Libraries and Frameworks
 
