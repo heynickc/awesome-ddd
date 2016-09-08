@@ -50,8 +50,6 @@
 - [SkillsCasts by SkillsMatter](https://skillsmatter.com/skillscasts) - Searching DDD returns various talks given by Greg Young, Alberto Brandolini, and Dan North, etc.
 - [Alberto Brandolini: Event Storming (YouTube)](https://www.youtube.com/watch?v=veTVAN0oEkQ&list=PLve553MhJLs4YkEnHmOjWJv0B-6WY0-JI) - A YouTube collection of talks given by Alberto Brandolini on Event Storming.
 - [Greg Young (YouTube)](https://www.youtube.com/watch?v=JHGkaShoyNs&list=PL5XpN_ZVafKLePdxruDfdfi-IiZtXz-k9) - A YouTube collection of various talks given by Greg Young
-- [Jimmy Bogard: Crafting Wicked Domain Models (YouTube)](https://www.youtube.com/watch?v=UYmTUw5LXwQ) - An in-depth talk about domain modeling including lots of technical details.
-- [Jimmy Bogard: Domain Driven Design: The Good Parts (YouTube)](https://www.youtube.com/watch?v=U6CeaA-Phqo) - Real life story of applying DDD carefully to a project.
 
 ## Mailing Lists and Forums
 
