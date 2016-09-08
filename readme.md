@@ -118,6 +118,7 @@
 - [Eventsourcing](https://eventsourcing.com) - "Business event capture and querying framework"
 - [CQRS on Azure](https://github.com/MerrionComputing/CQRSAzure) Duncan Jones.  CQRS on Windows Azure.
 - [SeedStack's Business Framework](http://seedstack.org/docs/business/) - a set of building blocks that enable you to code business logic according to the Domain-Driven Design (DDD) approach.
+- [SqlStreamStore](https://github.com/damianh/SqlStreamStore) - Damian Hickey.  .NET Stream Store library targeting SQL based implementations.
 
 ## Podcasts and Interviews
 - [Deeper into DDD on DotNetRocks with David Real](http://dotnetrocks.com/?show=1151) 11 June 2015
