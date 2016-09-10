@@ -76,7 +76,7 @@
 - [TechBeacon (search "Domain-Driven Design")](http://techbeacon.com/)
 - [Derek Comartin: CodeOpinion](http://codeopinion.com)
 - [Alberto Brandolini: Ziobrando's Lair](https://ziobrando.blogspot.it)
-- [Jérémie Chassaing: Think Before Coding](https://thinkbeforecoding.github.io/)
+- [Jérémie Chassaing: Think Before Coding](http://thinkbeforecoding.com/)
 - [Adam Brodziak](https://medium.com/@adambrodziak)
 - [Vaughn Vernon: Software Craftsman](https://vaughnvernon.co)
 - [Vladik Khononov](http://vladikk.com/)
