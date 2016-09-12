@@ -86,7 +86,7 @@
 - [Udi Dahan](http://udidahan.com/articles/)
 - [Chris Patterson](https://lostechies.com/chrispatterson/)
 - [Aaron Stannard](http://www.aaronstannard.com/)
-- [Roger Alsing](https://rogeralsing.com/)
+- [Roger Johansson](https://rogeralsing.com/)
 - [Conrad Garus](http://squirrel.pl/blog/)
 
 ## Sample Projects
