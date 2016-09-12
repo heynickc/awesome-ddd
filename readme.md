@@ -37,6 +37,7 @@
 - [Domain Language eLearning](http://elearn.domainlanguage.com/) - Eric Evans.  "Using our video lessons with Eric Evans, author of the original book on Domain-Driven Design (DDD), teach yourself techniques for evolving practical models that improve your software — not just your documents.""
 - [Greg Young's CQRS Class](http://subscriptions.viddler.com/GregYoung/) - Greg Young.  These videos include the entirety of Greg Young's DDD, CQRS, and Event Sourcing class
 - [Distilling Domain-Driven Design](https://forcomprehension.com/) - Vaughn Vernon's online training course
+- [Advanced Distributed Systems Design](https://5757066.flickrocket.com/us/) - Udi Dahan.  Udi's live training schedule can be found [here](http://udidahan.com/training/).
 - [Nomad PHP: Introduction to Event Sourcing and CQRS](https://nomadphp.com/product/introduction-event-sourcing-cqrs/) - Beau Simensen.
 - [Event Sourcery](https://eventsourcery.com/) - Shawn McCool and Mitchell van Wijngaarden.  Introduction to DDD, CQRS, and Event Sourcing
 - [Pluralsight](https://pluralsight.com)
@@ -82,6 +83,10 @@
 - [Vladik Khononov](http://vladikk.com/)
 - [Eventsourcing Publications](https://blog.eventsourcing.com)
 - [Jef Claes](http://www.jefclaes.be/)
+- [Udi Dahan](http://udidahan.com/articles/)
+- [Chris Patterson](https://lostechies.com/chrispatterson/)
+- [Aaron Stannard](http://www.aaronstannard.com/)
+- [Roger Alsing](https://rogeralsing.com/)
 
 ## Sample Projects
 
@@ -119,6 +124,9 @@
 - [CQRS on Azure](https://github.com/MerrionComputing/CQRSAzure) Duncan Jones.  CQRS on Windows Azure.
 - [SeedStack's Business Framework](http://seedstack.org/docs/business/) - a set of building blocks that enable you to code business logic according to the Domain-Driven Design (DDD) approach.
 - [SqlStreamStore](https://github.com/damianh/SqlStreamStore) - Damian Hickey.  .NET Stream Store library targeting SQL based implementations.
+- [NServiceBus](https://github.com/Particular/NServiceBus) - Particular Software (Udi Dahan).  "The most popular service bus for .NET"
+- [MassTransit](https://github.com/MassTransit/MassTransit) - David Prothero, Chris Patterson.  "Distributed Application Framework for .NET"
+- [Akka.NET](http://getakka.net/) - "Akka.NET is a toolkit and runtime for building highly concurrent, distributed, and fault tolerant event-driven applications on .NET & Mono."
 
 ## Podcasts and Interviews
 - [Deeper into DDD on DotNetRocks with David Real](http://dotnetrocks.com/?show=1151) 11 June 2015
