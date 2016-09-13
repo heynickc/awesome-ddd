@@ -87,7 +87,8 @@
 - [Chris Patterson](https://lostechies.com/chrispatterson/)
 - [Aaron Stannard](http://www.aaronstannard.com/)
 - [Roger Johansson](https://rogeralsing.com/)
-- [Conrad Garus](http://squirrel.pl/blog/)
+- [Konrad Garus](http://squirrel.pl/blog/)
+- [Oasis Digital](http://blog.oasisdigital.com/category/cqrs/)
 
 ## Sample Projects
 
