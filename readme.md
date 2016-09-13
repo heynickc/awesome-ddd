@@ -129,6 +129,7 @@
 - [NServiceBus](https://github.com/Particular/NServiceBus) - Particular Software (Udi Dahan).  "The most popular service bus for .NET"
 - [MassTransit](https://github.com/MassTransit/MassTransit) - David Prothero, Chris Patterson.  "Distributed Application Framework for .NET"
 - [Akka.NET](http://getakka.net/) - "Akka.NET is a toolkit and runtime for building highly concurrent, distributed, and fault tolerant event-driven applications on .NET & Mono."
+- [ASP.NET Boilerplate](http://aspnetboilerplate.com/) - ASP.NET MVC, Web API and ASP.NET Core based application framework to create NLayered, Domain Driven Designed web Applications implementing best practices.
 
 ## Podcasts and Interviews
 - [Deeper into DDD on DotNetRocks with David Real](http://dotnetrocks.com/?show=1151) 11 June 2015
