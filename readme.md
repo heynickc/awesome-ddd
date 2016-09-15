@@ -90,6 +90,7 @@
 - [Konrad Garus](http://squirrel.pl/blog/)
 - [Oasis Digital](http://blog.oasisdigital.com/category/cqrs/)
 - [Adaptech](http://adaptechsolutions.net/blog/)
+- [Lev Gorodinski](http://gorodinski.com/)
 
 ## Sample Projects
 
