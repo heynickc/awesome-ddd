@@ -91,6 +91,7 @@
 - [Oasis Digital](http://blog.oasisdigital.com/category/cqrs/)
 - [Adaptech](http://adaptechsolutions.net/blog/)
 - [Lev Gorodinski](http://gorodinski.com/)
+- [Dino Esposito](https://software2cents.wordpress.com/)
 
 ## Sample Projects
 
