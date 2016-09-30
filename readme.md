@@ -23,19 +23,19 @@
 - [Domain Specific Languages](http://martinfowler.com/books/dsl.html) - by Martin Fowler (with Rebecca Parsons). Tangentially connected to DDD, describes the importance of the Ubiquitous Language and working together with domain experts, along with lots of technical details.
 - [Implementing Domain-Driven Design](https://vaughnvernon.co/?page_id=168#iddd) - Vaughn Vernon.  Also a canonical book presenting a top-down approach to understanding Domain-Driven Design.  Also known as the "Red Book."
 - [Domain-Driven Design Distilled](https://www.amazon.com/Domain-Driven-Design-Distilled-Vaughn-Vernon/dp/0134434420) - Vaughn Vernon.  Title says it all.  Very good starter book before you read *Implementing Domain-Driven Design* or *Domain Driven Design: Tackling the Complexity at the Heart of Software.*
-- [Patterns, Principles, and Practices of Domain-Driven Design (1st Edition)](https://www.amazon.com/Patterns-Principles-Practices-Domain-Driven-Design/dp/1118714709) - Scott Millet and Nick Tune.  "Methods for managing complex software construction following the practices, principles and patterns of Domain-Driven Design with code examples in C#"
-- [Microsoft .NET - Architecting Applications for the Enterprise (2nd Edition)](https://www.amazon.com/Microsoft-NET-Architecting-Applications-Enterprise/dp/0735685355/) - Dino Esposito and Andrea Saltarello.  "A software architect’s digest of core practices, pragmatically applied"
+- [Patterns, Principles, and Practices of Domain-Driven Design (1st Edition)](https://www.amazon.com/Patterns-Principles-Practices-Domain-Driven-Design/dp/1118714709) - Scott Millet and Nick Tune.  "Methods for managing complex software construction following the practices, principles and patterns of Domain-Driven Design with code examples in C#."
+- [Microsoft .NET - Architecting Applications for the Enterprise (2nd Edition)](https://www.amazon.com/Microsoft-NET-Architecting-Applications-Enterprise/dp/0735685355/) - Dino Esposito and Andrea Saltarello.  "A software architect’s digest of core practices, pragmatically applied."
 - [Living Documentation by Design, with Domain-Driven Design](https://leanpub.com/livingdocumentation) - Cyrille Martraire.  "Discover how a Living Documentation can help you in all aspects of your projects, from the business goals to the business domain knowledge, architecture and design, processes and deployment, even if you hate writing documentation."
 - [Introducing Event Storming: An act of Deliberate Collective Learning](https://leanpub.com/introducing_eventstorming) - Alberto Brandolini.  A must read.  "The deepest tutorial and explanation about EventStorming, straight from the inventor."
 - [The Anatomy of Domain-Driven Design - The Infographic](https://leanpub.com/theanatomyofdomain-drivendesign) - Scott Millet and Samuel Knight.  An infographic on the anatomy of Domain-Driven Design.
 - [CQRS Journey](https://msdn.microsoft.com/en-us/library/jj554200.aspx).  Microsoft Patterns and Practices.  Exploring CQRS and Event Sourcing.
-- [Domain Driven Design Quickly](https://www.infoq.com/minibooks/domain-driven-design-quickly) - InfoQ Mini Books.  "Domain Driven Design Quickly is a short, quick-readable summary and introduction to the fundamentals of DDD"
-- [Domain-Driven Design in PHP](https://leanpub.com/ddd-in-php) - Carlos Buenosvinos, Christian Soronellas and Keyvan Akbary. "Real examples written in PHP showcasing DDD Architectural Styles, Tactical Design, and Bounded Context Integration"
+- [Domain Driven Design Quickly](https://www.infoq.com/minibooks/domain-driven-design-quickly) - InfoQ Mini Books.  "Domain Driven Design Quickly is a short, quick-readable summary and introduction to the fundamentals of DDD."
+- [Domain-Driven Design in PHP](https://leanpub.com/ddd-in-php) - Carlos Buenosvinos, Christian Soronellas and Keyvan Akbary. "Real examples written in PHP showcasing DDD Architectural Styles, Tactical Design, and Bounded Context Integration."
 
 ## Training Courses
 
 - [Domain Language eLearning](http://elearn.domainlanguage.com/) - Eric Evans.  "Using our video lessons with Eric Evans, author of the original book on Domain-Driven Design (DDD), teach yourself techniques for evolving practical models that improve your software — not just your documents.""
-- [Greg Young's CQRS Class](http://subscriptions.viddler.com/GregYoung/) - Greg Young.  These videos include the entirety of Greg Young's DDD, CQRS, and Event Sourcing class
+- [Greg Young's CQRS Class](http://subscriptions.viddler.com/GregYoung/) - Greg Young.  These videos include the entirety of Greg Young's DDD, CQRS, and Event Sourcing class.
 - [Distilling Domain-Driven Design](https://forcomprehension.com/) - Vaughn Vernon's online training course
 - [Advanced Distributed Systems Design](https://5757066.flickrocket.com/us/) - Udi Dahan.  Udi's live training schedule can be found [here](http://udidahan.com/training/).
 - [Nomad PHP: Introduction to Event Sourcing and CQRS](https://nomadphp.com/product/introduction-event-sourcing-cqrs/) - Beau Simensen.
@@ -47,7 +47,7 @@
 
 ## Video Collections
 
-- [DDD Europe](https://dddeurope.com) - Recordings of talks given at DDD Europe
+- [DDD Europe](https://dddeurope.com) - Recordings of talks given at DDD Europe.
 - [SkillsCasts by SkillsMatter](https://skillsmatter.com/skillscasts) - Searching DDD returns various talks given by Greg Young, Alberto Brandolini, and Dan North, etc.
 - [Alberto Brandolini: Event Storming (YouTube)](https://www.youtube.com/watch?v=veTVAN0oEkQ&list=PLve553MhJLs4YkEnHmOjWJv0B-6WY0-JI) - A YouTube collection of talks given by Alberto Brandolini on Event Storming.
 - [Greg Young (YouTube)](https://www.youtube.com/watch?v=JHGkaShoyNs&list=PL5XpN_ZVafKLePdxruDfdfi-IiZtXz-k9) - A YouTube collection of various talks given by Greg Young.
