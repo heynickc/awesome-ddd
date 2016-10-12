@@ -31,6 +31,7 @@
 - [CQRS Journey](https://msdn.microsoft.com/en-us/library/jj554200.aspx).  Microsoft Patterns and Practices.  Exploring CQRS and Event Sourcing.
 - [Domain Driven Design Quickly](https://www.infoq.com/minibooks/domain-driven-design-quickly) - InfoQ Mini Books.  Domain Driven Design Quickly is a short, quick-readable summary and introduction to the fundamentals of DDD.
 - [Domain-Driven Design in PHP](https://leanpub.com/ddd-in-php) - Carlos Buenosvinos, Christian Soronellas and Keyvan Akbary.  Real examples written in PHP showcasing DDD Architectural Styles, Tactical Design, and Bounded Context Integration.
+- [CQRS](https://leanpub.com/cqrs) - Mark Nijhof.  In 2009 I have had the pleasure of spending a 2 day course and many geek beers with Greg Young talking about Domain-Driven Design specifically focussed on Command Query Responsibility Segregation (CQRS).
 
 ## Training Courses
 
@@ -109,6 +110,7 @@
 - [Akka CQRS ES Demo](https://github.com/mdonkers/akka-cqrs-es-demo) - Miel Donkers.  Demo project to implement the CQRS and Event Sourcing patterns in Scala-Akka.
 - [DDD Leaven](https://github.com/BottegaIT/ddd-leaven-v2) - Sławomir Sobótka. DDD-CQRS sample v2.0 project that helps you with starting out advanced domain modeling using Spring, JPA and testing.
 - [DDD Playground](https://github.com/jorge07/ddd-playground/) - Jorge Arco.  Sample implementation in PHP.
+- [Fohjin](https://github.com/MarkNijhof/Fohjin) - Mark Nijhof.  The example project I created based on these discussions was very well received by the community and regarded a good reference project to explain and learn the patterns that make up CQRS.
 
 ## Libraries and Frameworks
 
@@ -135,6 +137,7 @@
 - [ASP.NET Boilerplate](http://aspnetboilerplate.com/) - ASP.NET MVC, Web API and ASP.NET Core based application framework to create NLayered, Domain Driven Designed web Applications implementing best practices.
 
 ## Podcasts and Interviews
+
 - [Deeper into DDD on DotNetRocks with David Real](http://dotnetrocks.com/?show=1151) 11 June 2015.
 - [Thinking in DDD on DotNetRocks with Julie Lerman and Steve Smith](http://dotnetrocks.com/?show=1023) 19 August 2014.
 - [Eric Evans on Domain Driven Design on DotNetRocks](http://dotnetrocks.com/?show=236) 10 May 2007.
@@ -144,6 +147,7 @@
 - [Software Engineering Radio Episode 218: Udi Dahan on CQRS (Command Query Responsibility Segregation)](http://www.se-radio.net/2015/01/episode-218-udi-dahan-on-cqrs-command-query-responsibility-segregation/) 30 January 2015.
 
 ## User Groups
+
 - [Belgium](http://www.meetup.com/dddbelgium/)
 - [Munich](http://www.meetup.com/Domain-Driven-Design-Munich/)
 - [Berlin](http://www.meetup.com/Domain-Driven-Design-Berlin/)
