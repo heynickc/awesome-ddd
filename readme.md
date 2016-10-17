@@ -74,7 +74,8 @@ The term was coined by Eric Evans in his book of the same title.
 - [DDDinPHP Google Group](https://groups.google.com/forum/#!forum/dddinphp) - The place to discuss Domain-Driven Design, CQRS, Event Sourcing, Model Storming, Hexagonal Architecture, Distributed Systems, Reactive... in the context of PHP.
 - [EventStormers Google+ Community](https://plus.google.com/u/0/communities/113258571348605620818) - A public discussion group for everybody interested in EventStorming, and related themes.
 - [DDD/CQRS/ES Slack](https://ddd-cqrs-es.herokuapp.com/) - A slack team for those who want to chat about Domain-Driven Design, CQRS, Event Sourcing and sometimes random things. Main channel is language and framework agnostic.
-- [Stack Overflow](https://programmers.stackexchange.com/questions/tagged/domain-driven-design) - Stack Exchange questions tagged *domain-driven-design*.
+- [Stack Exchange](https://programmers.stackexchange.com/questions/tagged/domain-driven-design) - Stack Exchange questions tagged *domain-driven-design*.
+- [Stack Overflow](https://stackoverflow.com/questions/tagged/domain-driven-design) - Stack Overflow questions tagged *domain-driven-design*.
 
 ## Blogs
 
@@ -87,7 +88,7 @@ The term was coined by Eric Evans in his book of the same title.
 - [Greg Young](https://goodenoughsoftware.net/) - Good Enough Software is By Definition Good Enough.
 - [InfoQ Blog](https://www.infoq.com/domaindrivendesign/) - Domain-Driven Design Content on InfoQ.
 - [Dan North](https://dannorth.net/blog/) - Inventor of Behavior-Driven Design.  Blogs and talks about Event Storming also.
-- [Mike Mogosanu](http://blog.sapiensworks.com) - Maintainable code is a business advantage.
+- [Mike Mogosanu](http://blog.sapiensworks.com) - Maintainable code is a business advantage.  Creator of Domain Map: The Domain Modelling Tool - Easy And Powerful Domain Driven Design.
 - [Christian Posta](http://blog.christianposta.com) - Principal Middleware Architect @ Red Hat, open-source enthusiast, committer @ Apache, Cloud, Integration, Kubernetes, Docker, OpenShift, Fabric8.
 - [Vladimir Khorikov](http://enterprisecraftsmanship.com) - Pluralsight author.  Software development principles and best practices.
 - [TechBeacon](http://techbeacon.com/) - Articles on TechBeacon tagged *domain driven design*.
@@ -95,8 +96,8 @@ The term was coined by Eric Evans in his book of the same title.
 - [Alberto Brandolini](https://ziobrando.blogspot.it) - Inventor of Event Storming. Asserting that problems cannot be solved with the same mindset that originated them, Alberto switches perspective frequently assuming the architect, mentor, coach, manager or developer point of view.
 - [Jérémie Chassaing](http://thinkbeforecoding.com/) - Various articles about DDD/CQRS.  Implemented Greg Young's SimpleCQRS sample in F#.
 - [Vaughn Vernon](https://vaughnvernon.co) - Vaughn Vernon understands the unique demands of software development and the challenges you face as you improve your craft in a fast-paced industry.
-- [Vladik Khononov](http://vladikk.com/)
-- [Eventsourcing Publications](https://blog.eventsourcing.com)
+- [Vladik Khononov](http://vladikk.com/) - Various DDD-related articles.
+- [Eventsourcing Publications](https://blog.eventsourcing.com) - Practical event sourcing.
 - [Jef Claes](http://www.jefclaes.be/)
 - [Udi Dahan](http://udidahan.com/articles/)
 - [Chris Patterson](https://lostechies.com/chrispatterson/)
