@@ -4,12 +4,26 @@
 
 **Check out my [blog](https://buildplease.com) and [weekly DDD newsletter](https://buildplease.com/pages/dddweekly/) or say hi on [Twitter](https://twitter.com/heynickc)!**
 
+**[Domain-Driven Design (DDD)](https://en.m.wikipedia.org/wiki/Domain-driven_design)** is an approach to software development for complex needs by connecting the implementation to an evolving model.  The premise of Domain-Driven Design is the following:
+
+- placing the project's primary focus on the core domain and domain logic
+- basing complex designs on a model of the domain
+- initiating a creative collaboration between technical and domain experts to iteratively refine a conceptual model that addresses particular domain problems
+
+The term was coined by Eric Evans in his book of the same title.
+
+**[Command Query Responsibility Segregation (CQRS)](http://codebetter.com/gregyoung/2010/02/16/cqrs-task-based-uis-event-sourcing-agh/)** is simply the creation of two objects where there was previously only one. The separation occurs based upon whether the methods are a command or a query (the same definition that is used by Meyer in Command and Query Separation, a command is any method that mutates state and a query is any method that returns a value).
+
+**[Event Sourcing](http://www.martinfowler.com/eaaDev/EventSourcing.html)** The fundamental idea of Event Sourcing is that of ensuring every change to the state of an application is captured in an event object, and that these event objects are themselves stored in the sequence they were applied for the same lifetime as the application state itself.
+
+**[Event Storming](https://ziobrando.blogspot.com/2013/11/introducing-event-storming.html)** is a workshop format for quickly exploring complex business domains.
+
 ## Contents
 
 - [Books](#books)
 - [Training Courses](#training-courses)
 - [Video Collections](#video-collections)
-- [Mailing Lists and Forums](#mailing-lists-and-forums)
+- [Community Resources](#community-resources)
 - [Blogs](#blogs)
 - [Sample Projects](#sample-projects)
 - [Libraries and Frameworks](#libraries-and-frameworks)
@@ -18,7 +32,7 @@
 
 ## Books
 
-- [Domain-Driven Design: Tackling the Complexity at the Heart of Software](https://amzn.com/0321125215) - Eric Evans.  The canonical book that coined the term "Domain-Driven Design."  Also known as the "Blue Book.
+- [Domain-Driven Design: Tackling the Complexity at the Heart of Software](https://amzn.com/0321125215) - Eric Evans.  The canonical book that coined the term Domain-Driven Design.  Also known as the "Blue Book."
 - [DDD Reference](http://domainlanguage.com/wp-content/uploads/2016/05/DDD_Reference_2015-03.pdf) - Eric Evans. A summary of the patterns and definitions of DDD.
 - [Domain Specific Languages](http://martinfowler.com/books/dsl.html) - by Martin Fowler (with Rebecca Parsons). Tangentially connected to DDD, describes the importance of the Ubiquitous Language and working together with domain experts, along with lots of technical details.
 - [Implementing Domain-Driven Design](https://vaughnvernon.co/?page_id=168#iddd) - Vaughn Vernon.  Also a canonical book presenting a top-down approach to understanding Domain-Driven Design.  Also known as the "Red Book."
@@ -31,7 +45,7 @@
 - [CQRS Journey](https://msdn.microsoft.com/en-us/library/jj554200.aspx).  Microsoft Patterns and Practices.  Exploring CQRS and Event Sourcing.
 - [Domain Driven Design Quickly](https://www.infoq.com/minibooks/domain-driven-design-quickly) - InfoQ Mini Books.  Domain Driven Design Quickly is a short, quick-readable summary and introduction to the fundamentals of DDD.
 - [Domain-Driven Design in PHP](https://leanpub.com/ddd-in-php) - Carlos Buenosvinos, Christian Soronellas and Keyvan Akbary.  Real examples written in PHP showcasing DDD Architectural Styles, Tactical Design, and Bounded Context Integration.
-- [CQRS](https://leanpub.com/cqrs) - Mark Nijhof.  In 2009 I have had the pleasure of spending a 2 day course and many geek beers with Greg Young talking about Domain-Driven Design specifically focussed on Command Query Responsibility Segregation (CQRS).
+- [CQRS](https://leanpub.com/cqrs) - Mark Nijhof.  In 2009 I have had the pleasure of spending a 2 day course and many geek beers with Greg Young talking about Domain-Driven Design specifically focused on Command Query Responsibility Segregation (CQRS).
 
 ## Training Courses
 
@@ -53,34 +67,34 @@
 - [Alberto Brandolini: Event Storming (YouTube)](https://www.youtube.com/watch?v=veTVAN0oEkQ&list=PLve553MhJLs4YkEnHmOjWJv0B-6WY0-JI) - A YouTube collection of talks given by Alberto Brandolini on Event Storming.
 - [Greg Young (YouTube)](https://www.youtube.com/watch?v=JHGkaShoyNs&list=PL5XpN_ZVafKLePdxruDfdfi-IiZtXz-k9) - A YouTube collection of various talks given by Greg Young.
 
-## Mailing Lists and Forums
+## Community Resources
 
 - [DDD/CQRS Google Group](https://groups.google.com/forum/?utm_source=digest&utm_medium=email#!forum/dddcqrs) - An active mailing list and an excellent resource to ask questions and learn fine-grained details about DDD/CQRS.
 - [Domain Driven Design Yahoo Group](https://groups.yahoo.com/neo/groups/domaindrivendesign/conversations/messages) - This group is for discussion of the domain-driven style of designing software, and the book by Eric Evans, Domain-Driven Design: Tackling Complexity in the Heart of Business Software. Questions and discussion of the book content is welcome here, as well as sharing of experiences applying DDD, and discussions of the topic in general.
 - [DDDinPHP Google Group](https://groups.google.com/forum/#!forum/dddinphp) - The place to discuss Domain-Driven Design, CQRS, Event Sourcing, Model Storming, Hexagonal Architecture, Distributed Systems, Reactive... in the context of PHP.
 - [EventStormers Google+ Community](https://plus.google.com/u/0/communities/113258571348605620818) - A public discussion group for everybody interested in EventStorming, and related themes.
-- [DDD Weekly](http://dddweekly.com) - Weekly curated links related to DDD/CQRS/ES.
 - [DDD/CQRS/ES Slack](https://ddd-cqrs-es.herokuapp.com/) - A slack team for those who want to chat about Domain-Driven Design, CQRS, Event Sourcing and sometimes random things. Main channel is language and framework agnostic.
 
 ## Blogs
 
-- [Nick Chamberlain](https://buildplease.com)
-- [Daniel Whittaker: CQRS and Event Sourcing](http://danielwhittaker.me)
-- [Cyrille Martraire](http://cyrille.martraire.com)
-- [Jimmy Bogard: Los Techies](https://lostechies.com/jimmybogard/)
-- [CodeBetter](http://codebetter.com)
-- [Greg Young: Good Enough Software](https://goodenoughsoftware.net/)
-- [InfoQ Blog (tagged "Domain-Driven Design")](https://www.infoq.com/domaindrivendesign/)
-- [Dan North](https://dannorth.net/blog/)
-- [Mike Mogosanu: Sapiens Works](http://blog.sapiensworks.com)
-- [Christian Posta](http://blog.christianposta.com)
-- [Vladimir Khorikov: Enterprise Craftsmanship](http://enterprisecraftsmanship.com)
-- [TechBeacon (search "Domain-Driven Design")](http://techbeacon.com/)
-- [Derek Comartin: CodeOpinion](http://codeopinion.com)
-- [Alberto Brandolini: Ziobrando's Lair](https://ziobrando.blogspot.it)
-- [Jérémie Chassaing: Think Before Coding](http://thinkbeforecoding.com/)
+- [Nick Chamberlain](https://buildplease.com) - Helpful development and design advice for .NET developers.
+- [DDD Weekly](http://dddweekly.com) - Weekly curated links related to DDD/CQRS/ES.
+- [Daniel Whittaker](http://danielwhittaker.me) - Want to learn about CQRS and Event Sourcing? This blog is packed with step-by-step articles to give you a head start.
+- [Cyrille Martraire](http://cyrille.martraire.com) - Being so immersed in finance while still in love with programming, I’m naturally a big fan of Domain-Driven Design by Eric Evans, along with TDD, BDD and agile/XP  practices.
+- [Jimmy Bogard](https://lostechies.com/jimmybogard/) - I focus on DDD, distributed systems, and any other acronym-centric design/architecture/methodology
+- [CodeBetter](http://codebetter.com) - CodeBetter.Com exists in order to help foster awareness of better practices, superior tools, proven methodologies and techniques within the software development community.
+- [Greg Young](https://goodenoughsoftware.net/) - Good Enough Software is By Definition Good Enough.
+- [InfoQ Blog](https://www.infoq.com/domaindrivendesign/) - Domain-Driven Design Content on InfoQ.
+- [Dan North](https://dannorth.net/blog/) - Inventor of Behavior-Driven Design.  Blogs and talks about Event Storming also.
+- [Mike Mogosanu](http://blog.sapiensworks.com) - Maintainable code is a business advantage.
+- [Christian Posta](http://blog.christianposta.com) - Principal Middleware Architect @ Red Hat, open-source enthusiast, committer @ Apache, Cloud, Integration, Kubernetes, Docker, OpenShift, Fabric8.
+- [Vladimir Khorikov](http://enterprisecraftsmanship.com) - Software development principles and best practices.
+- [TechBeacon](http://techbeacon.com/)
+- [Derek Comartin](http://codeopinion.com)
+- [Alberto Brandolini](https://ziobrando.blogspot.it)
+- [Jérémie Chassaing](http://thinkbeforecoding.com/)
 - [Adam Brodziak](https://medium.com/@adambrodziak)
-- [Vaughn Vernon: Software Craftsman](https://vaughnvernon.co)
+- [Vaughn Vernon](https://vaughnvernon.co)
 - [Vladik Khononov](http://vladikk.com/)
 - [Eventsourcing Publications](https://blog.eventsourcing.com)
 - [Jef Claes](http://www.jefclaes.be/)
