@@ -83,31 +83,31 @@ The term was coined by Eric Evans in his book of the same title.
 - [DDD Weekly](http://dddweekly.com) - Weekly curated links related to DDD/CQRS/ES.
 - [Daniel Whittaker](http://danielwhittaker.me) - Want to learn about CQRS and Event Sourcing? This blog is packed with step-by-step articles to give you a head start.
 - [Cyrille Martraire](http://cyrille.martraire.com) - Being so immersed in finance while still in love with programming, I’m naturally a big fan of Domain-Driven Design by Eric Evans, along with TDD, BDD and agile/XP practices.
-- [Jimmy Bogard](https://lostechies.com/jimmybogard/) - I focus on DDD, distributed systems, and any other acronym-centric design/architecture/methodology
+- [Jimmy Bogard](https://lostechies.com/jimmybogard/) - I focus on DDD, distributed systems, and any other acronym-centric design/architecture/methodology.
 - [CodeBetter](http://codebetter.com) - CodeBetter.Com exists in order to help foster awareness of better practices, superior tools, proven methodologies and techniques within the software development community.
 - [Greg Young](https://goodenoughsoftware.net/) - Good Enough Software is By Definition Good Enough.
 - [InfoQ Blog](https://www.infoq.com/domaindrivendesign/) - Domain-Driven Design Content on InfoQ.
 - [Dan North](https://dannorth.net/blog/) - Inventor of Behavior-Driven Design.  Blogs and talks about Event Storming also.
-- [Mike Mogosanu](http://blog.sapiensworks.com) - Maintainable code is a business advantage.  Creator of Domain Map: The Domain Modelling Tool - Easy And Powerful Domain Driven Design.
+- [Mike Mogosanu](http://blog.sapiensworks.com) - Maintainable code is a business advantage.  Creator of Domain Map: The Domain Modeling Tool - Easy And Powerful Domain Driven Design.
 - [Christian Posta](http://blog.christianposta.com) - Principal Middleware Architect @ Red Hat, open-source enthusiast, committer @ Apache, Cloud, Integration, Kubernetes, Docker, OpenShift, Fabric8.
-- [Vladimir Khorikov](http://enterprisecraftsmanship.com) - Pluralsight author.  Software development principles and best practices.
+- [Vladimir Khorikov](http://enterprisecraftsmanship.com) - Pluralsight author.  Blogs about software development principles and best practices.
 - [TechBeacon](http://techbeacon.com/) - Articles on TechBeacon tagged *domain driven design*.
-- [Derek Comartin](http://codeopinion.com) - Over fifteen years of design and development experience in professional environments.  Articles under the category *Domain Driven Design*.
+- [Derek Comartin](http://codeopinion.com) - Articles under the category *Domain Driven Design*.
 - [Alberto Brandolini](https://ziobrando.blogspot.it) - Inventor of Event Storming. Asserting that problems cannot be solved with the same mindset that originated them, Alberto switches perspective frequently assuming the architect, mentor, coach, manager or developer point of view.
 - [Jérémie Chassaing](http://thinkbeforecoding.com/) - Various articles about DDD/CQRS.  Implemented Greg Young's SimpleCQRS sample in F#.
 - [Vaughn Vernon](https://vaughnvernon.co) - Vaughn Vernon understands the unique demands of software development and the challenges you face as you improve your craft in a fast-paced industry.
 - [Vladik Khononov](http://vladikk.com/) - Various DDD-related articles.
 - [Eventsourcing Publications](https://blog.eventsourcing.com) - Practical event sourcing.
-- [Jef Claes](http://www.jefclaes.be/)
-- [Udi Dahan](http://udidahan.com/articles/)
-- [Chris Patterson](https://lostechies.com/chrispatterson/)
-- [Aaron Stannard](http://www.aaronstannard.com/)
-- [Roger Johansson](https://rogeralsing.com/)
-- [Konrad Garus](http://squirrel.pl/blog/)
-- [Oasis Digital](http://blog.oasisdigital.com/category/cqrs/)
-- [Adaptech](http://adaptechsolutions.net/blog/)
-- [Lev Gorodinski](http://gorodinski.com/)
-- [Dino Esposito](https://software2cents.wordpress.com/)
+- [Jef Claes](http://www.jefclaes.be/) - Excellent articles and talks on Domain-Driven Design.
+- [Udi Dahan](http://udidahan.com/articles/) - From the creator of NServiceBus.
+- [Chris Patterson](https://lostechies.com/chrispatterson/) - From the creator of the MassTransit distributed application framework.
+- [Aaron Stannard](http://www.aaronstannard.com/) - From the CTO and co-founder of Petabridge, developers of the Akka.NET Actor Model framework.
+- [Roger Johansson](https://rogeralsing.com/) - Mostly C#, DDD, and Akka.NET.
+- [Konrad Garus](http://squirrel.pl/blog/) - Ranting and Programming in Java, Clojure, and JavaScript.  Articles tagged under *cqrs*.
+- [Oasis Digital](http://blog.oasisdigital.com/category/cqrs/) - Content by Oasis Digital tagged under *cqrs*.
+- [Adaptech](http://adaptechsolutions.net/blog/) - Adaptech Solutions blog.  Our founder, Adam Dymitruk, debated the merits of CQRS with Greg Young before Greg coined the term. Adam and business partner Robert Reppel are among the leading practitioners of event-sourced microservices.
+- [Lev Gorodinski](http://gorodinski.com/) - Several articles about DDD from 2013, which are still relevant.
+- [Dino Esposito](https://software2cents.wordpress.com/) - Software architect, trainer, book author.  Author of [Microsoft .NET - Architecting Applications for the Enterprise (2nd Edition)](https://www.amazon.com/Microsoft-NET-Architecting-Applications-Enterprise/dp/0735685355/).
 
 ## Sample Projects
 
@@ -150,6 +150,7 @@ The term was coined by Eric Evans in his book of the same title.
 - [MassTransit](https://github.com/MassTransit/MassTransit) - Distributed Application Framework for .NET.
 - [Akka.NET](http://getakka.net/) - Akka.NET is a toolkit and runtime for building highly concurrent, distributed, and fault tolerant event-driven applications on .NET & Mono.
 - [ASP.NET Boilerplate](http://aspnetboilerplate.com/) - ASP.NET MVC, Web API and ASP.NET Core based application framework to create NLayered, Domain Driven Designed web Applications implementing best practices.
+- [Aggregates.NET](https://github.com/volak/Aggregates.NET) - .NET event sourced domain driven design model via NServicebus and GetEventStore.
 
 ## Podcasts and Interviews
 
