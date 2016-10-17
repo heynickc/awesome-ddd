@@ -74,6 +74,7 @@ The term was coined by Eric Evans in his book of the same title.
 - [DDDinPHP Google Group](https://groups.google.com/forum/#!forum/dddinphp) - The place to discuss Domain-Driven Design, CQRS, Event Sourcing, Model Storming, Hexagonal Architecture, Distributed Systems, Reactive... in the context of PHP.
 - [EventStormers Google+ Community](https://plus.google.com/u/0/communities/113258571348605620818) - A public discussion group for everybody interested in EventStorming, and related themes.
 - [DDD/CQRS/ES Slack](https://ddd-cqrs-es.herokuapp.com/) - A slack team for those who want to chat about Domain-Driven Design, CQRS, Event Sourcing and sometimes random things. Main channel is language and framework agnostic.
+- [Stack Overflow](https://programmers.stackexchange.com/questions/tagged/domain-driven-design) - Stack Exchange questions tagged *
 
 ## Blogs
 
@@ -88,13 +89,12 @@ The term was coined by Eric Evans in his book of the same title.
 - [Dan North](https://dannorth.net/blog/) - Inventor of Behavior-Driven Design.  Blogs and talks about Event Storming also.
 - [Mike Mogosanu](http://blog.sapiensworks.com) - Maintainable code is a business advantage.
 - [Christian Posta](http://blog.christianposta.com) - Principal Middleware Architect @ Red Hat, open-source enthusiast, committer @ Apache, Cloud, Integration, Kubernetes, Docker, OpenShift, Fabric8.
-- [Vladimir Khorikov](http://enterprisecraftsmanship.com) - Software development principles and best practices.
-- [TechBeacon](http://techbeacon.com/)
-- [Derek Comartin](http://codeopinion.com)
-- [Alberto Brandolini](https://ziobrando.blogspot.it)
-- [Jérémie Chassaing](http://thinkbeforecoding.com/)
-- [Adam Brodziak](https://medium.com/@adambrodziak)
-- [Vaughn Vernon](https://vaughnvernon.co)
+- [Vladimir Khorikov](http://enterprisecraftsmanship.com) - Pluralsight author.  Software development principles and best practices.
+- [TechBeacon](http://techbeacon.com/) - Articles on TechBeacon tagged *domain driven design*.
+- [Derek Comartin](http://codeopinion.com) - Over fifteen years of design and development experience in professional environments.  Articles under the category *Domain Driven Design*.
+- [Alberto Brandolini](https://ziobrando.blogspot.it) - Inventor of Event Storming. Asserting that problems cannot be solved with the same mindset that originated them, Alberto switches perspective frequently assuming the architect, mentor, coach, manager or developer point of view.
+- [Jérémie Chassaing](http://thinkbeforecoding.com/) - Various articles about DDD/CQRS.  Implemented Greg Young's SimpleCQRS sample in F#.
+- [Vaughn Vernon](https://vaughnvernon.co) - Vaughn Vernon understands the unique demands of software development and the challenges you face as you improve your craft in a fast-paced industry.
 - [Vladik Khononov](http://vladikk.com/)
 - [Eventsourcing Publications](https://blog.eventsourcing.com)
 - [Jef Claes](http://www.jefclaes.be/)
@@ -152,13 +152,13 @@ The term was coined by Eric Evans in his book of the same title.
 
 ## Podcasts and Interviews
 
-- [Deeper into DDD on DotNetRocks with David Real](http://dotnetrocks.com/?show=1151) 11 June 2015.
-- [Thinking in DDD on DotNetRocks with Julie Lerman and Steve Smith](http://dotnetrocks.com/?show=1023) 19 August 2014.
-- [Eric Evans on Domain Driven Design on DotNetRocks](http://dotnetrocks.com/?show=236) 10 May 2007.
-- [Jimmy Nilsson on Domain Driven Design on DotNetRocks](http://dotnetrocks.com/?show=191) 29 August 2006.
-- [Being the Worst](http://www.beingtheworst.com) 2012-2016.
-- [Software Engineering Radio Episode 225: Eric Evans on Domain-Driven Design at 10 Years](http://www.se-radio.net/2015/05/se-radio-episode-226-eric-evans-on-domain-driven-design-at-10-years/) 13 May 2015.
-- [Software Engineering Radio Episode 218: Udi Dahan on CQRS (Command Query Responsibility Segregation)](http://www.se-radio.net/2015/01/episode-218-udi-dahan-on-cqrs-command-query-responsibility-segregation/) 30 January 2015.
+- [Deeper into DDD on DotNetRocks with David Real](http://dotnetrocks.com/?show=1151) - 11 June 2015.
+- [Thinking in DDD on DotNetRocks with Julie Lerman and Steve Smith](http://dotnetrocks.com/?show=1023) - 19 August 2014.
+- [Eric Evans on Domain Driven Design on DotNetRocks](http://dotnetrocks.com/?show=236) - 10 May 2007.
+- [Jimmy Nilsson on Domain Driven Design on DotNetRocks](http://dotnetrocks.com/?show=191) - 29 August 2006.
+- [Being the Worst](http://www.beingtheworst.com) - 2012 thru 2016.
+- [Software Engineering Radio Episode 225: Eric Evans on Domain-Driven Design at 10 Years](http://www.se-radio.net/2015/05/se-radio-episode-226-eric-evans-on-domain-driven-design-at-10-years/) - 13 May 2015.
+- [Software Engineering Radio Episode 218: Udi Dahan on CQRS (Command Query Responsibility Segregation)](http://www.se-radio.net/2015/01/episode-218-udi-dahan-on-cqrs-command-query-responsibility-segregation/) - 30 January 2015.
 
 ## User Groups
 
@@ -171,7 +171,6 @@ The term was coined by Eric Evans in his book of the same title.
 - [Wroclaw](http://www.meetup.com/DDD-WRO)
 - [Phoenix](https://www.meetup.com/DDD-Phoenix)
 - [Denver](https://www.meetup.com/ddd-denver/)
-
 
 ## License
 
