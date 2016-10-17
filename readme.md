@@ -125,7 +125,7 @@ The term was coined by Eric Evans in his book of the same title.
 - [Akka CQRS ES Demo](https://github.com/mdonkers/akka-cqrs-es-demo) - Demo project to implement the CQRS and Event Sourcing patterns in Scala-Akka.
 - [DDD Leaven](https://github.com/BottegaIT/ddd-leaven-v2) - DDD-CQRS sample v2.0 project that helps you with starting out advanced domain modeling using Spring, JPA and testing.
 - [DDD Playground](https://github.com/jorge07/ddd-playground/) - Sample implementation in PHP.
-- [Fohjin](https://github.com/MarkNijhof/Fohjin) - The example project I created based on these discussions was very well received by the community and regarded a good reference project to explain and learn the patterns that make up CQRS.
+- [Fohjin](https://github.com/MarkNijhof/Fohjin) - Example project that accompanies Mark Nijhof's [CQRS](https://leanpub.com/cqrs) book.
 
 ## Libraries and Frameworks
 
