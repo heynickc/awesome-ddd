@@ -148,6 +148,7 @@ The term was coined by Eric Evans in his book of the same title.
 - [CQRS on Azure](https://github.com/MerrionComputing/CQRSAzure) CQRS on Windows Azure.
 - [SeedStack's Business Framework](http://seedstack.org/docs/business/) - A set of building blocks that enable you to code business logic according to the Domain-Driven Design (DDD) approach.
 - [SqlStreamStore](https://github.com/damianh/SqlStreamStore) - .NET Stream Store library targeting SQL based implementations.
+- [Cedar.CommandHandling](https://github.com/damianh/Cedar.CommandHandling) - Middleware to handling commands over HTTP; typically used in CQRS applications.
 - [NServiceBus](https://github.com/Particular/NServiceBus) - Service bus for .NET.
 - [MassTransit](https://github.com/MassTransit/MassTransit) - Distributed Application Framework for .NET.
 - [Akka.NET](http://getakka.net/) - Akka.NET is a toolkit and runtime for building highly concurrent, distributed, and fault tolerant event-driven applications on .NET & Mono.
