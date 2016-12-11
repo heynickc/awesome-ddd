@@ -55,6 +55,7 @@ The term was coined by Eric Evans in his book of the same title.
 - [Advanced Distributed Systems Design](https://5757066.flickrocket.com/us/) - Live training from Udi Dahan.  Udi's live training schedule can be found [here](http://udidahan.com/training/).
 - [Nomad PHP](https://nomadphp.com/product/introduction-event-sourcing-cqrs/) - Introduction to Event Sourcing and CQRS.
 - [Event Sourcery](https://eventsourcery.com/) - Introduction to DDD, CQRS, and Event Sourcing.
+- [Mixter](https://github.com/DevLyon/mixter) - CQRS and Event Sourcing Koans.
 - [Pluralsight](https://pluralsight.com)
 	 - [Domain-Driven Design Fundamentals](https://www.pluralsight.com/courses/domain-driven-design-fundamentals) - Teaches the fundamentals of Domain-Driven Design (DDD) through a demonstration of customer interactions and a complex demo application, along with advice from Eric Evans.
 	 - [Domain-Driven Design in Practice](https://www.pluralsight.com/courses/domain-driven-design-in-practice) - A descriptive, in-depth walk-through for applying Domain-Driven Design principles in practice.
