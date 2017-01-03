@@ -56,6 +56,7 @@ The term was coined by Eric Evans in his book of the same title.
 - [Advanced Distributed Systems Design](https://5757066.flickrocket.com/us/) - Live training from Udi Dahan.  Udi's live training schedule can be found [here](http://udidahan.com/training/).
 - [Nomad PHP](https://nomadphp.com/product/introduction-event-sourcing-cqrs/) - Introduction to Event Sourcing and CQRS.
 - [Event Sourcery](https://eventsourcery.com/) - Introduction to DDD, CQRS, and Event Sourcing.
+- [Mixter](https://github.com/DevLyon/mixter) - CQRS and Event Sourcing Koans.
 - [Pluralsight](https://pluralsight.com)
 	 - [Domain-Driven Design Fundamentals](https://www.pluralsight.com/courses/domain-driven-design-fundamentals) - Teaches the fundamentals of Domain-Driven Design (DDD) through a demonstration of customer interactions and a complex demo application, along with advice from Eric Evans.
 	 - [Domain-Driven Design in Practice](https://www.pluralsight.com/courses/domain-driven-design-in-practice) - A descriptive, in-depth walk-through for applying Domain-Driven Design principles in practice.
@@ -76,8 +77,10 @@ The term was coined by Eric Evans in his book of the same title.
 - [DDD in Ruby subreddit](https://www.reddit.com/r/ddd_ruby/) - A subreddit for Ruby developers interested in Domain-Driven Design.
 - [EventStormers Google+ Community](https://plus.google.com/u/0/communities/113258571348605620818) - A public discussion group for everybody interested in EventStorming, and related themes.
 - [DDD/CQRS/ES Slack](https://ddd-cqrs-es.herokuapp.com/) - A slack team for those who want to chat about Domain-Driven Design, CQRS, Event Sourcing and sometimes random things. Main channel is language and framework agnostic.
-- [Stack Exchange](https://programmers.stackexchange.com/questions/tagged/domain-driven-design) - Stack Exchange questions tagged *domain-driven-design*.
+- [Software Engineering Stack Exchange](http://softwareengineering.stackexchange.com/questions/tagged/domain-driven-design) - Software Engineering Stack Exchange questions tagged *domain-driven-design*.
+- [Code Review Stack Exchange](http://codereview.stackexchange.com/questions/tagged/ddd) - Code Review Stack Exchange questions tagged *domain-driven-design*.
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/domain-driven-design) - Stack Overflow questions tagged *domain-driven-design*.
+- [Quora](https://www.quora.com/pinned/Domain-Driven-Design-DDD) - Questions tagged *domain-driven-design*.
 
 ## Blogs
 
