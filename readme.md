@@ -185,6 +185,7 @@ The term was coined by Eric Evans in his book of the same title.
 - [Wroclaw](http://www.meetup.com/DDD-WRO)
 - [Phoenix](https://www.meetup.com/DDD-Phoenix)
 - [Denver](https://www.meetup.com/ddd-denver/)
+- [Greece](https://www.meetup.com/dddgreece/)
 
 ## License
 
