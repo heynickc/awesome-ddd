@@ -147,7 +147,7 @@ The term was coined by Eric Evans in his book of the same title.
 - [Projac](https://github.com/yreynhout/Projac) - Projac is a set of projection libraries that allow you to write projections targetting various backing stores.
 - [Streamstone](https://github.com/yevhen/Streamstone) - Event Store for Azure Table Storage.
 - [Value](https://github.com/tpierrain/Value) - Help you to easily implement Value Types in your C# projects without making errors nor polluting your domain logic with boiler-plate code.
-- [Cirquis](https://github.com/d60/Cirqus) - d60 event sourcing + CQRS framework.
+- [Cirqus](https://github.com/d60/Cirqus) - d60 event sourcing + CQRS framework.
 - [Its.Cqrs](https://github.com/jonsequitur/Its.Cqrs) - A set of libraries for CQRS and Event Sourcing, with a Domain-Driven Design flavor.
 - [AggregateSource](https://github.com/yreynhout/aggregateSource) - Lightweight infrastructure for doing eventsourcing using aggregates.
 - [JESA](https://github.com/yreynhout/JESA) -  Event sourced aggregates for Java.
