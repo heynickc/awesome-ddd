@@ -28,7 +28,7 @@ The term was coined by Eric Evans in his book of the same title.
 - [Sample Projects](#sample-projects)
 - [Libraries and Frameworks](#libraries-and-frameworks)
 - [Podcasts and Interviews](#podcasts-and-interviews)
-- [Conferences] (#conferences)
+- [Conferences](#conferences)
 - [User Groups](#user-groups)
 
 ## Books
