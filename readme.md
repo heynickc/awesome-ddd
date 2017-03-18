@@ -28,6 +28,7 @@ The term was coined by Eric Evans in his book of the same title.
 - [Sample Projects](#sample-projects)
 - [Libraries and Frameworks](#libraries-and-frameworks)
 - [Podcasts and Interviews](#podcasts-and-interviews)
+- [Conferences] (#conferences)
 - [User Groups](#user-groups)
 
 ## Books
@@ -176,6 +177,12 @@ The term was coined by Eric Evans in his book of the same title.
 - [Being the Worst](http://www.beingtheworst.com) - 2012 thru 2016.
 - [Software Engineering Radio Episode 225: Eric Evans on Domain-Driven Design at 10 Years](http://www.se-radio.net/2015/05/se-radio-episode-226-eric-evans-on-domain-driven-design-at-10-years/) - 13 May 2015.
 - [Software Engineering Radio Episode 218: Udi Dahan on CQRS (Command Query Responsibility Segregation)](http://www.se-radio.net/2015/01/episode-218-udi-dahan-on-cqrs-command-query-responsibility-segregation/) - 30 January 2015.
+
+## Conferences
+
+- [Domain-Driven Design Europe - Netherlands](http://www.dddeurope.com)
+- [Explore DDD - USA](http://exploreddd.com/)
+- [Kandddinsky - Germany](http://kandddinsky.com/)
 
 ## User Groups
 
