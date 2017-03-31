@@ -28,6 +28,7 @@ The term was coined by Eric Evans in his book of the same title.
 - [Sample Projects](#sample-projects)
 - [Libraries and Frameworks](#libraries-and-frameworks)
 - [Podcasts and Interviews](#podcasts-and-interviews)
+- [Conferences](#conferences)
 - [User Groups](#user-groups)
 
 ## Books
@@ -147,7 +148,7 @@ The term was coined by Eric Evans in his book of the same title.
 - [Projac](https://github.com/yreynhout/Projac) - Projac is a set of projection libraries that allow you to write projections targetting various backing stores.
 - [Streamstone](https://github.com/yevhen/Streamstone) - Event Store for Azure Table Storage.
 - [Value](https://github.com/tpierrain/Value) - Help you to easily implement Value Types in your C# projects without making errors nor polluting your domain logic with boiler-plate code.
-- [Cirquis](https://github.com/d60/Cirqus) - d60 event sourcing + CQRS framework.
+- [Cirqus](https://github.com/d60/Cirqus) - d60 event sourcing + CQRS framework.
 - [Its.Cqrs](https://github.com/jonsequitur/Its.Cqrs) - A set of libraries for CQRS and Event Sourcing, with a Domain-Driven Design flavor.
 - [AggregateSource](https://github.com/yreynhout/aggregateSource) - Lightweight infrastructure for doing eventsourcing using aggregates.
 - [JESA](https://github.com/yreynhout/JESA) -  Event sourced aggregates for Java.
@@ -177,6 +178,12 @@ The term was coined by Eric Evans in his book of the same title.
 - [Being the Worst](http://www.beingtheworst.com) - 2012 thru 2016.
 - [Software Engineering Radio Episode 225: Eric Evans on Domain-Driven Design at 10 Years](http://www.se-radio.net/2015/05/se-radio-episode-226-eric-evans-on-domain-driven-design-at-10-years/) - 13 May 2015.
 - [Software Engineering Radio Episode 218: Udi Dahan on CQRS (Command Query Responsibility Segregation)](http://www.se-radio.net/2015/01/episode-218-udi-dahan-on-cqrs-command-query-responsibility-segregation/) - 30 January 2015.
+
+## Conferences
+
+- [Domain-Driven Design Europe - Netherlands](http://www.dddeurope.com)
+- [Explore DDD - USA](http://exploreddd.com/)
+- [Kandddinsky - Germany](http://kandddinsky.com/)
 
 ## User Groups
 
