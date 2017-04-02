@@ -188,6 +188,7 @@ The term was coined by Eric Evans in his book of the same title.
 ## User Groups
 
 - [Belgium](http://www.meetup.com/dddbelgium/)
+- [Hamburg](https://www.meetup.com/DDD-HH-Domain-driven-Design-Hamburg/)
 - [Munich](http://www.meetup.com/Domain-Driven-Design-Munich/)
 - [Berlin](http://www.meetup.com/Domain-Driven-Design-Berlin/)
 - [Nederland](http://www.meetup.com/Domain-Driven-Design-Nederland/)
