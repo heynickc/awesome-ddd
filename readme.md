@@ -172,6 +172,7 @@ The term was coined by Eric Evans in his book of the same title.
 - [akka-ddd](https://github.com/pawelkaczor/akka-ddd) - Reusable artifacts for building applications on top of the Akka platform following CQRS/DDDD-based approach.
 - [eventstore](https://github.com/slashdotdash/eventstore) - CQRS event store using PostgreSQL for persistence.
 - [Node API Boilerplate](https://github.com/talyssonoc/node-api-boilerplate) - NodeJS web API boilerplate for DDD and Clean Architecture applications.
+- [wolkenkit](https://www.wolkenkit.io/) - A CQRS, DDD, and event-sourcing framework for JavaScript and Node.js.
 
 ## Podcasts and Interviews
 
