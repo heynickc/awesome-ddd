@@ -195,17 +195,18 @@ The term was coined by Eric Evans in his book of the same title.
 ## User Groups
 
 - [Belgium](http://www.meetup.com/dddbelgium/)
-- [Hamburg](https://www.meetup.com/DDD-HH-Domain-driven-Design-Hamburg/)
-- [Munich](http://www.meetup.com/Domain-Driven-Design-Munich/)
 - [Berlin](http://www.meetup.com/Domain-Driven-Design-Berlin/)
-- [Nederland](http://www.meetup.com/Domain-Driven-Design-Nederland/)
-- [London](http://www.meetup.com/dddlondon/)
-- [Kraków](http://www.meetup.com/ddd-krk/)
-- [Wroclaw](http://www.meetup.com/DDD-WRO)
-- [Phoenix](https://www.meetup.com/DDD-Phoenix)
+- [Cologne/Bonn](https://www.meetup.com/de-DE/preview/Domain-Driven-Design-Koln-Bonn/)
 - [Denver](https://www.meetup.com/ddd-denver/)
 - [Greece](https://www.meetup.com/dddgreece/)
+- [Hamburg](https://www.meetup.com/DDD-HH-Domain-driven-Design-Hamburg/)
+- [Kraków](http://www.meetup.com/ddd-krk/)
+- [London](http://www.meetup.com/dddlondon/)
+- [Munich](http://www.meetup.com/Domain-Driven-Design-Munich/)
+- [Nederland](http://www.meetup.com/Domain-Driven-Design-Nederland/)
 - [Norway](https://www.meetup.com/dddnorway/)
+- [Phoenix](https://www.meetup.com/DDD-Phoenix)
+- [Wroclaw](http://www.meetup.com/DDD-WRO)
 
 ## License
 
