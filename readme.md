@@ -196,7 +196,7 @@ The term was coined by Eric Evans in his book of the same title.
 
 - [Belgium](http://www.meetup.com/dddbelgium/)
 - [Berlin](http://www.meetup.com/Domain-Driven-Design-Berlin/)
-- [Cologne/Bonn](https://www.meetup.com/de-DE/preview/Domain-Driven-Design-Koln-Bonn/)
+- [Cologne/Bonn](https://www.meetup.com/Domain-Driven-Design-Koln-Bonn/)
 - [Denver](https://www.meetup.com/ddd-denver/)
 - [Greece](https://www.meetup.com/dddgreece/)
 - [Hamburg](https://www.meetup.com/DDD-HH-Domain-driven-Design-Hamburg/)
