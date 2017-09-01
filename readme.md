@@ -143,6 +143,7 @@ The term was coined by Eric Evans in his book of the same title.
 - [Event Sourcing Example](https://github.com/Pragmatists/eventsourcing-java-example) (Java) - A simplified (in memory) example of Event Sourcing and CQRS implementation for Java code (modeled for banking domain use cases).
 - [Event Sourcing and CQRS Examples](https://github.com/andreschaffer/event-sourcing-cqrs-examples) - A pragmatic application of Event Sourcing and CQRS in Java with good references for common related problems, e.g. event ordering and idempotency.
 - [DDD Wish List](https://github.com/franzose/symfony-ddd-wishlist) - A sample application in PHP built with Symfony 3 and Vue.js.
+- [Event Sourcing and CQRS Sample](https://github.com/pilloPl/event-source-cqrs-sample) - Sample event sourced application with Command Query Responsibility Segregation
 
 ## Libraries and Frameworks
 
@@ -196,17 +197,18 @@ The term was coined by Eric Evans in his book of the same title.
 ## User Groups
 
 - [Belgium](http://www.meetup.com/dddbelgium/)
-- [Hamburg](https://www.meetup.com/DDD-HH-Domain-driven-Design-Hamburg/)
-- [Munich](http://www.meetup.com/Domain-Driven-Design-Munich/)
 - [Berlin](http://www.meetup.com/Domain-Driven-Design-Berlin/)
-- [Nederland](http://www.meetup.com/Domain-Driven-Design-Nederland/)
-- [London](http://www.meetup.com/dddlondon/)
-- [Kraków](http://www.meetup.com/ddd-krk/)
-- [Wroclaw](http://www.meetup.com/DDD-WRO)
-- [Phoenix](https://www.meetup.com/DDD-Phoenix)
+- [Cologne/Bonn](https://www.meetup.com/Domain-Driven-Design-Koln-Bonn/)
 - [Denver](https://www.meetup.com/ddd-denver/)
 - [Greece](https://www.meetup.com/dddgreece/)
+- [Hamburg](https://www.meetup.com/DDD-HH-Domain-driven-Design-Hamburg/)
+- [Kraków](http://www.meetup.com/ddd-krk/)
+- [London](http://www.meetup.com/dddlondon/)
+- [Munich](http://www.meetup.com/Domain-Driven-Design-Munich/)
+- [Nederland](http://www.meetup.com/Domain-Driven-Design-Nederland/)
 - [Norway](https://www.meetup.com/dddnorway/)
+- [Phoenix](https://www.meetup.com/DDD-Phoenix)
+- [Wroclaw](http://www.meetup.com/DDD-WRO)
 
 ## License
 
