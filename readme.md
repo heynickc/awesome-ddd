@@ -159,6 +159,7 @@ The term was coined by Eric Evans in his book of the same title.
 - [DDD Wish List](https://github.com/franzose/symfony-ddd-wishlist) - A sample application in PHP built with Symfony 3 and Vue.js.
 - [Event Sourcing and CQRS Sample](https://github.com/pilloPl/event-source-cqrs-sample) - Sample event sourced application with Command Query Responsibility Segregation
 - [wolkenkit-todomvc](https://github.com/thenativeweb/wolkenkit-todomvc) - TodoMVC built with DDD, CQRS and event-sourcing
+- [wolkenkit-nevercompletedgame](https://github.com/thenativeweb/wolkenkit-nevercompletedgame) - A DDD implementation of the riddle at nevercompletedgame.com
 
 ## Libraries and Frameworks
 
