@@ -4,11 +4,6 @@
 
 **Check out my [blog](https://buildplease.com) and [weekly DDD newsletter](https://buildplease.com/pages/dddweekly/) or say hi on [Twitter](https://twitter.com/heynickc)!**
 
-**Want some more in-depth discussions on the patterns and practices listed below?  Buy my latest ebooks:**
-
-- [Applying Domain-Driven Design with CQRS and Event Sourcing](https://buildplease.com/products/fpc/)
-- [Event Sourcing and CQRS with .NET Core and SQL Server](https://buildplease.com/products/fpc-v2/)
-
 **[Domain-Driven Design (DDD)](https://en.m.wikipedia.org/wiki/Domain-driven_design)** is an approach to software development for complex needs by connecting the implementation to an evolving model.  The premise of Domain-Driven Design is the following:
 
 - placing the project's primary focus on the core domain and domain logic
