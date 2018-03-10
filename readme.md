@@ -155,6 +155,7 @@ The term was coined by Eric Evans in his book of the same title.
 - [Event Sourcing and CQRS Sample](https://github.com/pilloPl/event-source-cqrs-sample) - Sample event sourced application with Command Query Responsibility Segregation
 - [wolkenkit-todomvc](https://github.com/thenativeweb/wolkenkit-todomvc) - TodoMVC built with DDD, CQRS and event-sourcing
 - [DDDInventoryItemFSharp](https://github.com/eulerfx/DDDInventoryItemFSharp) - An idiomatic F# implementation of Domain-Driven Design
+- [Complete example of Domain-Driven Design enterprise application](https://github.com/michal-michaluk/factory) - Complete example of Domain-Driven Design enterprise application built on Spring Boot and Hibernate, backed by event storming analysis.
 
 ## Libraries and Frameworks
 
