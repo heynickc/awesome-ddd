@@ -26,6 +26,7 @@ The term was coined by Eric Evans in his book of the same title.
 - [Community Resources](#community-resources)
 - [Blogs](#blogs)
 - [Sample Projects](#sample-projects)
+  - [wolkenkit Sample Projects](#wolkenkit-sample-projects)
 - [Libraries and Frameworks](#libraries-and-frameworks)
 - [Podcasts and Interviews](#podcasts-and-interviews)
 - [Conferences](#conferences)
@@ -156,8 +157,14 @@ The term was coined by Eric Evans in his book of the same title.
 - [Event Sourcing and CQRS Examples](https://github.com/andreschaffer/event-sourcing-cqrs-examples) - A pragmatic application of Event Sourcing and CQRS in Java with good references for common related problems, e.g. event ordering and idempotency.
 - [DDD Wish List](https://github.com/franzose/symfony-ddd-wishlist) - A sample application in PHP built with Symfony 3 and Vue.js.
 - [Event Sourcing and CQRS Sample](https://github.com/pilloPl/event-source-cqrs-sample) - Sample event sourced application with Command Query Responsibility Segregation
-- [wolkenkit-todomvc](https://github.com/thenativeweb/wolkenkit-todomvc) - TodoMVC built with DDD, CQRS and event-sourcing
 - [DDDInventoryItemFSharp](https://github.com/eulerfx/DDDInventoryItemFSharp) - An idiomatic F# implementation of Domain-Driven Design
+
+### wolkenkit Sample Projects
+
+- [wolkenkit-boards](https://github.com/thenativeweb/wolkenkit-boards) - A team collaboration tool similar to Trello
+- [wolkenkit-geocaching](https://github.com/revrng/wolkenkit-geocaching) - A geocaching application built using DDD
+- [wolkenkit-nevercompletedgame](https://github.com/thenativeweb/wolkenkit-nevercompletedgame) - A DDD implementation of the riddle at nevercompletedgame.com
+- [wolkenkit-todomvc](https://github.com/thenativeweb/wolkenkit-todomvc) - TodoMVC built with DDD, CQRS and event-sourcing
 
 ## Libraries and Frameworks
 
