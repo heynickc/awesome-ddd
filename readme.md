@@ -217,6 +217,7 @@ The term was coined by Eric Evans in his book of the same title.
 ## User Groups
 
 - [Austria](https://www.meetup.com/ddd-vienna/)
+- [Belfast](https://dddbelfast.com/)
 - [Belgium](http://www.meetup.com/dddbelgium/)
 - [Berlin](http://www.meetup.com/Domain-Driven-Design-Berlin/)
 - [Cologne/Bonn](https://www.meetup.com/Domain-Driven-Design-Koln-Bonn/)
