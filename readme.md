@@ -30,6 +30,7 @@ The term was coined by Eric Evans in his book of the same title.
 - [Podcasts and Interviews](#podcasts-and-interviews)
 - [Conferences](#conferences)
 - [User Groups](#user-groups)
+- [Tools](#tools)
 
 ## Books
 
@@ -230,6 +231,10 @@ The term was coined by Eric Evans in his book of the same title.
 - [Norway](https://www.meetup.com/dddnorway/)
 - [Phoenix](https://www.meetup.com/DDD-Phoenix)
 - [Wroclaw](http://www.meetup.com/DDD-WRO)
+
+## Tools
+
+- [Domain Storytelling](http://www.domainstorytelling.org/) - a knowledge-crunching technique that helps the people involved to familiarize themselves with the domain and work out a model that expresses their shared understanding. Available as a [print-out template](http://www.domainstorytelling.org/images/DST_Whiteboard-Kit.pdf), as well as open-source online tool, [WPS Modeler](https://www.wps.de/modeler) ([source](https://github.com/wps/domain-story-modeler)).
 
 ## License
 
