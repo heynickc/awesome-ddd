@@ -239,7 +239,7 @@ The term was coined by Eric Evans in his book of the same title.
 - [Hamburg](https://www.meetup.com/DDD-HH-Domain-driven-Design-Hamburg/)
 - [Kraków](http://www.meetup.com/ddd-krk/)
 - [London](http://www.meetup.com/dddlondon/)
-- [Munich](http://www.meetup.com/Domain-Driven-Design-Munich/)
+- [Munich](https://www.meetup.com/Microservices-Meetup-Munich/)
 - [Nederland](http://www.meetup.com/Domain-Driven-Design-Nederland/)
 - [Norway](https://www.meetup.com/dddnorway/)
 - [Phoenix](https://www.meetup.com/DDD-Phoenix)
