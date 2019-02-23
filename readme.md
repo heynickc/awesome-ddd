@@ -131,6 +131,7 @@ The term was coined by Eric Evans in his book of the same title.
 - [Dan Bergh Johnsson "Dear Junior"](http://dearjunior.blogspot.se/search/label/domain%20driven%20design) - Domain-Driven Design mixed with security, and agile in general. Written as fictional letters to a younger programmer.
 - [the native web](https://www.thenativeweb.io/blog/2017-10-25-09-46-ddd-and-co-part-1-whats-wrong-with-crud/) - DDD & Co. series
 - [Arkency](https://blog.arkency.com/) - Various DDD, CQRS, Event Sourcing related articles from Ruby experts.
+- [Svaťa Šimara](http://svatasimara.cz/) - DDD series - language, domain, modeling, infrastructure, implementation in PHP
 - [Martin Havlišta](https://xhafan.com/blog/) - DDD, CQRS, TDD blog posts with code samples in C# .NET  
 
 ## Sample Projects
@@ -161,6 +162,7 @@ The term was coined by Eric Evans in his book of the same title.
 - [Event Sourcing and CQRS Sample](https://github.com/pilloPl/event-source-cqrs-sample) - Sample event sourced application with Command Query Responsibility Segregation
 - [wolkenkit Sample Applications](https://docs.wolkenkit.io/latest/media/sample-applications/wolkenkit-boards/) - A collection of DDD sample applications, such as TodoMVC, a geocaching app, collaborative boards, …
 - [DDDInventoryItemFSharp](https://github.com/eulerfx/DDDInventoryItemFSharp) - An idiomatic F# implementation of Domain-Driven Design
+- [Shop Cart in PHP](https://github.com/simara-svatopluk/cart) - Sample project that demonstrates how simple shop cart can look like. Domain objects, layers, unit testing, TDD, Doctrine integration.
 - [EmailMaker](https://github.com/xhafan/emailmaker) - Email marketing ASP.NET Core MVC and ASP.NET MVC demo app demonstrating [CoreDdd](https://github.com/xhafan/coreddd) usage
 - [Kotlin DDD Sample](https://github.com/fabriciorissetto/kotlin-ddd-sample) - Sample DDD/CQRS project written in Kotlin. 
 - [eShopOnContainersDDD](https://github.com/volak/eShopOnContainersDDD) - eShop fullstack example featuring catalog, basket, checkout, and order bounded contexts
