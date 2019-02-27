@@ -252,6 +252,7 @@ The term was coined by Eric Evans in his book of the same title.
 - [Norway](https://www.meetup.com/dddnorway/)
 - [Phoenix](https://www.meetup.com/DDD-Phoenix)
 - [Wroclaw](http://www.meetup.com/DDD-WRO)
+- [Warsaw](https://www.meetup.com/DDD-WAW)
 
 ## Tools
 
