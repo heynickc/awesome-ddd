@@ -249,22 +249,22 @@ The term was coined by Eric Evans in his book of the same title.
 ## User Groups
 
 - [Austria](https://www.meetup.com/ddd-vienna/)
-- [Belfast](https://dddbelfast.com/)
 - [Barcelona](https://www.meetup.com/dddbcn/)
+- [Belfast](https://dddbelfast.com/)
 - [Belgium](http://www.meetup.com/dddbelgium/)
 - [Berlin](http://www.meetup.com/Domain-Driven-Design-Berlin/)
 - [Cologne/Bonn](https://www.meetup.com/Domain-Driven-Design-Koln-Bonn/)
+- [Cracow](http://www.meetup.com/ddd-krk/)
 - [Denver](https://www.meetup.com/ddd-denver/)
 - [Greece](https://www.meetup.com/dddgreece/)
 - [Hamburg](https://www.meetup.com/DDD-HH-Domain-driven-Design-Hamburg/)
-- [Kraków](http://www.meetup.com/ddd-krk/)
 - [London](http://www.meetup.com/dddlondon/)
 - [Munich](https://www.meetup.com/Microservices-Meetup-Munich/)
 - [Nederland](http://www.meetup.com/Domain-Driven-Design-Nederland/)
 - [Norway](https://www.meetup.com/dddnorway/)
 - [Phoenix](https://www.meetup.com/DDD-Phoenix)
-- [Wroclaw](http://www.meetup.com/DDD-WRO)
 - [Warsaw](https://www.meetup.com/DDD-WAW)
+- [Wroclaw](http://www.meetup.com/DDD-WRO)
 
 ## Tools
 
