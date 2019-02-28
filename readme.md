@@ -106,6 +106,7 @@ The term was coined by Eric Evans in his book of the same title.
 - [Advanced Topics in Event Sourcing / CQRS / DDD](https://github.com/sebastianharko/adv-es-cqrs-ddd) - Advanced Topics in Event Sourcing / CQRS / DDD list compiled and maintaned by @[sebastianharko](https://github.com/sebastianharko).
 - [Quora](https://www.quora.com/topic/Domain-Driven-Design-DDD) - Questions tagged *domain-driven-design*.
 - [wolkenkit Slack](http://slackin.wolkenkit.io/) - A Slack team on DDD, event-sourcing, CQRS and wolkenkit.
+- [Awesome Event Storming](https://github.com/mariuszgil/awesome-eventstorming) - awesome list that focuses only on Event Storming.
 
 ## Blogs
 
