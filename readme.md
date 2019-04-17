@@ -54,6 +54,7 @@ The term was coined by Eric Evans in his book of the same title.
 
 ## Free eBooks
 
+- [Domain-Driven Design: The First 15 Years](https://dddeurope.com/15years) - To celebrate the anniversary, we've asked prominent authors in the software design world to contribute old and new essays. With contributions by Martin Fowler, James Coplien, Rebecca Wirfs-Brock, Mel Conway, and many more.
 - [The Anatomy of Domain-Driven Design - The Infographic](https://leanpub.com/theanatomyofdomain-drivendesign) - An infographic on the anatomy of Domain-Driven Design.
 - [Architecting Modern Web Applications with ASP.NET Core and Microsoft Azure](https://dotnet.microsoft.com/download/thank-you/aspnet-ebook) - Provides end-to-end guidance on building monolithic web applications using DDD, ASP.NET Core, and Azure. [eShopOnWeb sample](https://github.com/dotnet-architecture/eShopOnWeb)
 - [CQRS Journey](https://msdn.microsoft.com/en-us/library/jj554200.aspx) - Exploring CQRS and Event Sourcing.
@@ -67,6 +68,7 @@ The term was coined by Eric Evans in his book of the same title.
 
 ## Training Courses
 
+- [DDD Workshops across Europe](https://training.dddeurope.com/) - Public Workshops by Eric Evans, Alberto Brandolini, Mathias Verraes, Rebecca Wirfs-Brock, and many more.
 - [Domain Language eLearning](http://elearn.domainlanguage.com/) - Using our video lessons with Eric Evans, author of the original book on Domain-Driven Design (DDD), teach yourself techniques for evolving practical models that improve your software — not just your documents.
 - [Greg Young's CQRS Class](http://subscriptions.viddler.com/GregYoung/) - These videos include the entirety of Greg Young's DDD, CQRS, and Event Sourcing class.
 - [Distilling Domain-Driven Design](https://forcomprehension.com/) - Vaughn Vernon's online training course.
@@ -84,7 +86,7 @@ The term was coined by Eric Evans in his book of the same title.
 
 ## Video Collections
 
-- [DDD Europe](https://dddeurope.com) - Recordings of talks given at DDD Europe.
+- [DDD Europe](https://dddeurope.com/videos) - Recordings of talks given at DDD Europe.
 - [SkillsCasts by SkillsMatter](https://skillsmatter.com/skillscasts) - Searching DDD returns various talks given by Greg Young, Alberto Brandolini, and Dan North, etc.
 - [Alberto Brandolini: Event Storming](https://www.youtube.com/watch?v=veTVAN0oEkQ&list=PLve553MhJLs4YkEnHmOjWJv0B-6WY0-JI) - A YouTube collection of talks given by Alberto Brandolini on Event Storming.
 - [Greg Young](https://www.youtube.com/watch?v=JHGkaShoyNs&list=PL5XpN_ZVafKLePdxruDfdfi-IiZtXz-k9) - A YouTube collection of various talks given by Greg Young.
@@ -256,12 +258,15 @@ The term was coined by Eric Evans in his book of the same title.
 
 ## Conferences
 
-- [Domain-Driven Design Europe - Netherlands](http://www.dddeurope.com)
+- [Domain-Driven Design Europe](https://dddeurope.com) - The Leading DDD conference
+- [EventSourcing](https://dddeurope.com) - A new event for the CQRS/EventSourcing community
+- [DDD Foundations](https://dddeurope.com) - A curated conference for DDD newcomers
 - [Explore DDD - USA](http://exploreddd.com/)
 - [Kandddinsky - Germany](http://kandddinsky.com/)
 
 ## User Groups
 
+- [Collective CFP](https://sessionize.com/ddd-meetups) - Submit your talks to all the DDD user groups at once.
 - [Austria](https://www.meetup.com/ddd-vienna/)
 - [Barcelona](https://www.meetup.com/dddbcn/)
 - [Belfast](https://dddbelfast.com/)
