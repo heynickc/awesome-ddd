@@ -153,6 +153,7 @@ The term was coined by Eric Evans in his book of the same title.
 ## Sample Projects
 
 ### .NET (C#/F#)
+- [Modular Monolith with DDD](https://github.com/kgrzybek/modular-monolith-with-ddd) - Full Modular Monolith .NET application with Domain-Driven Design approach.
 - [CQRS-DDD Example](https://github.com/dcomartin/DDD-CQRS-ES-Example) - Domain Driven Design, CQRS, & Event Sourcing Example using GetEventStore, CommonDomain, NServiceBus, Entity Framework, SQL Server, SignalR.
 - [Companion Code for Microsoft .NET Architecting Applications for the Enterprise](https://github.com/mastreeno/Merp) - An event based Micro ERP. 
 - [ContosoUniversityCore](https://github.com/jbogard/ContosoUniversityCore) - ContosoUniversity on ASP.NET Core with Full .NET Framework.
@@ -175,6 +176,7 @@ The term was coined by Eric Evans in his book of the same title.
 - [Simple CQRS in F#](https://github.com/thinkbeforecoding/m-r) - Greg Young's SimpleCQRS in F#.
 - [SimpleCQRS](https://github.com/gregoryyoung/m-r) - Greg Young's "Simplest Thing" CQRS with Event Sourcing project.
 - [TodoMVC-DDD-CQRS-EventSourcing](https://github.com/volak/TodoMVC-DDD-CQRS-EventSourcing) - Implementation of basic Todo app via tastejs/todomvc in C#/Typescript with eventsourcing, cqrs, and domain driven design
+
 
 ### Haskell
 - [Eventuria gsd](https://github.com/Eventuria/gsd) - Haskell todo list reactive application with DDD, CQRS and Event Sourcing, FRP.
