@@ -153,7 +153,6 @@ The term was coined by Eric Evans in his book of the same title.
 ## Sample Projects
 
 ### .NET (C#/F#)
-- [Modular Monolith with DDD](https://github.com/kgrzybek/modular-monolith-with-ddd) - Full Modular Monolith .NET application with Domain-Driven Design approach.
 - [Photostock CQRS-DDD Example](https://github.com/mr0zek/Photostock)
 - [CQRS-DDD Example](https://github.com/dcomartin/DDD-CQRS-ES-Example) - Domain Driven Design, CQRS, & Event Sourcing Example using GetEventStore, CommonDomain, NServiceBus, Entity Framework, SQL Server, SignalR.
 - [Companion Code for Microsoft .NET Architecting Applications for the Enterprise](https://github.com/mastreeno/Merp) - An event based Micro ERP. 
