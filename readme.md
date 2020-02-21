@@ -299,6 +299,7 @@ The term was coined by Eric Evans in his book of the same title.
 - [Phoenix](https://www.meetup.com/DDD-Phoenix)
 - [Warsaw](https://www.meetup.com/DDD-WAW)
 - [Wroclaw](http://www.meetup.com/DDD-WRO)
+- [Russia](https://t.me/dddevotion)
 
 ## Tools
 
