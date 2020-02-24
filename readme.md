@@ -282,6 +282,11 @@ The term was coined by Eric Evans in his book of the same title.
 ## User Groups
 
 - [Collective CFP](https://sessionize.com/ddd-meetups) - Submit your talks to all the DDD user groups at once.
+- [Map of user groups in Europe](https://datawrapper.dwcdn.net/9FNZI/)
+- [Map of user groups in North America](https://datawrapper.dwcdn.net/nbZkd/)
+- [Map of user groups in Asia](https://datawrapper.dwcdn.net/oin66/)
+- [Map of user groups in Africa](https://datawrapper.dwcdn.net/yaEOa/)
+- [Virtual](https://virtualddd.com/)
 - [Austria](https://www.meetup.com/ddd-vienna/)
 - [Barcelona](https://www.meetup.com/dddbcn/)
 - [Belfast](https://dddbelfast.com/)
