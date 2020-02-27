@@ -283,6 +283,11 @@ The term was coined by Eric Evans in his book of the same title.
 ## User Groups
 
 - [Collective CFP](https://sessionize.com/ddd-meetups) - Submit your talks to all the DDD user groups at once.
+- [Map of user groups in Europe](https://datawrapper.dwcdn.net/9FNZI/)
+- [Map of user groups in North America](https://datawrapper.dwcdn.net/nbZkd/)
+- [Map of user groups in Asia](https://datawrapper.dwcdn.net/oin66/)
+- [Map of user groups in Africa](https://datawrapper.dwcdn.net/yaEOa/)
+- [Virtual](https://virtualddd.com/)
 - [Austria](https://www.meetup.com/ddd-vienna/)
 - [Barcelona](https://www.meetup.com/dddbcn/)
 - [Belfast](https://dddbelfast.com/)
@@ -290,6 +295,7 @@ The term was coined by Eric Evans in his book of the same title.
 - [Berlin](http://www.meetup.com/Domain-Driven-Design-Berlin/)
 - [Cologne/Bonn](https://www.meetup.com/Domain-Driven-Design-Koln-Bonn/)
 - [Cracow](http://www.meetup.com/ddd-krk/)
+- [DDD Taiwan Community](https://www.facebook.com/groups/dddtaiwan/)
 - [Denver](https://www.meetup.com/ddd-denver/)
 - [Greece](https://www.meetup.com/dddgreece/)
 - [Hamburg](https://www.meetup.com/DDD-HH-Domain-driven-Design-Hamburg/)
@@ -300,7 +306,7 @@ The term was coined by Eric Evans in his book of the same title.
 - [Phoenix](https://www.meetup.com/DDD-Phoenix)
 - [Warsaw](https://www.meetup.com/DDD-WAW)
 - [Wroclaw](http://www.meetup.com/DDD-WRO)
-- [DDD Taiwan Community](https://www.facebook.com/groups/dddtaiwan/)
+- [Russia](https://t.me/dddevotion)
 
 ## Tools
 
