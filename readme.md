@@ -68,6 +68,7 @@ The term was coined by Eric Evans in his book of the same title.
 - [Living Documentation by Design, with Domain-Driven Design](https://leanpub.com/livingdocumentation) - Discover how a Living Documentation can help you in all aspects of your projects, from the business goals to the business domain knowledge, architecture and design, processes and deployment, even if you hate writing documentation.
 - [.NET Microservices: Architecture for Containerized .NET Applications](https://dotnet.microsoft.com/download/thank-you/microservices-architecture-ebook) - An introduction to developing microservices-based applications and managing them using containers. [eShopOnContainers sample](https://github.com/dotnet-architecture/eShopOnContainers)
 - [The Semantic JavaScript Backend for Event-Driven Development](https://docs.wolkenkit.io/1.1.0/downloads/brochure/) - A 68 pages long free ebook on what DDD, CQRS and event-sourcing are, and how they fit each other.
+- [Architecture Patterns with Python](https://www.cosmicpython.com/book/preface.html) - A Book about Pythonic Application Architecture Patterns for Managing Complexity.
 
 ## Training Courses
 
