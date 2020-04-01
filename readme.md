@@ -168,6 +168,7 @@ The term was coined by Eric Evans in his book of the same title.
 - [Svaťa Šimara](http://svatasimara.cz/) - DDD series - language, domain, modeling, infrastructure, implementation in PHP
 - [Martin Havlišta](https://xhafan.com/blog/) - DDD, CQRS, TDD blog posts with code samples in C# .NET
 - [Khalil Stemmler](https://khalilstemmler.com/articles/categories/domain-driven-design) - DDD series introduction and talk about how to implement DDD with TypeScript
+- [Kenny Baas-Schwegler](https://baasie.com/) - DDD, BDD, Socio-technical, EventStorming and continuous delivery blogs.
 
 ## Sample Projects
 
