@@ -20,18 +20,34 @@ The term was coined by Eric Evans in his book of the same title.
 
 ## Contents
 
-- [Books](#books)
-- [Free eBooks](#free-ebooks)
-- [Training Courses](#training-courses)
-- [Video Collections](#video-collections)
-- [Community Resources](#community-resources)
-- [Blogs](#blogs)
-- [Sample Projects](#sample-projects)
-- [Libraries and Frameworks](#libraries-and-frameworks)
-- [Podcasts and Interviews](#podcasts-and-interviews)
-- [Conferences](#conferences)
-- [User Groups](#user-groups)
-- [Tools](#tools)
+- [Awesome Domain-Driven Design ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-domain-driven-design-img-src%22httpsgithubcomsindresorhusawesome%22-alt%22awesome%22)
+	- [Contents](#contents)
+	- [Books](#books)
+	- [Free eBooks](#free-ebooks)
+	- [Training Courses](#training-courses)
+	- [Video Collections](#video-collections)
+	- [Community Resources](#community-resources)
+	- [Blogs](#blogs)
+	- [Sample Projects](#sample-projects)
+		- [.NET (C#/F#)](#net-cf)
+		- [Haskell](#haskell)
+		- [JavaScript](#javascript)
+		- [JVM languages](#jvm-languages)
+		- [PHP](#php)
+	- [Libraries and Frameworks](#libraries-and-frameworks)
+		- [.NET](#net)
+		- [Databases](#databases)
+		- [Elixir](#elixir)
+		- [JavaScript](#javascript-1)
+		- [JVM](#jvm)
+		- [PHP](#php-1)
+		- [Python](#python)
+		- [Ruby](#ruby)
+	- [Podcasts and Interviews](#podcasts-and-interviews)
+	- [Conferences](#conferences)
+	- [User Groups](#user-groups)
+	- [Tools](#tools)
+	- [License](#license)
 
 ## Books
 
@@ -95,6 +111,7 @@ The term was coined by Eric Evans in his book of the same title.
 - [Greg Young](https://www.youtube.com/watch?v=JHGkaShoyNs&list=PL5XpN_ZVafKLePdxruDfdfi-IiZtXz-k9) - A YouTube collection of various talks given by Greg Young.
 - [Explore DDD videos](https://www.youtube.com/channel/UCcpKGt6MVvz7dISXLlMGmag) - Recordings of the talks given at the Explore DDD conference.
 - [KanDDDinsky](https://www.youtube.com/channel/UCJCpnslPdb_Dl8DKokXC3HA) - A YouTube collection of talks given at KanDDDinsky.
+- [Virtual Domain-driven design](https://www.youtube.com/channel/UCob_jOzzpxBp-di-x0vLlwA) - A youtube collection of recorded meetups session from Virtual Domain-driven design
 
 ## Community Resources
 
@@ -112,6 +129,7 @@ The term was coined by Eric Evans in his book of the same title.
 - [Quora](https://www.quora.com/topic/Domain-Driven-Design-DDD) - Questions tagged *domain-driven-design*.
 - [wolkenkit Slack](http://slackin.wolkenkit.io/) - A Slack team on DDD, event-sourcing, CQRS and wolkenkit.
 - [Awesome Event Storming](https://github.com/mariuszgil/awesome-eventstorming) - awesome list that focuses only on Event Storming.
+- [Virtual Domain-driven design community](https://virtualddd.com) - Online meetups with panel discussions, online collaborations and resource sharing.
 
 ## Blogs
 
