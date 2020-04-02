@@ -20,7 +20,7 @@ The term was coined by Eric Evans in his book of the same title.
 
 ## Contents
 
-- [Awesome Domain-Driven Design ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-domain-driven-design-img-src%22httpsgithubcomsindresorhusawesome%22-alt%22awesome%22)
+- [Awesome Domain-Driven Design](https://github.com/heynickc/awesome-ddd/)
 	- [Contents](#contents)
 	- [Books](#books)
 	- [Free eBooks](#free-ebooks)
