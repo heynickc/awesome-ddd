@@ -75,7 +75,7 @@ The term was coined by Eric Evans in his book of the same title.
 
 - [The Anatomy of Domain-Driven Design - The Infographic](https://leanpub.com/theanatomyofdomain-drivendesign) - An infographic on the anatomy of Domain-Driven Design.
 - [Architecting Modern Web Applications with ASP.NET Core and Microsoft Azure](https://dotnet.microsoft.com/download/thank-you/aspnet-ebook) - Provides end-to-end guidance on building monolithic web applications using DDD, ASP.NET Core, and Azure. [eShopOnWeb sample](https://github.com/dotnet-architecture/eShopOnWeb)
-- [Architecture Patterns with Python](https://www.cosmicpython.com/book/preface.html) - A Book about Pythonic Application Architecture Patterns for Managing Complexity.
+- [Architecture Patterns with Python](https://www.cosmicpython.com/book/preface.html) - A book about Pythonic application architecture patterns for managing complexity.
 - [CQRS Journey](https://msdn.microsoft.com/en-us/library/jj554200.aspx) - Exploring CQRS and Event Sourcing.
 - [Domain-Driven Design: The First 15 Years](https://dddeurope.com/15years) - To celebrate the anniversary, we've asked prominent authors in the software design world to contribute old and new essays. With contributions by Martin Fowler, James Coplien, Rebecca Wirfs-Brock, Mel Conway, and many more.
 - [DDD Reference](http://domainlanguage.com/wp-content/uploads/2016/05/DDD_Reference_2015-03.pdf) - A summary of the patterns and definitions of DDD.
