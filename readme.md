@@ -186,8 +186,8 @@ The term was coined by Eric Evans in his book of the same title.
 - [DotNet CQRS Intro](https://github.com/asc-lab/dotnet-cqrs-intro) - Examples of implementation CQRS with Event Sourcing - evolutionary approach (no CQRS, separate models and commands with the same model, separate models and commands with separate models, separate storage engines, event sourcing).
 - [EISK](https://github.com/eisk) - .NET CLI and VS Templates with simple use cases to build scalable applications on top of .net core with architectural best practices (DDD, onion architecture etc).
 - [EmailMaker](https://github.com/xhafan/emailmaker) - Email marketing ASP.NET Core MVC and ASP.NET MVC demo app demonstrating [CoreDdd](https://github.com/xhafan/coreddd) usage
+- [Equinox Project](https://github.com/EduardoPires/EquinoxProject) - Full ASP.NET Core 3.1 application with Clean Architecture, DDD, CQRS and Event Sourcing concepts
 - [eShopOnContainersDDD](https://github.com/volak/eShopOnContainersDDD) - eShop fullstack example featuring catalog, basket, checkout, and order bounded contexts
-- [Equinox Project](https://github.com/EduardoPires/EquinoxProject) - Full ASP.NET Core 2.0 application with DDD, CQRS and Event Sourcing
 - [Example of Domain-Driven Design in F#](https://gist.github.com/swlaschin/2ad8627d0400b2ab70e9f3da08902c9d) - Example of Domain Driven Design for the game of checkers. There are two files: a scratch file with a series of designs, and a final version.
 - [Event Sourcing .NET](https://github.com/oskardudycz/EventSourcing.NetCore) - samples and resources about Event Sourcing and CQRS in .NET. Contains also a self-paced kit of how to built own Event Store
 - [Fohjin](https://github.com/MarkNijhof/Fohjin) - Example project that accompanies Mark Nijhof's [CQRS](https://leanpub.com/cqrs) book.
@@ -250,6 +250,7 @@ The term was coined by Eric Evans in his book of the same title.
 - [MassTransit](https://github.com/MassTransit/MassTransit) - Distributed Application Framework for .NET.
 - [MediatR](https://github.com/jbogard/MediatR) - Supports request/response, commands, queries, notifications and events, synchronous and async with intelligent dispatching via C# generic variance.
 - [MessageRouter](https://github.com/QuickenLoans/MessageRouter) - Described in this video: [The Beating Heart of CQRS, or Actor-Based Message Routing on the CLR](https://vimeo.com/171178586) by Paulmichael Blasucci at the New York F# .NET User Group.
+- [NetDevPack](https://github.com/netdevpack) - A smart set of common classes and implementations to improve your development productivity using .NET (DDD, CQRS, Specification Pattern, MediatR, Validations, Notifications).
 - [NEventStore](https://github.com/NEventStore/NEventStore) - A persistence library used to abstract different storage implementations when using event sourcing as storage mechanism.
 - [NServiceBus](https://github.com/Particular/NServiceBus) - Service bus for .NET.
 - [Projac](https://github.com/yreynhout/Projac) - Projac is a set of projection libraries that allow you to write projections targetting various backing stores.
