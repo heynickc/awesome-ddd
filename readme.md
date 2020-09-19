@@ -89,7 +89,7 @@ The term was coined by Eric Evans in his book of the same title.
 
 ## Training Courses
 
-- [DDD Workshops across Europe](https://training.dddeurope.com/) - Public Workshops by Eric Evans, Alberto Brandolini, Mathias Verraes, Rebecca Wirfs-Brock, and many more.
+- [DDD Workshops across Europe and Online](https://training.dddeurope.com/) - Public Workshops by Eric Evans, Alberto Brandolini, Mathias Verraes, Rebecca Wirfs-Brock, Nick Tune, and many more.
 - [Domain Language eLearning](http://elearn.domainlanguage.com/) - Using our video lessons with Eric Evans, author of the original book on Domain-Driven Design (DDD), teach yourself techniques for evolving practical models that improve your software — not just your documents.
 - [Greg Young's CQRS Class](http://subscriptions.viddler.com/GregYoung/) - These videos include the entirety of Greg Young's DDD, CQRS, and Event Sourcing class.
 - [Distilling Domain-Driven Design](https://forcomprehension.com/) - Vaughn Vernon's online training course.
@@ -311,7 +311,7 @@ The term was coined by Eric Evans in his book of the same title.
 
 ## Conferences
 
-- [Domain-Driven Design Europe](https://dddeurope.com) - The Leading DDD conference
+- [Domain-Driven Design Europe](https://dddeurope.com) - The Leading DDD conference (online during COVID19)
 - [EventSourcing](https://dddeurope.com/2020/#eventsourcing) - A new event for the CQRS/EventSourcing community
 - [DDD Foundations](https://dddeurope.com/2020/#foundations) - A curated conference for DDD newcomers
 - [Explore DDD - USA](http://exploreddd.com/)
