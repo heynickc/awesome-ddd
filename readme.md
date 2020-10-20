@@ -86,6 +86,7 @@ The term was coined by Eric Evans in his book of the same title.
 - [.NET Microservices: Architecture for Containerized .NET Applications](https://dotnet.microsoft.com/download/thank-you/microservices-architecture-ebook) - An introduction to developing microservices-based applications and managing them using containers. [eShopOnContainers sample](https://github.com/dotnet-architecture/eShopOnContainers)
 - [The Semantic JavaScript Backend for Event-Driven Development](https://docs.wolkenkit.io/1.1.0/downloads/brochure/) - A 68 pages long free ebook on what DDD, CQRS and event-sourcing are, and how they fit each other.
 - [DDD Magazine from Xebia #1](https://pages.xebia.com/domain-driven-design-magazine-xebia) - This magazine is packed with visionary and practical insights, based on personal, business, and customer experiences to support you on your DDD journey
+- [Visual Collaboration Tools](https://leanpub.com/visualcollaborationtools/) - Visual Collaboration Tools is a book for teams building software. It describes tools that help us in our daily job, and also present field stories from different practitioners.
 
 ## Training Courses
 
@@ -174,6 +175,7 @@ The term was coined by Eric Evans in his book of the same title.
 - [Martin Havlišta](https://xhafan.com/blog/) - DDD, CQRS, TDD blog posts with code samples in C# .NET
 - [Khalil Stemmler](https://khalilstemmler.com/articles/categories/domain-driven-design) - DDD series introduction and talk about how to implement DDD with TypeScript
 - [Kenny Baas-Schwegler](https://baasie.com/) - DDD, BDD, Socio-technical, EventStorming and continuous delivery blogs.
+- [João Rosa](https://joaorosa.io) - Personal blog about Domain-Driven Design, Visual Collaboration, leadership and organisational design. And other things in between. Curator of [Visual Collaboration Tools](https://leanpub.com/visualcollaborationtools/) and host of the [Software Crafts Podcast](https://www.softwarecraftspodcast.com/)
 
 ## Sample Projects
 
