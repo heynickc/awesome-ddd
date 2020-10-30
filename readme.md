@@ -340,6 +340,7 @@ The term was coined by Eric Evans in his book of the same title.
 - [Denver](https://www.meetup.com/ddd-denver/)
 - [Greece](https://www.meetup.com/dddgreece/)
 - [Hamburg](https://www.meetup.com/DDD-HH-Domain-driven-Design-Hamburg/)
+- [Iran](https://t.me/DDD_iran)
 - [London](http://www.meetup.com/dddlondon/)
 - [Munich](https://www.meetup.com/Microservices-Meetup-Munich/)
 - [Nederland](http://www.meetup.com/Domain-Driven-Design-Nederland/)
