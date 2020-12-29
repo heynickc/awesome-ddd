@@ -339,6 +339,7 @@ The term was coined by Eric Evans in his book of the same title.
 - [Cracow](http://www.meetup.com/ddd-krk/)
 - [DDD Taiwan Community](https://www.facebook.com/groups/dddtaiwan/)
 - [Denver](https://www.meetup.com/ddd-denver/)
+- [Iran](https://t.me/ddd_iran/)
 - [Greece](https://www.meetup.com/dddgreece/)
 - [Hamburg](https://www.meetup.com/DDD-HH-Domain-driven-Design-Hamburg/)
 - [London](http://www.meetup.com/dddlondon/)
