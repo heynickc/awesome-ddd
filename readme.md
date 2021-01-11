@@ -332,6 +332,7 @@ The term was coined by Eric Evans in his book of the same title.
 - [Map of user groups in Asia](https://datawrapper.dwcdn.net/oin66/)
 - [Map of user groups in Africa](https://datawrapper.dwcdn.net/yaEOa/)
 - [Virtual](https://virtualddd.com/)
+- [Worldwide](https://www.meetup.com/worldwide-eventstorming-meetup/) - Specific about EventStorming
 - [Austria](https://www.meetup.com/ddd-vienna/)
 - [Barcelona](https://www.meetup.com/dddbcn/)
 - [Belfast](https://dddbelfast.com/)
