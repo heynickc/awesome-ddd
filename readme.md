@@ -273,6 +273,7 @@ The term was coined by Eric Evans in his book of the same title.
 ### Databases
 - [Event Store](https://geteventstore.com) - The open-source, functional database with Complex Event Processing in JavaScript.
 - [Eventsourcing](https://eventsourcing.com) - Business event capture and querying framework.
+- [Message DB](https://github.com/message-db/message-db) - Microservice Native Event Store and Message Store for Postgres. A fully-featured event store and message store implemented in PostgreSQL for Pub/Sub, Event Sourcing, Messaging, and Evented Microservices applications.
 - [Serialized](https://serialized.io) - Complete platform for Event Sourcing & CQRS.
 
 ### Elixir
