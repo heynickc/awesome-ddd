@@ -304,6 +304,7 @@ The term was coined by Eric Evans in his book of the same title.
 - [dry-python](https://github.com/dry-python) - A set of libraries for pluggable business logic components.
 
 ### Ruby
+- [Eventide](https://eventide-project.org) - Event Sourcing and Microservices Stack for Ruby. A set of libraries for writing event driven, autonomous services.
 - [Rails Event Store](https://railseventstore.org) - Rails Event Store (RES) is a library for publishing, consuming, storing and retrieving events. It's your best companion for going with an event-driven architecture for your Rails application.
 
 ## Podcasts and Interviews
