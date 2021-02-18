@@ -254,7 +254,7 @@ The term was coined by Eric Evans in his book of the same title.
 
 ### GO
 - [Ginkgo](https://github.com/onsi/ginkgo) - Ginkgo builds on Go's testing package, allowing expressive Behavior-Driven Development ("BDD") style tests.
-- [GOBDD](https://github.com/go-bdd/gobdd) - Small BDD framework for GO
+- [GOBDD](https://github.com/go-bdd/gobdd) - Small BDD framework for GO.
 - [GoConvey](https://github.com/smartystreets/goconvey) - Go testing in the browser. Integrates with `go test`. Write behavioral tests in Go.
 - [Godog](https://github.com/cucumber/godog) - Package godog is the official Cucumber BDD framework for Golang, it merges specification and test documentation into one cohesive whole, using Gherkin formatted scenarios in the format of Given, When, Then.
 
