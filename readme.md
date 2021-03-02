@@ -29,12 +29,14 @@ The term was coined by Eric Evans in his book of the same title.
 	- [Community Resources](#community-resources)
 	- [Blogs](#blogs)
 	- [Sample Projects](#sample-projects)
+		- [GO](#go)
 		- [.NET (C#/F#)](#net-cf)
 		- [Haskell](#haskell)
 		- [JavaScript](#javascript)
 		- [JVM languages](#jvm-languages)
 		- [PHP](#php)
 	- [Libraries and Frameworks](#libraries-and-frameworks)
+		- [GO](#go-1)
 		- [.NET](#net)
 		- [Databases](#databases)
 		- [Elixir](#elixir)
@@ -180,6 +182,15 @@ The term was coined by Eric Evans in his book of the same title.
 
 ## Sample Projects
 
+### GO
+- [BDD in GO](https://github.com/JankariTech/bsDateServer) - Sample app demonstrating the use of Cucumber + GO for a BDD testing approach. Blog post can be found [here](https://dev.to/jankaritech/demonstrating-bdd-behavior-driven-development-in-go-1eci).
+- [Citerus DDD Sample App GO Port](https://github.com/marcusolsson/goddd) - This is an attempt to port the [DDD Sample App](https://github.com/citerus/dddsample-core) to idiomatic Go. It can be run in a dockerized mode for previewing the application.
+- [DDD by Refactoring](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example) - Complete serverless application to show how to apply DDD, Clean Architecture, and CQRS by practical refactoring of a Go project. A full blog series about it can be found at <https://threedots.tech/>.
+- [DDD Food App](https://github.com/victorsteven/food-app-server) - Sample DDD application implementing the 4 layers (Domain, Infrastructure, Application and Interface) and considering two domain patterns. There's a blog article written for it [here](https://dev.to/stevensunflash/using-domain-driven-design-ddd-in-golang-3ee5).
+- [DDD Sample in GO](https://github.com/takashabe/go-ddd-sample) - Just another sample application implementing the four layers of DDD.
+- [Evolutive CRUD API](https://github.com/friendsofgo/gopherapi) - API implementation with full CRUD using a SOLID, Hexagonal Architecture. There is a series of blog post written for it at <https://blog.friendsofgo.tech/>.
+- [Simple Hexagonal Architecture PoC API](https://github.com/tomiok/patients-API) - PoC for a patients API using the hexagonal architecture pattern.
+
 ### .NET (C#/F#)
 - [Better code with DDD building blocks](https://github.com/asc-lab/better-code-with-ddd) - solution presents usage of DDD tactical patterns to achieve better readability and expressiveness of the code. Applying DDD patterns together with ubiquitous language closes the gap between language spoken by experts and the team and language used in the code.
 - [CQRS-DDD Example](https://github.com/dcomartin/DDD-CQRS-ES-Example) - Domain Driven Design, CQRS, & Event Sourcing Example using GetEventStore, CommonDomain, NServiceBus, Entity Framework, SQL Server, SignalR.
@@ -240,6 +251,13 @@ The term was coined by Eric Evans in his book of the same title.
 
 
 ## Libraries and Frameworks
+
+### GO
+- [Ginkgo](https://github.com/onsi/ginkgo) - Ginkgo builds on Go's testing package, allowing expressive Behavior-Driven Development ("BDD") style tests.
+- [GOBDD](https://github.com/go-bdd/gobdd) - Small BDD framework for GO.
+- [GoConvey](https://github.com/smartystreets/goconvey) - Go testing in the browser. Integrates with `go test`. Write behavioral tests in Go.
+- [Godog](https://github.com/cucumber/godog) - Package godog is the official Cucumber BDD framework for Golang, it merges specification and test documentation into one cohesive whole, using Gherkin formatted scenarios in the format of Given, When, Then.
+
 ### .NET
 - [Aggregates.NET](https://github.com/volak/Aggregates.NET) - .NET event sourced domain driven design model via NServicebus and GetEventStore.
 - [AggregateSource](https://github.com/yreynhout/aggregateSource) - Lightweight infrastructure for doing eventsourcing using aggregates.
