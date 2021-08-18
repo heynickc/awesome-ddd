@@ -225,6 +225,9 @@ The term was coined by Eric Evans in his book of the same title.
 ### Haskell
 - [Eventuria gsd](https://github.com/Eventuria/gsd) - Haskell todo list reactive application with DDD, CQRS and Event Sourcing, FRP.
 
+### Idris
+- [OrderTaking](http://github.com/andorp/order-taking) - Dependently typed implementation of the Domain Modeling Made Functioncal book. An example project how to formalize Bounded Context and Workflow diagram with dependent types. A NodeJS deployable demo.
+
 ### JavaScript
 - [wolkenkit Sample Applications](https://docs.wolkenkit.io/latest/media/sample-applications/wolkenkit-boards/) - A collection of DDD sample applications, such as TodoMVC, a geocaching app, collaborative boards etc.
 
