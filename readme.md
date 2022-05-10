@@ -75,6 +75,7 @@ The term was coined by Eric Evans in his book of the same title.
 - [Versioning in an Event Sourced System](https://leanpub.com/esversioning) - Have you had troubles with versioning an Event Sourced system? Just getting into a new Event Sourced system for the first time? This book is the definitive guide of how to handle versioning over long periods of time.
 - [What is Domain-Driven Design?](https://learning.oreilly.com/library/view/what-is-domain-driven/9781492057802/) - A quick read exploring the core patterns and principles of Domain-Driven Design, as well as strategies for applying DDD in brownfield projects.
 - [Writing Great Specifications](https://www.manning.com/books/writing-great-specifications) - Writing Great Specifications is an example-rich tutorial that teaches you how to write good Gherkin specification documents that take advantage of Specification by Example's benefits.
+- 
 
 ## Free eBooks
 
@@ -111,6 +112,7 @@ The term was coined by Eric Evans in his book of the same title.
 - [Reactive Architecture: Domain Driven Design](https://cognitiveclass.ai/courses/reactive-architecture-ddd/) - Use DDD to decompose a problem domain into manageable parts. Learn how those parts can become the foundation of Reactive Microservices and Reactive Architecture. Free, online, self-paced. Certificate offered upon completion.
 - [Reactive Architecture: CQRS and Event Sourcing](https://cognitiveclass.ai/courses/reactive-architecture-cqrs/) - This course will discuss the reasons we use CQRS/ES, what benefits it provides us, but also what it will cost us to use. We will see how CQRS/ES can impact the scalability, consistency, and availability of our application.
 - [DDD Workshop by Xebia](https://xebia.com/academy/en/search?query=Domain-driven%20design) - public and in-house Domain-driven design workshops from foundation to professional level.
+- [Spatie's Event Sourcing Course](https://spatie.be/products/event-sourcing-in-laravel) - Learn how to build event sourced applications in Laravel using Spatie's event-sourcing package. Has 2 hours of video content and an accompanying ebook.
 
 ## Video Collections
 
