@@ -101,6 +101,7 @@ The term was coined by Eric Evans in his book of the same title.
 - [Distilling Domain-Driven Design](https://www.informit.com/store/domain-driven-design-livelessons-video-training-9780134597324) - Vaughn Vernon's online training course.
 - [Domain Language eLearning](http://elearn.domainlanguage.com/) - Using our video lessons with Eric Evans, author of the original book on Domain-Driven Design (DDD), teach yourself techniques for evolving practical models that improve your software — not just your documents.
 - [Event Sourcery](https://www.youtube.com/@EventSourcery) - Introduction to DDD, CQRS, and Event Sourcing.
+- [EventStorming Fundamentals Course](https://elearning.dsolemorera.com/courses/eventstorming-fundamentals) ([also in Spanish](https://elearning.dsolemorera.com/courses/fundamentos-eventstorming)) - learn the fundamentals of EventStorming. Everything about EventStorming with examples.
 - [Greg Young's CQRS Class](http://subscriptions.viddler.com/GregYoung/) - These videos include the entirety of Greg Young's DDD, CQRS, and Event Sourcing class.
 - [Mixter](https://github.com/DevLyon/mixter) - CQRS and Event Sourcing Koans.
 - [Nomad PHP](https://nomadphp.com/product/introduction-event-sourcing-cqrs/) - Introduction to Event Sourcing and CQRS.
