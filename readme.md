@@ -33,7 +33,7 @@ The term was coined by Eric Evans in his book of the same title.
 		- [.NET (C#/F#)](#net-cf)
 		- [Haskell](#haskell)
 		- [Idris](#idris)
-		- [JavaScript](#javascript)
+		- [JavaScript / TypeScript](#javascript--typescript)
 		- [JVM languages](#jvm-languages)
 		- [PHP](#php)
 	- [Libraries and Frameworks](#libraries-and-frameworks)
@@ -41,7 +41,7 @@ The term was coined by Eric Evans in his book of the same title.
 		- [.NET](#net)
 		- [Databases](#databases)
 		- [Elixir](#elixir)
-		- [JavaScript](#javascript-1)
+		- [JavaScript / TypeScript](#javascript--typescript-1)
 		- [JVM](#jvm)
 		- [PHP](#php-1)
 		- [Python](#python)
@@ -237,9 +237,10 @@ The term was coined by Eric Evans in his book of the same title.
 ### Idris
 - [OrderTaking](http://github.com/andorp/order-taking) - Dependently typed implementation of the Domain Modeling Made Functional book. An example project how to formalize Bounded Context and Workflow diagram with dependent types. A NodeJS deployable demo.
 
-### JavaScript
+### JavaScript / TypeScript
 - [wolkenkit Sample Applications](https://docs.wolkenkit.io/latest/media/sample-applications/wolkenkit-boards/) - A collection of DDD sample applications, such as TodoMVC, a geocaching app, collaborative boards etc.
 - [Booster framework examples](https://github.com/boostercloud/booster/tree/master/docs/examples) Example applications built with Booster Framework.
+- [Over-engineered ToDo app](https://github.com/bitloops/ddd-hexagonal-cqrs-es-eda) - Complete working example of using Domain Driven Design (DDD), Hexagonal Architecture, CQRS, Event Sourcing (ES), Event Driven Architecture (EDA), Behaviour Driven Development (BDD) using TypeScript and NestJS generated using the [Bitloops Language (BL)](https://github.com/bitloops/bitloops-language).
 
 ### JVM languages
 - [Akka CQRS ES Demo](https://github.com/mdonkers/akka-cqrs-es-demo) - Demo project to implement the CQRS and Event Sourcing patterns in Scala-Akka.
@@ -315,11 +316,14 @@ The term was coined by Eric Evans in his book of the same title.
 - [Event Bus](https://github.com/otobus/event_bus) - Traceable, extendable and minimalist event bus implementation for Elixir with built-in event store and event watcher based on ETS.
 - [eventstore](https://github.com/slashdotdash/eventstore) - CQRS event store using PostgreSQL for persistence.
 
-### JavaScript
+### JavaScript / TypeScript
+
 - [cqrs.js](http://cqrs.js.org) - CQRS implementations in node.js.  Includes [node-eventstore](https://github.com/adrai/node-eventstore), [node-cqrs-domain](https://github.com/adrai/node-cqrs-domain), [node-eventdenormalizer](https://github.com/adrai/node-cqrs-eventdenormalizer), [node-cqrs-saga](https://github.com/adrai/node-cqrs-saga).
-- [Node API Boilerplate](https://github.com/talyssonoc/node-api-boilerplate) - NodeJS web API boilerplate for DDD and Clean Architecture applications.
 - [wolkenkit](https://www.wolkenkit.io/) - A CQRS, DDD, and event-sourcing framework for JavaScript and Node.js.
+- [Bitloops Language (BL)](https://github.com/bitloops/bitloops-language) - Open-source, 4th-generation, transpiled programming language that helps you write clean code, well-designed systems, and build high-quality software that is testable, auditable and maintainable using DDD and Hexagonal Architecture.
 - [Booster](https://www.booster.cloud/) - A CQRS, DDD and event-sourcing open-source framework that leverages all the infrastructure and uses high-level abstractions and conventions. It help users build advanved even-driven applications letting them focus on business logic exclusively.  
+- [Node API Boilerplate](https://github.com/talyssonoc/node-api-boilerplate) - NodeJS web API boilerplate for DDD and Clean Architecture applications.
+
 ### JVM
 - [akka-ddd](https://github.com/pawelkaczor/akka-ddd) - Reusable artifacts for building applications on top of the Akka platform following CQRS/DDDD-based approach.
 - [Apache Isis](https://isis.apache.org/index.html) - Apache Isis is a framework for rapidly developing domain-driven apps in Java.
