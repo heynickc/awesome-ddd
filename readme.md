@@ -126,6 +126,7 @@ The term was coined by Eric Evans in his book of the same title.
 - [Explore DDD videos](https://www.youtube.com/channel/UCcpKGt6MVvz7dISXLlMGmag) - Recordings of the talks given at the Explore DDD conference.
 - [KanDDDinsky](https://www.youtube.com/channel/UCJCpnslPdb_Dl8DKokXC3HA) - A YouTube collection of talks given at KanDDDinsky.
 - [Virtual Domain-driven design](https://www.youtube.com/channel/UCob_jOzzpxBp-di-x0vLlwA) - A youtube collection of recorded meetups session from Virtual Domain-driven design
+- [Visuality DDD webinars](https://youtube.com/playlist?list=PLvMNoWK93wtnu9JcSEYnFRgzqbxtLtZZ4) - A YouTube collection of webinars focused on DDD in Ruby on Rails
 - [The Art of Discovering Bounded Contexts by Nick Tune](https://www.youtube.com/watch?v=ez9GWESKG4I) - Session from 2017 DevoxxUK on how to define bounded contexts
 
 ## Community Resources
@@ -134,6 +135,7 @@ The term was coined by Eric Evans in his book of the same title.
 - [DDD-es Google Group](https://groups.google.com/g/ddd-es) - The Google Group to discuss Domain-Driven Design in Spanish.
 - [DDDinPHP Google Group](https://groups.google.com/forum/#!forum/dddinphp) - The place to discuss Domain-Driven Design, CQRS, Event Sourcing, Model Storming, Hexagonal Architecture, Distributed Systems, Reactive... in the context of PHP.
 - [EventStorming Google Group](https://groups.google.com/g/eventstorming) - The Google Group to discuss EventStorming.
+- [DDD in Ruby on Rails](https://www.visuality.pl/posts/introduction-to-ddd-in-ruby-on-rails) - A collection of articles on Domain-Driven Design in Ruby on Rails
 - [DDD in Ruby subreddit](https://www.reddit.com/r/ddd_ruby/) - A subreddit for Ruby developers interested in Domain-Driven Design.
 - [DDD/CQRS/ES Discord](https://github.com/ddd-cqrs-es/community) - A Discord (old Slack) team for those who want to chat about Domain-Driven Design, CQRS, Event Sourcing and sometimes random things. Main channel is language and framework agnostic.
 - [Domain StoryTelling Discord](https://discord.gg/KsYaHNNn33) - A Discord team about Domain StoryTelling (#domain-storytelling channel) by [@hofstef](https://twitter.com/hofstef). The homepage is at [domainstorytelling.org](http://domainstorytelling.org/).
