@@ -342,6 +342,7 @@ The term was coined by Eric Evans in his book of the same title.
 ### PHP
 - [Broadway](https://github.com/broadway/broadway) - Broadway is a (PHP) project providing infrastructure and testing helpers for creating CQRS and event sourced applications.
 - [Ecotone](http://ecotone.tech) - Enables message driven architecture in PHP and provides building blocks to follow DDD and CQRS principles.
+- [PHP Glossary](https://github.com/javanile/php-glossary) - Apply a Term Analysis to extract domain terms vs out-of-scope terms in a DDD manner.
 
 ### Python
 - [Eventsoucing in Python](https://github.com/johnbywater/eventsourcing) - Mature, stable Python library for event sourcing and DDD. Supports wide variety of databases, different kinds of orderings of domain events, application level encryption, snapshotting, optimistic concurrency control, and process events. Applications, and entire systems of applications, can be defined independently of infrastructure, and run in different ways (single threaded, multi-threaded, clocked, stepping, multi-process, actor model) and with different infrastructure.
