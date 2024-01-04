@@ -205,6 +205,7 @@ The term was coined by Eric Evans in his book of the same title.
 - [DDD Sample in GO](https://github.com/takashabe/go-ddd-sample) - Just another sample application implementing the four layers of DDD.
 - [Evolutive CRUD API](https://github.com/friendsofgo/gopherapi) - API implementation with full CRUD using a SOLID, Hexagonal Architecture. There is a series of blog post written for it at <https://blog.friendsofgo.tech/>.
 - [Simple Hexagonal Architecture PoC API](https://github.com/tomiok/patients-API) - PoC for a patients API using the hexagonal architecture pattern.
+- [Azure DDD boilerplate](https://github.com/joshpme/azure-go-ddd-boilerplate) - A boilerplate project for DDD in Azure using a custom handler and Cosmos DB for event sourcing
 
 ### .NET (C#/F#)
 - [Better code with DDD building blocks](https://github.com/asc-lab/better-code-with-ddd) - solution presents usage of DDD tactical patterns to achieve better readability and expressiveness of the code. Applying DDD patterns together with ubiquitous language closes the gap between language spoken by experts and the team and language used in the code.
