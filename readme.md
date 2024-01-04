@@ -389,6 +389,7 @@ The term was coined by Eric Evans in his book of the same title.
 - [Belgium](http://www.meetup.com/dddbelgium/)
 - [Berlin](http://www.meetup.com/Domain-Driven-Design-Berlin/)
 - [Cologne/Bonn](https://www.meetup.com/Domain-Driven-Design-Koln-Bonn/)
+- [Copenhagen](https://www.meetup.com/copenhagen-domain-driven-design-meetup/)
 - [Cracow](http://www.meetup.com/ddd-krk/)
 - [DDD Taiwan Community](https://www.facebook.com/groups/dddtaiwan/)
 - [Denver](https://www.meetup.com/ddd-denver/)
