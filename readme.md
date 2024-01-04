@@ -266,6 +266,7 @@ The term was coined by Eric Evans in his book of the same title.
 - [https://github.com/felipexw/clean-arch-ddd-intro](https://github.com/felipexw/clean-arch-ddd-intro) - Simple DDD + Clean Architecture using Micronaut.
 
 ### PHP
+- [CodefyPHP Framework](https://github.com/codefyphp/codefy) - A PHP framework for codefying and building complex applications using Domain-Driven Design, CQRS, and Event Sourcing.
 - [DDD CQRS Todo Sample](https://github.com/ferrius/ddd-cqrs-example) - DDD CQRS ADR hexagonal architecture implementation built with PHP 7 and Symfony 5.
 - [DDD Wish List](https://github.com/franzose/symfony-ddd-wishlist) - A sample application in PHP built with Symfony 3 and Vue.js.
 - [DDD Playground](https://github.com/jorge07/ddd-playground/) - Sample implementation in PHP.
