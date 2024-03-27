@@ -152,6 +152,7 @@ The term was coined by Eric Evans in his book of the same title.
 - [Domain-Driven Design in dynamic languages GitHub](https://github.com/valignatev/ddd-dynamic) - GitHub's profile of Domain-Driven Design in dynamic languages.
 - [Domain-Driven Design Crew GitHub](https://github.com/ddd-crew) - GitHub's profile of Domain-Driven Design Crew.
 - [Context Mapping by ddd-crew](https://github.com/ddd-crew/context-mapping) - 	Context Mapping Cheatsheet and Starter Kit by ddd-crew.
+- [DDD North America](https://dddna.net/) - Upcoming live training, events, and user groups across North America.
 
 ## Blogs
 
