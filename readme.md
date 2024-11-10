@@ -228,8 +228,10 @@ The term was coined by Eric Evans in his book of the same title.
 - [Fohjin](https://github.com/MarkNijhof/Fohjin) - Example project that accompanies Mark Nijhof's [CQRS](https://leanpub.com/cqrs) book.
 - [FsUno](https://github.com/thinkbeforecoding/FsUno) - Event sourcing implementation sample in F#.
 - [IDDD Samples in .NET](https://github.com/VaughnVernon/IDDD_Samples_NET) - These are the sample Bounded Contexts for C#.NET from the book "Implementing Domain-Driven Design" by Vaughn Vernon.
+- [LexiQuest-Modular-DDD](https://github.com/ryletko/LexiQuest-Modular-DDD) - Modular application built with Clean Architecture and DDD principles which is ready to quickly get splitted into microserves.
 - [Microsoft Patterns and Practices: CQRS Journey Sample Code](https://github.com/mspnp/cqrs-journey) - Sample code from CQRS Journey.
 - [Modular Monolith](https://github.com/kgrzybek/modular-monolith-with-ddd) - Full Modular Monolith .NET application with Domain-Driven Design approach.
+- [Modular.StarterTemplate](https://github.com/ryletko/Modular.StarterTemplate) - Starter template for a modular application in Clean Architecture DDD style with synchronous interaction between modules within single transaction. Perfect for ERP applications.
 - [NLayerAppV3](https://github.com/cesarcastrocuba/nlayerappv3) (.Net Core Preview 2) - a N-Layered Architecture Sample Project.
 - [Photostock CQRS-DDD Example](https://github.com/mr0zek/Photostock)
 - [Reactive Trader Cloud](https://github.com/AdaptiveConsulting/ReactiveTraderCloud) - Reactive Trader Cloud by Adaptive Consulting.
