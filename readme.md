@@ -316,6 +316,7 @@ The term was coined by Eric Evans in his book of the same title.
 - [Streamstone](https://github.com/yevhen/Streamstone) - Event Store for Azure Table Storage.
 - [Stringly.Typed](https://github.com/mission202/Stringly.Typed) - Making it easier to convert strings to/from .NET types.
 - [Xer.Cqrs](https://github.com/jeyjeyemem/Xer.Cqrs) - A simple library for creating applications based on the CQRS pattern with support for attribute routing and hosted handlers. Developed in C# targeting .NET Standard 1.0.
+- [Deveel Repository](https://github.com/deveel/deveel.repository) - A simple implementation of the Repository pattern for .NET, supporting MongoDB and Entity Framework, extending the model with further utilities (caching, paging, validation, etc.).
 
 ### Databases
 - [Event Store](https://geteventstore.com) - The open-source, functional database with Complex Event Processing in JavaScript.
