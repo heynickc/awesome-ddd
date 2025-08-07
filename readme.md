@@ -153,6 +153,7 @@ The term was coined by Eric Evans in his book of the same title.
 - [Domain-Driven Design Crew GitHub](https://github.com/ddd-crew) - GitHub's profile of Domain-Driven Design Crew.
 - [Context Mapping by ddd-crew](https://github.com/ddd-crew/context-mapping) - 	Context Mapping Cheatsheet and Starter Kit by ddd-crew.
 - [DDD North America](https://dddna.net/) - Upcoming live training, events, and user groups across North America.
+- [CQRS, Event Sourcing & co.](https://www.cqrs.com/) – Rethink How You Build Software.
 
 ## Blogs
 
@@ -324,6 +325,7 @@ The term was coined by Eric Evans in his book of the same title.
 - [Eventsourcing](https://eventsourcing.com) - Business event capture and querying framework.
 - [Message DB](https://github.com/message-db/message-db) - Microservice Native Event Store and Message Store for Postgres. A fully-featured event store and message store implemented in PostgreSQL for Pub/Sub, Event Sourcing, Messaging, and Evented Microservices applications.
 - [Serialized](https://serialized.io) - Complete platform for Event Sourcing & CQRS.
+- [EventSourcingDB](https://www.eventsourcingdb.io) – a database specifically built for event sourcing.
 
 ### Elixir
 - [Commanded](https://github.com/slashdotdash/commanded) - Command handling middleware for CQRS/ES applications, Pure Functional Data Structures for Aggregates and Process Managers, Point-to-Point message routing, and much more in Elixir (Erlang VM) - All in Actor concurrency model.
@@ -348,6 +350,7 @@ The term was coined by Eric Evans in his book of the same title.
 - [SeedStack's Business Framework](http://seedstack.org/docs/business/) - A set of building blocks that enable you to code business logic according to the Domain-Driven Design (DDD) approach.
 - [Spine Event Engine](https://spine.io/) - a CQRS/ES framework for building cloud applications. Defines Bounded Contexts with their Commands, Events, and Entity states in Protobuf. The backend logic is written in Java, on top of the Proto-generated code. Client code in Java, JS or Dart communicates with the backend via gRPC.
 - [Ahoo-Wang/Wow](https://github.com/Ahoo-Wang/Wow) - A Modern Reactive CQRS Architecture Microservice development framework based on DDD and EventSourcing.
+- [OpenCQRS](https://www.opencqrs.com/) – Java CQRS Framework for the EventSourcingDB.
 
 ### PHP
 - [Broadway](https://github.com/broadway/broadway) - Broadway is a (PHP) project providing infrastructure and testing helpers for creating CQRS and event sourced applications.
