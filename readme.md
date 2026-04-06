@@ -18,6 +18,7 @@ The term was coined by Eric Evans in his book of the same title.
 
 **[Event Storming](https://ziobrando.blogspot.com/2013/11/introducing-event-storming.html)** is a workshop format for quickly exploring complex business domains.
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for domain-driven design workflow orchestration, automated architecture management, and multi-agent coordination. MIT licensed.
 ## Contents
 
 - [Awesome Domain-Driven Design](https://github.com/heynickc/awesome-ddd/)
