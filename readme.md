@@ -168,6 +168,7 @@ The term was coined by Eric Evans in his book of the same title.
 - [Greg Young](https://goodenoughsoftware.net/) - Good Enough Software is By Definition Good Enough.
 - [InfoQ Blog](https://www.infoq.com/domaindrivendesign/) - Domain-Driven Design Content on InfoQ.
 - [Dan North](https://dannorth.net/blog/) - Inventor of Behavior-Driven Design.  Blogs and talks about Event Storming also.
+- [Michel Maier](https://php-freelance.com/blog/) - PHP/Symfony DDD series with full runnable code, built around one recurring hotel-booking example: aggregates, value objects, and domain events, plus where each pattern quietly breaks.
 - [Mike Mogosanu](http://blog.sapiensworks.com) - Maintainable code is a business advantage.  Creator of Domain Map: The Domain Modeling Tool - Easy And Powerful Domain Driven Design.
 - [Christian Posta](http://blog.christianposta.com) - Principal Middleware Architect @ Red Hat, open-source enthusiast, committer @ Apache, Cloud, Integration, Kubernetes, Docker, OpenShift, Fabric8.
 - [Vladimir Khorikov](http://enterprisecraftsmanship.com) - Pluralsight author.  Blogs about software development principles and best practices.
