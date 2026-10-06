@@ -298,6 +298,7 @@ The term was coined by Eric Evans in his book of the same title.
 - [AggregateSource](https://github.com/yreynhout/aggregateSource) - Lightweight infrastructure for doing eventsourcing using aggregates.
 - [Akka.NET](http://getakka.net/) - Akka.NET is a toolkit and runtime for building highly concurrent, distributed, and fault tolerant event-driven applications on .NET & Mono.
 - [ABP](https://abp.io) - Successor of ASP.NET Boilerplate - ASP.NET Core based application framework to create NLayered, Domain Driven Designed web applications with a microservice focused modular architecture
+- [Arc](https://github.com/Cratis/Arc) - Opinionated CQRS framework for ASP.NET Core with commands, queries, validation, authorization, and generated TypeScript proxies.
 - [ASP.NET Boilerplate](http://aspnetboilerplate.com/) - ASP.NET MVC, Web API and ASP.NET Core based application framework to create NLayered, Domain Driven Designed web Applications implementing best practices.
 - [ByValue](https://github.com/sm-g/ByValue) - This library helps to create ValueObjects (even with collection properties) with properly implemented equality behavior.
 - [Cedar.CommandHandling](https://github.com/damianh/Cedar.CommandHandling) - Middleware to handling commands over HTTP; typically used in CQRS applications.
@@ -329,6 +330,7 @@ The term was coined by Eric Evans in his book of the same title.
 - [Deveel Events](https:///events.deveel.org)- Provides an easy-to-use framework for the publication and subscription of events in .NET applications, supporting multiple messaging channels (eg. RabbitMQ, Azure Service Bus, etc.) and a variety of serialization formats (eg. JSON, XML, etc.).
 
 ### Databases
+- [Chronicle](https://github.com/Cratis/Chronicle) - Open-source event sourcing database and processing runtime, with clients for .NET, TypeScript, Kotlin/Java, and Elixir.
 - [Event Store](https://geteventstore.com) - The open-source, functional database with Complex Event Processing in JavaScript.
 - [Eventsourcing](https://eventsourcing.com) - Business event capture and querying framework.
 - [Message DB](https://github.com/message-db/message-db) - Microservice Native Event Store and Message Store for Postgres. A fully-featured event store and message store implemented in PostgreSQL for Pub/Sub, Event Sourcing, Messaging, and Evented Microservices applications.
