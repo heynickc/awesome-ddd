@@ -319,6 +319,7 @@ The term was coined by Eric Evans in his book of the same title.
 - [NServiceBus](https://github.com/Particular/NServiceBus) - Service bus for .NET.
 - [OpenCQRS](https://github.com/OpenCQRS/OpenCQRS) - OpenCQRS is a .NET framework for DDD, CQRS, and Event Sourcing. It can be used as a simple mediator or as a full Event Sourcing solution with Cosmos DB or Entity Framework Core as storage. It has built-in support for Service Bus, RabbitMQ, Redis Cache, Memory Cache, and FluentValidation among other features.
 - [Projac](https://github.com/yreynhout/Projac) - Projac is a set of projection libraries that allow you to write projections targetting various backing stores.
+- [Relevox](https://github.com/tunahanaliozturk/relevox) - Source-generated mediator for commands, queries and notifications with MediatR 12's handler signatures. Dispatch is generated at build time and it works with NativeAOT.
 - [shriek-fx](https://github.com/ElderJames/shriek-fx) - An simple,elegant and useful Domain-Driven Design and CQRS framework developed using .NET Core 2.0.
 - [SqlStreamStore](https://github.com/damianh/SqlStreamStore) - .NET Stream Store library targeting SQL based implementations.
 - [Stratara](https://github.com/yesbert/Stratara) - CQRS and Event Sourcing framework for .NET with tamper-evident streams and tenant-aware encryption, plus integrated mediator, outbox, sagas and projections.
