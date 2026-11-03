@@ -338,6 +338,7 @@ The term was coined by Eric Evans in his book of the same title.
 - [Commanded](https://github.com/slashdotdash/commanded) - Command handling middleware for CQRS/ES applications, Pure Functional Data Structures for Aggregates and Process Managers, Point-to-Point message routing, and much more in Elixir (Erlang VM) - All in Actor concurrency model.
 - [Event Bus](https://github.com/otobus/event_bus) - Traceable, extendable and minimalist event bus implementation for Elixir with built-in event store and event watcher based on ETS.
 - [eventstore](https://github.com/slashdotdash/eventstore) - CQRS event store using PostgreSQL for persistence.
+- [Vicander](https://github.com/blackuprise/vicander) - Domain-Driven Design framework with entities, aggregates, specifications, commands, queries, a transactional event outbox, projections and an MCP server.
 
 ### JavaScript / TypeScript
 
