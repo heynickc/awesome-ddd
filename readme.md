@@ -347,6 +347,7 @@ The term was coined by Eric Evans in his book of the same title.
 - [Booster](https://www.booster.cloud/) - A CQRS, DDD and event-sourcing open-source framework that leverages all the infrastructure and uses high-level abstractions and conventions. It help users build advanved even-driven applications letting them focus on business logic exclusively.  
 - [Node API Boilerplate](https://github.com/talyssonoc/node-api-boilerplate) - NodeJS web API boilerplate for DDD and Clean Architecture applications.
 - [nestjs-hexagonal](https://github.com/Softtor/nestjs-hexagonal) - Claude Code plugin for building NestJS bounded contexts with Hexagonal Architecture, DDD, CQRS, and event-driven patterns.
+- [Bounda](https://github.com/bounda-dev/bounda) - Event sourcing and CQRS for TypeScript without the ceremony.
 
 ### JVM
 - [akka-ddd](https://github.com/pawelkaczor/akka-ddd) - Reusable artifacts for building applications on top of the Akka platform following CQRS/DDDD-based approach.
