@@ -214,6 +214,7 @@ The term was coined by Eric Evans in his book of the same title.
 ### .NET (C#/F#)
 - [AppointMe](https://github.com/bravodev-hub/appointme) - A production-grade SaaS template on .NET 10, React, modular monolith, vertical slices, multitenancy, CQRS, DDD, event-driven architecture, durable messaging (outbox).
 - [Better code with DDD building blocks](https://github.com/asc-lab/better-code-with-ddd) - solution presents usage of DDD tactical patterns to achieve better readability and expressiveness of the code. Applying DDD patterns together with ubiquitous language closes the gap between language spoken by experts and the team and language used in the code.
+- [Clean Minimal API](https://github.com/LeanMeanCleanApps/CleanMinimalApi) - A `dotnet new` template for an ASP.NET Core Minimal API on .NET 10 with Clean Architecture, CQRS via Mediator, EF Core, Scalar, and OpenTelemetry.
 - [CQRS-DDD Example](https://github.com/dcomartin/DDD-CQRS-ES-Example) - Domain Driven Design, CQRS, & Event Sourcing Example using GetEventStore, CommonDomain, NServiceBus, Entity Framework, SQL Server, SignalR.
 - [Companion Code for Microsoft .NET Architecting Applications for the Enterprise](https://github.com/mastreeno/Merp) - An event based Micro ERP.
 - [ContosoUniversityCore](https://github.com/jbogard/ContosoUniversityCore) - ContosoUniversity on ASP.NET Core with Full .NET Framework.
