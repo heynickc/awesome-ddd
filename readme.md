@@ -430,6 +430,7 @@ The term was coined by Eric Evans in his book of the same title.
 
 - [Domain Storytelling](http://www.domainstorytelling.org/) - a knowledge-crunching technique that helps the people involved to familiarize themselves with the domain and work out a model that expresses their shared understanding. Available as a [print-out template](http://www.domainstorytelling.org/images/DST_Whiteboard-Kit.pdf), as well as open-source online tool, [WPS Modeler](https://www.wps.de/modeler) ([source](https://github.com/wps/domain-story-modeler)).
 - [DDD Toolbox](https://dddtoolbox.com) - Open-source collection of modern web-based tools including Domain Storytelling and Event Storming ([Source Code](https://github.com/poulainpi/ddd-toolbox)).
+- [easement](https://github.com/mokevnin/easement) - Architecture quality gate that keeps bounded contexts and layers apart in the code: declare components and their allowed dependencies, and the build fails when an import crosses a boundary. Works with Go, TypeScript, Python, Java, C#, Rust, PHP, Ruby and more.
 
 ## License
 
